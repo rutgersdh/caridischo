@@ -1,4 +1,6 @@
-source 'https://rubygems.org'
+# frozen_string_literal: true
 
-gem 'jekyll', '~> 3.8'
-gem 'wax_theme', path: 'wax_theme'
+
+source "https://rubygems.org"
+gemspec
+
