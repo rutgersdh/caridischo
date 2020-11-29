@@ -4,7 +4,8 @@ show_title: false
 
 ---
 
-__Wax__ is a [minimal computing](http://go-dh.github.io/mincomp/) project for producing digital exhibitions focused on impact, durability, ease, and flexibility. Our underlying technology is made to learn and to teach, and can produce beautifully rendered, high-quality image collections and scholarly exhibits. To start using Wax, please see our [documentation](https://minicomp.github.io/wiki/#/wax/) for installation instructions and more.
+This collaborative curation of digital resources concerning the Caribbean and its diasporas engages the community in compiling entries in an open, shared online dataset. Over the course of two months, contributors co-produced a spreadsheet that serves as the basis for this directory. In here you can browse, preview, and search that comprehensive, open-source bibliography, and learn more about the contours of our scholarly and cultural record online. We hope this will be the beginning of a tradition we can repeat in subsequent years to enrich this dynamic community resource.
+
 
 
 ### Browse the Collection
