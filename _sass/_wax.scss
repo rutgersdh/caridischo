@@ -293,14 +293,14 @@ item pages (iiif + metadata)
   align-items:     center;
   margin-left:     -5%;
 
-  .image-viewer {
-    position: relative;
+.image-viewer {
+    /* position: relative;
     text-align: center;
     height:   $viewer-height;
     max-height: 80vh;
     background-color: $neutral;
     width:    100%;
-    border:   1px solid $neutral;
+    border:   1px solid $neutral; */
     margin:   $more-margin 0 $more-margin 0;
 
     a {
@@ -313,7 +313,7 @@ item pages (iiif + metadata)
 
     .item-full-image {
       max-width: $max-width;
-      height: $viewer-height;
+    /*  height: $viewer-height; */
     }
   }
 
@@ -337,9 +337,11 @@ item pages (iiif + metadata)
 
   #prevlink {
     float:left;
+    padding-right:20px;
   }
-  .nextlink {
+  #nextlink {
     float: right;
+    padding-left:20px;
   }
 }
 
