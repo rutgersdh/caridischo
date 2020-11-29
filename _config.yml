@@ -18,11 +18,11 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Wax'
-description:      'Minimal Exhibitions with Jekyll'
+title:            'CariDiScho'
+description:      'Directory of Caribbean Digital Scholarship'
 url:              ''
-baseurl:          '/wax'
-copyright:        'Example copyright org, 2019'
+baseurl:          '/caridischo'
+copyright:        'CC-BY 4.0 International'
 logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------
@@ -58,13 +58,13 @@ webrick:
 collections:
   exhibits:
     output: true
-  qatar: # name of collection
+  caridischo: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'qatar_item' # the layout for the pages to use
+    layout: 'caridischo_item' # the layout for the pages to use
     metadata:
-      source: 'qatar.csv' # path to the metadata file within `_data`
+      source: 'caridischo.csv' # path to the metadata file within `_data`
     images:
-      source: 'raw_images/qatar' # path to the directory of images within `_data`
+      source: 'raw_images/caridischo' # path to the directory of images within `_data`
 
 # --------------------------------------------------------------
 # LUNR SEARCH INDEX SETTINGS
@@ -80,15 +80,11 @@ lunr_index:
   - file: 'assets/js/lunr-index.json' # file the index will get written to
     ui:   'assets/js/lunr-ui.js' # path to the search UI file
     collections:
-      qatar:
+      caridischo:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
-          - artist
-          - location
+          - blurb
           - label
-          - _date
-          - object_type
-          - current_location
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
