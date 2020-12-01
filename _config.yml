@@ -18,7 +18,7 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'CariDiScho'
+title:            'CariDiScho2020'
 description:      'Directory of Caribbean Digital Scholarship'
 url:              ''
 baseurl:          '/caridischo'
@@ -94,6 +94,8 @@ lunr_index:
 # submenu via `sub`.
 
 menu:
+  - label: 'A Reflection'
+    link: '/exhibits/a/'
   - label: 'Genres'
     sub:
       - label: 'Bibliographies'
@@ -112,14 +114,18 @@ menu:
         link: '/exhibits/b/'
       - label: 'Other Wonders'
         link: '/exhibits/b/'
-  - label: 'Reflection'
-    link: '/collection/'
+  - label: 'About'
+    sub:
+      - label: 'Sources'
+        link: '/reuse/'      
+      - label: 'Credits'
+        link: '/credits/'
+      - label: 'FAQ'
+        link: '/faq/'
   - label: 'Search'
     link: '/search/'
-  - label: 'Sources'
-    link: '/reuse/'
-  - label: 'Credits'
-    link: '/credits/'
+
+
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS

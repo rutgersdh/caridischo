@@ -70,6 +70,10 @@ header & nav bar
     background-color: $bg-color;
   }
 
+  .year {
+    color: $text-color; 
+  }
+
   .navbar-nav {
     .nav-item {
       z-index: 1000000;
@@ -450,7 +454,7 @@ search box
 
         &:hover {
           .overlay {
-            opacity: .7;
+            opacity: .9;
             cursor: pointer;
             .info {
               opacity: 1;
@@ -466,6 +470,7 @@ search box
         .info {
           text-decoration: none;
           font-family: $heading-font !important;
+          font-size: 1.2rem;
           color: $bg-color !important;
           background-color: transparent;
           opacity: 0;
@@ -474,7 +479,7 @@ search box
           -ms-transform: scale(0);
           transform: scale(0);
           font-weight: normal;
-          line-height: 1.2rem;
+          line-height: 1.4rem;
           overflow: hidden;
           display: table-cell;
           vertical-align: middle;
