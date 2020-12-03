@@ -13,7 +13,11 @@ $logo: url("{{ '/assets/logo.png' | absolute_url }}");
 $body-font:       'Open Sans', 'sans-serif';
 $heading-font:    'Open Sans', 'sans-serif';
 
-// $ text font size
+
+/* Image Size */
+
+$thumbnail-height: 140px;
+$thumbnail-width: 140px;
 
 /* colors */
 
@@ -36,12 +40,13 @@ $super-margin:    3.0rem;
 
 
 $viewer-height:   550px;
-$banner-height:   350px;
+$parallax-height: 350px;
 $footer-height:   250px;
+$banner-height:   300px;
 
 /*
 font & asset import
 */
 
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&font-display=auto');
 @import 'wax';
