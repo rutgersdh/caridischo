@@ -293,6 +293,13 @@ h3.item-label {
   text-align: center;
 }
 
+p.item-access {
+  text-align: center;
+  color: darkred;
+  font-weight: 800;
+  margin-top: 0;
+}
+
 .item-view {
   width:           110%;
   display:         inline-flex;

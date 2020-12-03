@@ -29,6 +29,10 @@ layout: default
 
 <h3 alt="{{ page.label }}" class='item-label'>{{ page.label }}</h3>
 
+    {% if page.open_access == 'FALSE' %}
+      <p class="item-access">[Access is limited, restricted or paywalled]</p>
+    {% endif %}
+
 {% comment %}
   The block below controls the item metadata table
 {% endcomment %}
@@ -41,3 +45,4 @@ layout: default
 {% if metadata.size %}
   {% include item_metadata.html meta=metadata %}
 {% endif %}
+
