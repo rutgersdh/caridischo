@@ -12,4 +12,4 @@ Welcome. On this website you can browse and search an open-source bibliography o
 
 ### Let's get right to it...
 
-{% include collection_gallery.html facet_by='type' collection='caridischo' %}
+{% include collection_gallery.html facet_by='caridischo_genre' collection='caridischo' %}

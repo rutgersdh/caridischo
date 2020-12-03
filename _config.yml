@@ -76,15 +76,20 @@ collections:
 # You can optionally generate a default UI by specifying a UI file
 # and running `$ bundle exec rake wax:lunr UI=true`.
 
-lunr_index:
-  - file: 'assets/js/lunr-index.json' # file the index will get written to
-    ui:   'assets/js/lunr-ui.js' # path to the search UI file
+search:
+  main:
+    index: '/search/index.json' # file the index will get written to
     collections:
       caridischo:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
-          - blurb
           - label
+          - blurb
+          - caridischo_genre
+          - claimed_genre
+          - language
+          - creators
+          - stewards
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
