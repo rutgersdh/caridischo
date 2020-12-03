@@ -63,7 +63,7 @@ header & nav bar
   }
 
   .navbar-brand:hover {
-    color: $accent-dark;
+    color: $accent-dark !important;
   }
 
   .navbar-toggler {
@@ -71,7 +71,7 @@ header & nav bar
   }
 
   .year {
-    color: $text-color; 
+    color: $text-color;
   }
 
   .navbar-nav {

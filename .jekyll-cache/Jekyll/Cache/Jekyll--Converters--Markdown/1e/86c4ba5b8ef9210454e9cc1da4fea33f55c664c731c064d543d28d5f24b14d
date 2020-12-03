@@ -1,0 +1,13 @@
+I"�<h3 id="the-caridischo-data-sheet">The CariDiScho Data Sheet</h3>
+
+<h3 id="the-caridischo2020-site">The CariDiScho2020 Site</h3>
+
+<h3 id="wax">Wax</h3>
+
+<p>Wax is a minimal computing (<a href="https://github.com/minicomp">minicomp</a>) project led by <a href="http://marii.info/">Marii Nyröp</a>. It relies on <a href="https://jekyllrb.com">Jekyll</a>, <a href="http://iiif.io">IIIF</a>, <a href="https://github.com/mejackreed/Leaflet-IIIF">Leaflet IIIF</a>, <a href="https://ruby.github.io/rake/">Rake</a>, <a href="http://elasticlunr.com/">ElasticLunr</a>, and <a href="https://github.com/cmoa/iiif_s3">IIIF_S3</a>, and builds upon work by <a href="https://github.com/pbinkley">Peter Binkley</a>, <a href="https://github.com/workergnome">David Newbury</a>, and <a href="https://github.com/elotroalex">Alex Gil</a>.</p>
+
+<p>For more about Wax’s specs, visit the <a href="https://minicomp.github.io/wiki/#/contributors?id=top">documentation</a>.</p>
+
+<h3 id="partners">Partners</h3>
+
+:ET

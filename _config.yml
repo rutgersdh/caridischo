@@ -19,7 +19,7 @@
 # ~> https://jekyllrb.com/docs/configuration/options/
 
 title:            'CariDiScho2020'
-description:      'Directory of Caribbean Digital Scholarship'
+description:      'A Directory of Caribbean Digital Scholarship'
 url:              ''
 baseurl:          '/caridischo'
 copyright:        'CC-BY 4.0 International'
