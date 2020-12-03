@@ -23,7 +23,7 @@ description:      'Directory of Caribbean Digital Scholarship'
 url:              ''
 baseurl:          '/caridischo'
 copyright:        'CC-BY 4.0 International'
-logo:             '/assets/logo.png'
+logo:             '/img/logo.png'
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS
@@ -140,7 +140,7 @@ footer:
     - label: 'Contact'
       link: 'https://gitter.im/minicomp/wax/'
   logos:
-    - img: '/assets/logo.png'
+    - img: '/img/logo.png'
     - img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2r40VYrf2Q5jkJiPGjPkl7xZoHJliwgVtHCLVXmAsRKw0ZudD'
       link: 'https://library.columbia.edu'
 
