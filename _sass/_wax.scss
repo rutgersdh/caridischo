@@ -288,6 +288,11 @@ content section
 item pages (iiif + metadata)
 
 */
+
+h3.item-label {
+  text-align: center;
+}
+
 .item-view {
   width:           110%;
   display:         inline-flex;
@@ -295,6 +300,7 @@ item pages (iiif + metadata)
   justify-content: space-between;
   align-items:     center;
   margin-left:     -5%;
+
 
 .image-viewer {
     /* position: relative;

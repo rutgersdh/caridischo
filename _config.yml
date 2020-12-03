@@ -99,8 +99,6 @@ search:
 # submenu via `sub`.
 
 menu:
-  - label: 'Reflection'
-    link: '/exhibits/a/'
   - label: 'Genres'
     sub:     
       - label: 'Collections & Curations'

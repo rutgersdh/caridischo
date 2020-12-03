@@ -1,5 +1,5 @@
 <div class='image-viewer'>
-  <a href='{{ include.full_image | absolute_url }}'>
+  <a href='{{ include.image_link }}' target="_blank">
     <img class='item-full-image' src='{{ include.full_image | absolute_url }}' alt='{{ page.label | slugify }}'/>
   </a>
 </div>

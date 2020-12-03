@@ -6,7 +6,7 @@ layout: default
   The block below controls the image viewer
 {% endcomment %}
 
-<h3 alt="{{ page.label }}" class='item-label'>{{ page.label }}</h3>
+
 
 {% if page.image_viewer %}
   {% assign viewer = page.image_viewer %}
@@ -20,12 +20,14 @@ layout: default
     {% if viewer == 'openseadragon' %}
       {% include osd_iiif_image_viewer.html manifest=page.manifest prevlink=prevlink nextlink=nextlink %}
     {% else %}
-       {% include simple_image_viewer.html full_image=page.full prevlink=prevlink nextlink=nextlink %}
+       {% include simple_image_viewer.html full_image=page.full image_link=page.link prevlink=prevlink nextlink=nextlink %}
     {% endif %}
     <span class='pagination-link' id='nextlink'></span>
   </div>
   {% unless layout.pagination == false %}{% include item_pagination.html %}{% endunless %}
 {% endif %}
+
+<h3 alt="{{ page.label }}" class='item-label'>{{ page.label }}</h3>
 
 {% comment %}
   The block below controls the item metadata table
