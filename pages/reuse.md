@@ -15,7 +15,7 @@ We are certainly not the first to compile a similar list. Here are some other us
 - This [Twitter thread](https://twitter.com/jmjafrx/status/1285202367605022720) by Jessica Marie Johnson
 - This crowdsourced "[List of DH Projects/Resources in Women’s and Gender History](https://docs.google.com/document/d/1u-5vO2oQDUcqcBkvK9BUlzOPYxIPFZxXgC1quUZv37c/edit)" curated by [Shelley Rose](https://twitter.com/shelleyerose)
 - This crowdsourced list of "[Latin American, Caribbean, \[and Latinx\] Digital Humanities Projects & Resources](https://docs.google.com/document/d/1JE5s77JETxUC6Qx_ZOd7aiRxfr2WBPNDweTemJGcYT8/edit#heading=h.epa9pw1nzaoj)"
-- This fantastic spreadsheet: "[Caribbean Digital : Media + Arts + Culture Projects](https://docs.google.com/spreadsheets/d/1_v7LmyvN7Xwgev0Fqhs22gzUxraB5sZoZ9amF8G2cxE/edit#gid=0)""
+- This fantastic spreadsheet: "[Caribbean Digital : Media + Arts + Culture Projects](https://docs.google.com/spreadsheets/d/1_v7LmyvN7Xwgev0Fqhs22gzUxraB5sZoZ9amF8G2cxE/edit#gid=0)" created by Annis Sands
 - "[Jamaica: Online sources for research in arts, history, and culture](https://crln.acrl.org/index.php/crlnews/article/view/9496/10780)"
 - [DLOC Search Results for Digital Humanities](https://dloc.com/results/?t=digital%20humanities)
 - "[Indotel Bibliotecas Virtuales](http://cti.indotel.gob.do/bibliotecas-virtuales/)"
