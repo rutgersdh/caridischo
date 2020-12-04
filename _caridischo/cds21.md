@@ -18,6 +18,6 @@ notes:
 order: '084'
 layout: caridischo_item
 collection: caridischo
-thumbnail: img/derivatives/simple/cds21/thumbnail.jpg
-full: img/derivatives/simple/cds21/fullwidth.jpg
+thumbnail: ''
+full: ''
 ---

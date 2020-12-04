@@ -10,6 +10,6 @@ We are now experiencing a new round of (re-)production of that past in the form 
 
 ---
 
-(click on a banner to learn more)
+In no particular order...
 
 {% include collection_gallery.html  collection='caridischo' facet_by='caridischo_genre' only='Collections & Curations' %}

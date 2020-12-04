@@ -9,9 +9,9 @@ status: Active
 language: es
 creators: Sandra Alvarez
 stewards: 
-blurb: |2-
-
-  The Directory of Afro-Cubans is a digital tool that collects files on Afro-descendant Cuban women, who have contributed significantly to national culture and history.
+blurb: "\r\nThe Directory of Afro-Cubans is a digital tool that collects files on
+  Afro-descendant Cuban women, who have contributed significantly to national culture
+  and history."
 added_by: 
 added_year: '2020'
 notes: 

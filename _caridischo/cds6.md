@@ -1,6 +1,6 @@
 ---
 pid: cds6
-caridischo_genre: Cabinet of Wonders
+caridischo_genre: Publications & Blogs
 label: "#ADPhD"
 claimed_genre: a curated blog
 link: https://africandiasporaphd.com/

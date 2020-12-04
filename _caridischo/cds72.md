@@ -9,7 +9,7 @@ status: Stable
 language: es, en
 creators: 
 stewards: UCLA library
-blurb: "\nThe UCLA Library has launched an innovative and forward-looking initiative
+blurb: "\r\nThe UCLA Library has launched an innovative and forward-looking initiative
   to capture ephemeral content with global partners. Through this project, UCLA Library
   endeavors to build international and global collections of knowledge and to preserve
   the historical and cultural record so that present and future generations can access

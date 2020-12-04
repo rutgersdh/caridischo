@@ -1,9 +1,7 @@
 ---
 pid: cds53
 caridischo_genre: Collections & Curations
-label: |-
-  English Slave Trade, 1791-1799
-  (House of Lords Survey)
+label: "English Slave Trade, 1791-1799\r\n(House of Lords Survey)"
 claimed_genre: online data archive
 link: https://www.disc.wisc.edu/archive/slave/slave05_index.html
 open_access: 'TRUE'

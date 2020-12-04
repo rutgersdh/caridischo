@@ -10,8 +10,8 @@ language: en, fr
 creators: Alex Gil
 stewards: 
 blurb: During the height of the fascist Vichy regime in Martinique, Aimé Césaire was
-  secretly at work on a forceful historical drama with the title &quot;...... Et les chiens
-  se taisaient&quot;—&quot;...... and the Dogs Were Silent.&quot; The plot of the drama follows
+  secretly at work on a forceful historical drama with the title \"...... Et les chiens
+  se taisaient\"—\"...... and the Dogs Were Silent.\" The plot of the drama follows
   the events of the Haitian Revolution and the tragic destiny of its leader, Toussaint
   L’Ouverture, determined to die betrayed in a frozen cell in the Jura mountains rather
   than compromise his truth.

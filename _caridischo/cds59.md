@@ -9,9 +9,9 @@ status: Stable
 language: en
 creators: 
 stewards: 
-blurb: |2
-
-  The Gay Freedom Movement in Jamaica (GFM) was formed in  September 1977 as the first movement in the English Speaking Caribbean to seek rights for LGBT (Lesbian, Gay, Bisexual and Transgendered) people
+blurb: "\r\nThe Gay Freedom Movement in Jamaica (GFM) was formed in  September 1977
+  as the first movement in the English Speaking Caribbean to seek rights for LGBT
+  (Lesbian, Gay, Bisexual and Transgendered) people\r\n"
 added_by: 
 added_year: '2020'
 notes: 
