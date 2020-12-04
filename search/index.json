@@ -96,7 +96,7 @@ layout: none
     "stewards": null,
     "blurb": "Mapping Slavery NL portrays historical places relating to slavery on the map of the Dutch colonial empire.",
     "collection": "caridischo",
-    "thumbnail": "",
+    "thumbnail": "img/derivatives/simple/cds118/thumbnail.jpg",
     "permalink": "/caridischo/cds118",
     "lunr_id": 6
   },
@@ -166,7 +166,7 @@ layout: none
     "stewards": null,
     "blurb": "An online video archive of performances by Carmelita Tropicana",
     "collection": "caridischo",
-    "thumbnail": "",
+    "thumbnail": "img/derivatives/simple/cds35/thumbnail.jpg",
     "permalink": "/caridischo/cds35",
     "lunr_id": 11
   },
@@ -208,7 +208,7 @@ layout: none
     "stewards": null,
     "blurb": "The Dominican Academy of History was created by Decree No. 186 of July 23, 1931. With the primary objective of knowing and studying the past in general, and mainly that of the Dominican nation.",
     "collection": "caridischo",
-    "thumbnail": "",
+    "thumbnail": "img/derivatives/simple/cds21/thumbnail.jpg",
     "permalink": "/caridischo/cds21",
     "lunr_id": 14
   },
@@ -376,7 +376,7 @@ layout: none
     "stewards": "John Hope Franklin Humanities Institute, Duke University",
     "blurb": "This timemap locates the main cholera outbreaks in the Caribbean in the 19th century, citing the journalistic sources at the time of each outbreak.",
     "collection": "caridischo",
-    "thumbnail": "",
+    "thumbnail": "img/derivatives/simple/cds20/thumbnail.jpg",
     "permalink": "/caridischo/cds20",
     "lunr_id": 26
   },
@@ -614,7 +614,7 @@ layout: none
     "stewards": "Small Axe",
     "blurb": "Our digital forum for innovative critical and creative explorations of Caribbean literature, broadly defined. Caribbean creative writing has always wrestled with the idea of an aesthetic form that engages regional and diasporic understandings of our changing realities. As a forum, sx salon aims to stimulate these sensibilities and preoccupations across different literary genres. Initiated in 2010, sx salon appears three times per year (February, June, and October). We publish literary discussions, interviews with writers, reviews of new publications (creative and scholarly), and poetry and prose by Caribbean writers.",
     "collection": "caridischo",
-    "thumbnail": "",
+    "thumbnail": "img/derivatives/simple/cds119/thumbnail.jpg",
     "permalink": "/caridischo/cds119",
     "lunr_id": 43
   },
@@ -684,7 +684,7 @@ layout: none
     "stewards": null,
     "blurb": "​The Caribbean Memory Project promotes public awareness and participation in the collection and circulation of everyday archives for cultural, social, and historical research.",
     "collection": "caridischo",
-    "thumbnail": "",
+    "thumbnail": "img/derivatives/simple/cds34/thumbnail.jpg",
     "permalink": "/caridischo/cds34",
     "lunr_id": 48
   },
@@ -712,7 +712,7 @@ layout: none
     "stewards": null,
     "blurb": "Welcome to the Santería music database, a collection of information about afro-cuban folkloric music. The main purpose of this database is to cross-reference the different resources and recordings to the batá drum rhythms (\\\"toques\\\") and chants (\\\"cantos\\\") of the Santería religion.",
     "collection": "caridischo",
-    "thumbnail": "",
+    "thumbnail": "img/derivatives/simple/cds126/thumbnail.jpg",
     "permalink": "/caridischo/cds126",
     "lunr_id": 50
   },
@@ -810,7 +810,7 @@ layout: none
     "stewards": "Duke University (Forum for Scholars and Publics)",
     "blurb": "Pilot website for the Radio Haiti project, created by the Forum for Scholars and Publics before the bulk of the collection was digitized",
     "collection": "caridischo",
-    "thumbnail": "",
+    "thumbnail": "img/derivatives/simple/cds136/thumbnail.jpg",
     "permalink": "/caridischo/cds136",
     "lunr_id": 57
   },
@@ -852,7 +852,7 @@ layout: none
     "stewards": null,
     "blurb": "The Slave Societies Digital Archive (formerly Ecclesiastical and Secular Sources for Slave Societies), directed by Jane Landers and hosted at Vanderbilt University, preserves endangered ecclesiastical and secular documents related to Africans and African-descended peoples in slave societies. SSDA holdings include more than 700,000 digital images drawn close to 2,000 unique volumes dating from the sixteenth through twentieth centuries that document the lives of an estimated four to six million individuals. This collection contains the most extensive serial records for the history of Africans in the Atlantic World, and also includes valuable information about the indigenous, European, and Asian populations who lived alongside them.",
     "collection": "caridischo",
-    "thumbnail": "",
+    "thumbnail": "img/derivatives/simple/cds122/thumbnail.jpg",
     "permalink": "/caridischo/cds122",
     "lunr_id": 60
   },
@@ -872,7 +872,7 @@ layout: none
   },
   {
     "pid": "cds1",
-    "caridischo_genre": "Reference",
+    "caridischo_genre": "Publications & Blogs",
     "label": "archipelagos journal",
     "claimed_genre": "an academic journal",
     "language": "en, fr, es",
@@ -908,7 +908,7 @@ layout: none
     "stewards": "Digital Library of the Caribbean",
     "blurb": "Digitized archives from the restoration works of the \\\"Nidhe Israel\\\" Synagogue in Bridgetown, Barbados.",
     "collection": "caridischo",
-    "thumbnail": "",
+    "thumbnail": "img/derivatives/simple/cds132/thumbnail.jpg",
     "permalink": "/caridischo/cds132",
     "lunr_id": 64
   },
@@ -1000,7 +1000,7 @@ layout: none
     "pid": "cds123",
     "caridischo_genre": "Maps & Visualizations",
     "label": "Mapping the Haitian Revolution",
-    "claimed_genre": "maps",
+    "claimed_genre": "an interactive map and timeline",
     "language": "en",
     "creators": "Stephanie Curci, Christopher Jones, Axis Maps",
     "stewards": "Stephanie Curci, Christopher Jones",
@@ -1048,7 +1048,7 @@ layout: none
     "stewards": "The HeritEdge Collection",
     "blurb": "The Barbados Mercury and Bridgetown Gazette ​was ​printed​ ​bi-weekly​ ​in​ ​Barbados. The Department of​ ​Archives holds ​the​ ​most​ ​complete​ ​set​ ​of​ ​volumes​ ​of​ ​​The Gazette (20 volumes covering 28 years between 1783-1848).",
     "collection": "caridischo",
-    "thumbnail": "",
+    "thumbnail": "img/derivatives/simple/cds133/thumbnail.jpg",
     "permalink": "/caridischo/cds133",
     "lunr_id": 74
   },
@@ -1104,7 +1104,7 @@ layout: none
     "stewards": null,
     "blurb": "This animated thematic map narrates the spatial history of the greatest slave insurrection in the eighteenth century British Empire. To teachers and researchers, the presentation offers a carefully curated archive of key documentary evidence.  To all viewers, the map suggests an argument about the strategies of the rebels and the tactics of counterinsurgency, about the importance of the landscape to the course of the uprising, and about the difficulty of representing such events cartographically with available sources.",
     "collection": "caridischo",
-    "thumbnail": "",
+    "thumbnail": "img/derivatives/simple/cds127/thumbnail.jpg",
     "permalink": "/caridischo/cds127",
     "lunr_id": 78
   },
@@ -1356,7 +1356,7 @@ layout: none
     "stewards": "Duke University (Rubenstein Library)",
     "blurb": "Complete audio archive of Haiti's first and most prominent independent radio station, Radio Haïti-Inter (Jean L. Dominique and Michèle Montas). Funded by the National Endowment for the Humanities and the Council on Library and Information Resources",
     "collection": "caridischo",
-    "thumbnail": "",
+    "thumbnail": "img/derivatives/simple/cds130/thumbnail.jpg",
     "permalink": "/caridischo/cds130",
     "lunr_id": 96
   },
@@ -1398,7 +1398,7 @@ layout: none
     "stewards": "Stephanie Curci",
     "blurb": "A trilingual Haitian historical records site. Visual preservation of Haïtian historical, natural, and cultural sites. Offering a visual road map to some of Haiti's best features--for research and more. Where possible, links are provided to external documentation (such as ISPAN).",
     "collection": "caridischo",
-    "thumbnail": "",
+    "thumbnail": "img/derivatives/simple/cds124/thumbnail.jpg",
     "permalink": "/caridischo/cds124",
     "lunr_id": 99
   },
@@ -1552,7 +1552,7 @@ layout: none
     "stewards": null,
     "blurb": "Online Index and Lab for the Revue de la Société Haïtienne d’Histoire, de Géographie et de Géologie.",
     "collection": "caridischo",
-    "thumbnail": "",
+    "thumbnail": "img/derivatives/simple/cds125/thumbnail.jpg",
     "permalink": "/caridischo/cds125",
     "lunr_id": 110
   },
@@ -1846,7 +1846,7 @@ layout: none
     "stewards": null,
     "blurb": "News and commentary on Caribbean culture, literature, and the arts",
     "collection": "caridischo",
-    "thumbnail": "",
+    "thumbnail": "img/derivatives/simple/cds131/thumbnail.jpg",
     "permalink": "/caridischo/cds131",
     "lunr_id": 131
   },
@@ -2084,7 +2084,7 @@ layout: none
     "stewards": "UWI St. Augustine",
     "blurb": "\r\nThe Caribbean Review of Gender Studies stimulates cross-cultural exchanges among Caribbean peoples within the region, those in the Caribbean Diaspora, as well as those who bring a comparative perspective to bear on Caribbean gender and feminist concerns. The journal is established around an identity and voice emanating from Caribbean realities of power in gender, sexualities, ethnicity and class relations, and their effects. The journal welcomes critical disciplinary or multi-disciplinary scholarly articles and creative contributions that broaden networks and enhance the global understanding and reach of Caribbean feminist theory and praxis.\r\n",
     "collection": "caridischo",
-    "thumbnail": "",
+    "thumbnail": "img/derivatives/simple/cds37/thumbnail.jpg",
     "permalink": "/caridischo/cds37",
     "lunr_id": 148
   },
@@ -2210,7 +2210,7 @@ layout: none
     "stewards": "University of Edinburgh",
     "blurb": "This website presents information about selected trials for religious crimes held in the Caribbean between the 1760s and the 1980s.",
     "collection": "caridischo",
-    "thumbnail": "",
+    "thumbnail": "img/derivatives/simple/cds36/thumbnail.jpg",
     "permalink": "/caridischo/cds36",
     "lunr_id": 157
   },
@@ -2266,7 +2266,7 @@ layout: none
     "stewards": null,
     "blurb": "Caribbean Literary Heritage is a project funded by the Leverhulme Trust that promotes literary and archival preservation in the Caribbean and the diaspora, as well as bridging connections between the literary past and present with an interest in exploring the new challenges and possibilities of born digital initiatives.",
     "collection": "caridischo",
-    "thumbnail": "",
+    "thumbnail": "img/derivatives/simple/cds22/thumbnail.jpg",
     "permalink": "/caridischo/cds22",
     "lunr_id": 161
   },
