@@ -24,11 +24,11 @@ Do not despair, though. We are keeping [our original data sheet on Google docs](
 
 ### I found a serious error in your data. Who do I talk to?
 
-If the error is truly serious, talk to Alex Gil. He takes full responsibility for the contents of this site and its mistakes and misfortunes.
+If the error is truly serious, talk to Alex Gil. He takes full responsibility for the contents of this site and its mistakes and misfortunes. Examples of serious errors include misattributions in the "creator" or in the "open access" category. 
 
 ### What goes good with Dominican rum?
 
-Ice. Maybe un poco de limón.
+Ice. Maybe un poquito de limón.
 
 
 
