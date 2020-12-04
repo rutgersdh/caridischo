@@ -13,6 +13,7 @@ blurb: The “In All My Dreams” book club, held from October 2019 to February 
   an informal gathering of readers interested in discovering or exploring Haitian
   culture through the prism of one of Haiti’s most important works of literary fiction.
 added_by: Kaiama L. Glover
+twitter: "@inthewhirld"
 added_year: '2020'
 notes: "\U0001F60D"
 order: '149'

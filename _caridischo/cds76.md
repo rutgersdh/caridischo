@@ -11,6 +11,7 @@ creators: Amalia S. Levi
 stewards: Amalia S. Levi
 blurb: 'Bibliography (under construction) about the Jewish community of Barbados. '
 added_by: Amalia S. Levi
+twitter: "@amaliasl"
 added_year: '2020'
 notes: 
 order: '143'

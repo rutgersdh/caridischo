@@ -11,6 +11,7 @@ creators: Amalia S. Levi; Modern Endangered Archives Program
 stewards: Modern Endangered Archives Program
 blurb: Digitized ephemera material from the Barbados Archives.
 added_by: Amalia S. Levi
+twitter: "@amaliasl"
 added_year: '2020'
 notes: 
 order: '090'

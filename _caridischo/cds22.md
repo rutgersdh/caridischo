@@ -14,11 +14,12 @@ blurb: Caribbean Literary Heritage is a project funded by the Leverhulme Trust t
   well as bridging connections between the literary past and present with an interest
   in exploring the new challenges and possibilities of born digital initiatives.
 added_by: Nadine Zubair
+twitter: "@NadineZubair"
 added_year: '2020'
 notes: 
 order: '085'
 layout: caridischo_item
 collection: caridischo
-thumbnail: ''
-full: ''
+thumbnail: img/derivatives/simple/cds22/thumbnail.jpg
+full: img/derivatives/simple/cds22/fullwidth.jpg
 ---

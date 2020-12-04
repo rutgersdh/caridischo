@@ -16,6 +16,7 @@ blurb: During the height of the fascist Vichy regime in Martinique, Aimé Césai
   L’Ouverture, determined to die betrayed in a frozen cell in the Jura mountains rather
   than compromise his truth.
 added_by: Alex Gil
+twitter: "@elotroalex"
 added_year: '2020'
 notes: 
 order: '082'

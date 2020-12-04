@@ -21,6 +21,7 @@ blurb: 'In the Same Boats is a work of multimodal scholarship designed to encour
   and on the same transatlantic crossings––literally and metaphorically in the same
   boats––as they circulate throughout the Americas, Africa, Europe, and beyond.'
 added_by: Alex Gil
+twitter: "@elotroalex"
 added_year: '2020'
 notes: 
 order: '130'

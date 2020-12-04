@@ -15,6 +15,7 @@ blurb: The word “revolution” is a human tool. At any point in time, its mean
   changes in history, encouraging the comparative study of revolutions, and exploring
   the hopes imbued in the term “revolution.”
 added_by: 
+twitter: 
 added_year: '2020'
 notes: 
 order: '081'

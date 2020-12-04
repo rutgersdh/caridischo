@@ -13,6 +13,7 @@ blurb: "\r\nThe Directory of Afro-Cubans is a digital tool that collects files o
   Afro-descendant Cuban women, who have contributed significantly to national culture
   and history."
 added_by: 
+twitter: 
 added_year: '2020'
 notes: 
 order: '117'

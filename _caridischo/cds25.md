@@ -19,6 +19,7 @@ blurb: 'El Archivo Mesoamericano representa un archivo digital que consiste de g
   (CIESAS) in Mexico, the Institute of History of Nicaragua and Central America (IHNCA)
   in Nicaragua, and the Museum of the Word and the Image (MUPI) in El Salvador. '
 added_by: Mary Borgo Ton
+twitter: "@maryeborgo"
 added_year: '2020'
 notes: 
 order: '087'

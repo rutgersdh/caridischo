@@ -12,6 +12,7 @@ stewards: Humanities Commons
 blurb: Gephi visualization of a network of hyperlinks between websites related to
   Afro-Cuba containing 1486 nodes and 1703 edges, with size indicating degree
 added_by: Roopika Risam
+twitter: "@roopikarisam"
 added_year: '2020'
 notes: 
 order: '104'

@@ -16,6 +16,7 @@ blurb: First Blacks in the Americas is a fully bilingual (English and Spanish) d
   Spanish One’) by the Spanish colonizers when they arrived in 1492 and throughout
   the sixteenth-century.
 added_by: Alex Gil
+twitter: "@elotroalex"
 added_year: '2020'
 notes: 
 order: '140'

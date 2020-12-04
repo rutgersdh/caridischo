@@ -13,6 +13,7 @@ blurb: The website is designed to provide online access to both the French origi
   and the English translations of key primary sources dealing with the grain shortage
   faced by the colony of Saint-Domingue in 1789
 added_by: Kaiama L. Glover
+twitter: "@inthewhirld"
 added_year: '2020'
 notes: 
 order: '034'

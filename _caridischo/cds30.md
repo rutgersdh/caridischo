@@ -14,6 +14,7 @@ blurb: This a digital space that explores the cultural meaning of the hurricane 
   María in 2017 and gathered at the University of Virginia on September 2019 to present
   and discuss their work.
 added_by: Winnie Pérez Martínez
+twitter: "@_wepm"
 added_year: '2020'
 notes: 
 order: '093'

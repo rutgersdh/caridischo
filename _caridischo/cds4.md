@@ -11,6 +11,7 @@ creators: Early Caribbean Digital Archive; Amalia S. Levi
 stewards: Early Caribbean Digital Archive
 blurb: Companion site for public workshops around the \"Barbados Runaways\" collection.
 added_by: Amalia S. Levi
+twitter: "@amaliasl"
 added_year: '2020'
 notes: 
 order: '103'

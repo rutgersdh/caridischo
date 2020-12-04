@@ -16,6 +16,7 @@ blurb: Create Caribbean Inc. aims to develop the creative capacity of youth in D
   outreach and community participation in the preservation and dissemination of Caribbean
   history, heritage and other research areas of significance.
 added_by: Alex Gil
+twitter: "@elotroalex"
 added_year: '2020'
 notes: 
 order: '113'

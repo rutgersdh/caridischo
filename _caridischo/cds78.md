@@ -13,6 +13,7 @@ blurb: A bilingual environmental digital humanities project that looks at gender
   ecology in the Francophone Caribbean though the themes of sugar, bananas, beaches,
   and gardens.
 added_by: 
+twitter: 
 added_year: '2020'
 notes: 
 order: '145'

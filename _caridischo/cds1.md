@@ -18,6 +18,7 @@ blurb: 'archipelagos is a born-digital, peer-reviewed publication devoted to cre
   with three distinct dimensions of critical production: scholarly essays; digital
   scholarship projects; and digital project reviews.'
 added_by: Alex Gil
+twitter: "@elotroalex"
 added_year: '2020'
 notes: 
 order: '000'

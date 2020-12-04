@@ -12,6 +12,7 @@ stewards: University of Wisconsin - Madison Libraries
 blurb: This site provides access to the raw data and documentation which contains
   information on English slave trade from 1791-1799.
 added_by: Roopika Risam
+twitter: "@roopikarisam"
 added_year: '2020'
 notes: 
 order: '118'

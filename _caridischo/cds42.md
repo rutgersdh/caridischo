@@ -16,6 +16,7 @@ blurb: Supported by the Andrew W. Mellon Foundation, the Archivo de Respuestas E
   between the University of Puerto Rico-Río Piedras, the University of Puerto Rico-Mayagüez,
   Michigan State University, and the Digital Library of the Caribbean.
 added_by: Christina Boyles
+twitter: "@clboyles"
 added_year: '2020'
 notes: 
 order: '106'

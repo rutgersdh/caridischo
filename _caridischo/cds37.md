@@ -18,11 +18,12 @@ blurb: "\r\nThe Caribbean Review of Gender Studies stimulates cross-cultural exc
   scholarly articles and creative contributions that broaden networks and enhance
   the global understanding and reach of Caribbean feminist theory and praxis.\r\n"
 added_by: Alex Gil
+twitter: "@elotroalex"
 added_year: '2020'
 notes: 
 order: '100'
 layout: caridischo_item
 collection: caridischo
-thumbnail: ''
-full: ''
+thumbnail: img/derivatives/simple/cds37/thumbnail.jpg
+full: img/derivatives/simple/cds37/fullwidth.jpg
 ---

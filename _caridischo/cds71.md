@@ -11,6 +11,7 @@ creators: Marlene L. Daut
 stewards: 
 blurb: An online bibliography of Haitian fiction from 1787 to 1899.
 added_by: Kaiama L. Glover
+twitter: "@inthewhirld"
 added_year: '2020'
 notes: 
 order: '138'

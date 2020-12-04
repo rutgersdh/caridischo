@@ -15,6 +15,7 @@ blurb: This collection focusing on Caribbean Sexualitities and Social Justice ac
   content already published in print but published online for the first time, alongside
   new materials and resources.
 added_by: Kaneesha Parsard
+twitter: "@kaneeshaparsard"
 added_year: '2020'
 notes: 
 order: '160'

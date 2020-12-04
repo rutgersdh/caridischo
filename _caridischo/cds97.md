@@ -13,6 +13,7 @@ blurb: 'After 1807, over 250,000 people were involved in an international effort
   abolish the Atlantic and Indian Ocean slave trades. This resource is dedicated to
   their memories. '
 added_by: Roopika Risam
+twitter: "@roopikarisam"
 added_year: '2020'
 notes: 
 order: '165'

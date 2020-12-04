@@ -15,6 +15,7 @@ blurb: The La Gazette Royale project, which I first began to develop in 2014, is
   well as the six different versions of the Almanach Royal d’Hayti issued by the royal
   press.
 added_by: Kaiama L. Glover
+twitter: "@inthewhirld"
 added_year: '2020'
 notes: 
 order: '166'

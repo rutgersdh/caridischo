@@ -13,6 +13,7 @@ blurb: The George Padmore Institute is an archive, educational resource and rese
   centre housing materials relating to the black community of Caribbean, African and
   Asian descent in Britain and continental Europe.
 added_by: 
+twitter: 
 added_year: '2020'
 notes: 
 order: '144'

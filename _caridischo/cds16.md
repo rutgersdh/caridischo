@@ -12,6 +12,7 @@ stewards:
 blurb: Bibliography developed during the public workshops for the \"Barbados Runaways\"
   collection.
 added_by: Amalia S. Levi
+twitter: "@amaliasl"
 added_year: '2020'
 notes: 
 order: '067'

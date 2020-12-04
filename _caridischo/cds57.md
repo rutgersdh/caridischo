@@ -17,6 +17,7 @@ blurb: Based on a common need for a robust infrastructure to manage their digita
   have partnered with Born-Digital for development, design, and project management
   support.
 added_by: 'Arturo Victoriano '
+twitter: "@ArturoVictoria4"
 added_year: '2020'
 notes: 
 order: '122'

@@ -13,6 +13,7 @@ blurb: Île en île is an open access, non-profit website intended to provide a 
   documentation of French-speaking islands and to promote informative and non-commercial
   resources on the island world.
 added_by: Alex Gil
+twitter: "@elotroalex"
 added_year: '2020'
 notes: 
 order: '132'

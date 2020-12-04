@@ -12,6 +12,7 @@ stewards: Nationaal Archief Curaçao
 blurb: Experience the modern & ancient historic past events, people and governments
   of Curaçao
 added_by: 
+twitter: 
 added_year: '2020'
 notes: 
 order: '134'

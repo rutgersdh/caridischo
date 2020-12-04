@@ -12,11 +12,12 @@ stewards: University of Edinburgh
 blurb: This website presents information about selected trials for religious crimes
   held in the Caribbean between the 1760s and the 1980s.
 added_by: Roopika Risam
+twitter: "@roopikarisam"
 added_year: '2020'
 notes: 
 order: '099'
 layout: caridischo_item
 collection: caridischo
-thumbnail: ''
-full: ''
+thumbnail: img/derivatives/simple/cds36/thumbnail.jpg
+full: img/derivatives/simple/cds36/fullwidth.jpg
 ---

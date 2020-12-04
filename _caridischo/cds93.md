@@ -12,6 +12,7 @@ stewards: 'Create Caribbean '
 blurb: Maroon Country is a multimedia educational resource focused on the history
   of maroons, the independent and resistant black communities of the slavery-era Caribbean.
 added_by: Schuyler Esprit
+twitter: "@schuyleresprit"
 added_year: '2020'
 notes: 
 order: '161'

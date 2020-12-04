@@ -12,6 +12,7 @@ stewards:
 blurb: The Dark Laboratory is an engine for collaboration, design, and study of Black
   and Indigenous ecologies through creative technology.
 added_by: Tao Leigh Goffe
+twitter: "@taoleighgoffe"
 added_year: '2020'
 notes: 
 order: '102'

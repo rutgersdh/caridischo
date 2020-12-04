@@ -12,6 +12,7 @@ stewards: UFL/FIU
 blurb: The Digital Library of the Caribbean (dLOC) is a cooperative digital library
   for resources from and about the Caribbean and circum-Caribbean.
 added_by: Alex Gil
+twitter: "@elotroalex"
 added_year: '2020'
 notes: 
 order: '094'

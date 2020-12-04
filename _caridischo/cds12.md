@@ -12,6 +12,7 @@ stewards: San Diego State University
 blurb: This website is designed to give personal and scholarly perspectives on a major
   event in the history of religion in America.
 added_by: Roopika Risam
+twitter: "@roopikarisam"
 added_year: '2020'
 notes: 
 order: '023'

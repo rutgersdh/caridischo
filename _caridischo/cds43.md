@@ -19,6 +19,7 @@ blurb: Funded by the Collections as Data program with support from the Mellon Fo
   and research, we will demonstrate the potential of newspaper data by creating a
   pilot thematic tool kit focused on hurricanes and tropical cyclones.
 added_by: Perry Collins
+twitter: "@perrycollins"
 added_year: '2020'
 notes: 
 order: '107'

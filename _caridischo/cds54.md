@@ -15,6 +15,7 @@ blurb: The first edition of The Sugar-Cane, a 168-page poem about eighteenth-cen
   version of the poem and a page-by-page reading experience, as well as excerpts that
   highlight counter-plantation themes within the poem.
 added_by: Kaiama L. Glover
+twitter: "@inthewhirld"
 added_year: '2020'
 notes: 
 order: '119'

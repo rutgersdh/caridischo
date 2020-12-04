@@ -14,6 +14,7 @@ blurb: Our rare books, maps and newspapers tell the story of the founding of the
   through the Haitian Revolution (the world's only successful slave revolution) and
   the founding of Haiti in its place.
 added_by: Roopika Risam
+twitter: "@roopikarisam"
 added_year: '2020'
 notes: 
 order: '151'

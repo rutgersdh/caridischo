@@ -15,6 +15,7 @@ blurb: "The América Negra Magazine was a biannual publication of the Human Expe
   communities of the American continent and their relationships with populations from
   other parts of the world.\r\n"
 added_by: 
+twitter: 
 added_year: '2020'
 notes: 
 order: '159'

@@ -12,6 +12,7 @@ stewards: Columbia University Center for the Study of Human Rights
 blurb: What can we learn from GTMO’s past? What should we remember about what’s happening
   now? Hear from those who were there.
 added_by: Roopika Risam
+twitter: "@roopikarisam"
 added_year: '2020'
 notes: 
 order: '152'

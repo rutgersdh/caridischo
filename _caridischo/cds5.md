@@ -14,6 +14,7 @@ blurb: This archive was established by the UWI Libraries to support the dissemin
   of the University. Here we aim to collect together in one place the research and
   scholarship of members of the UWI community.
 added_by: Roopika Risam
+twitter: "@roopikarisam"
 added_year: '2020'
 notes: Herein lie subcollections
 order: '114'

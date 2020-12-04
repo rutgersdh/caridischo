@@ -15,6 +15,7 @@ blurb: Jennifer Caroccio is a doctoral student in the American Studies Program a
   and Critical Race theories, she examines issues of racial identity and misogyny
   in Caribbean and Caribbean-American texts.
 added_by: Roopika Risam
+twitter: "@roopikarisam"
 added_year: '2020'
 notes: 
 order: '088'

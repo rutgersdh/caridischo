@@ -26,6 +26,7 @@ blurb: "The Puerto Rico Architectural Historic Archive will be an online digital
   styles, dwelling systems, and the working spaces of/for the historically\r\nmarginalized
   and silenced social groups."
 added_by: Joshua Ortiz Baco
+twitter: "@jgob"
 added_year: '2020'
 notes: 
 order: '167'

@@ -11,6 +11,7 @@ creators: Steve Hyland, Jr.
 stewards: 
 blurb: Reflections on the political messaging of the revolution to Cubans.
 added_by: Roopika Risam
+twitter: "@roopikarisam"
 added_year: '2020'
 notes: 
 order: '045'

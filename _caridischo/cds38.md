@@ -19,6 +19,7 @@ blurb: The Eduardo León Jimenes Cultural Center (León Center) is located in th
   , Caribbean patio and gardens, all of which comply with the international standards
   established by ICOM / UNESCO for their design and operation.
 added_by: 
+twitter: 
 added_year: '2020'
 notes: 
 order: '101'

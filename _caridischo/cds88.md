@@ -22,6 +22,7 @@ blurb: Developed by historian Laurent Dubois, PhD candidate in English Mary Cato
   music they had learned in their homelands. They may also have been in the process
   of creating entirely new performance traditions.
 added_by: Alex Gil
+twitter: "@elotroalex"
 added_year: '2020'
 notes: Can't copy text from the original site.
 order: '155'

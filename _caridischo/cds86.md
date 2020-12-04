@@ -15,6 +15,7 @@ blurb: An Island Luminous is a site to help readers learn about Haiti’s histor
   and libraries in Haiti and the United States with commentary by over one hundred
   (100) authors from universities around the world.
 added_by: Alex Gil
+twitter: "@elotroalex"
 added_year: '2020'
 notes: 
 order: '153'

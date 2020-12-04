@@ -14,6 +14,7 @@ blurb: 'This project is the work of students of The University of The Bahamas-No
   and aims to document the history, practices and participants of Junkanoo on the
   island of Grand Bahama. '
 added_by: Roopika Risam
+twitter: "@roopikarisam"
 added_year: '2020'
 notes: 
 order: '163'

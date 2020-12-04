@@ -11,6 +11,7 @@ creators: Biblioteca Nacional Aruba
 stewards: Internet Archive
 blurb: Digital Collection of the Aruba National Library.
 added_by: Alex Gil
+twitter: "@elotroalex"
 added_year: '2020'
 notes: 
 order: '080'

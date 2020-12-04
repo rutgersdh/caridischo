@@ -14,6 +14,7 @@ blurb: The Early Caribbean Digital Archive is an open access collection of pre-t
   natural histories, and diaries that have not been brought together before as a single
   collection focused on the Caribbean.
 added_by: Kaiama L. Glover
+twitter: "@inthewhirld"
 added_year: '2020'
 notes: 
 order: '131'

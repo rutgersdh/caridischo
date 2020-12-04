@@ -13,6 +13,7 @@ blurb: ".break .dance is a time-based web experience opened in response to a pro
   for a SX Archipelagos issue, launched by Alex Gil and Kaiama Glover, and guest-edited
   by Jessica Marie Johnson"
 added_by: Schuyler Esprit
+twitter: "@schuyleresprit"
 added_year: '2020'
 notes: 
 order: '001'

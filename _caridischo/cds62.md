@@ -12,6 +12,7 @@ stewards: Create Caribbean
 blurb: The Road to Independence is a multimedia web resource to celebrate Dominica’s
   2015 History Week.
 added_by: Schuyler Esprit
+twitter: "@schuyleresprit"
 added_year: '2020'
 notes: 
 order: '128'

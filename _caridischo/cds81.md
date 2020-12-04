@@ -17,6 +17,7 @@ blurb: '\"In Whispers and Furtive Glances: Assessing Cuban Digital Literacies an
   been posed by surveillance, lack of material access, and severe network and hardware
   limitations.'
 added_by: Roopika Risam
+twitter: "@roopikarisam"
 added_year: '2020'
 notes: 
 order: '148'

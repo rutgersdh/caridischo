@@ -14,6 +14,7 @@ blurb: 'Caribbean Diasporas: Panorama of Carnival Practices is a Digital Humanit
   and secondary sources, as well as artifacts, all related to carnival practices and
   mobility in the Caribbean.'
 added_by: Roopika Risam
+twitter: "@roopikarisam"
 added_year: '2020'
 notes: 
 order: '121'

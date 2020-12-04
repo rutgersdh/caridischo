@@ -13,6 +13,7 @@ blurb: This is an open-source edition of Claude McKay's 1922 collection of poems
   Shadows. It seeks to aggregate the most comprehensive set of documents related to
   Harlem Shadows and make them available to students and readers of McKay.
 added_by: Roopika Risam
+twitter: "@roopikarisam"
 added_year: '2020'
 notes: 
 order: '133'

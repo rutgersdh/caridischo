@@ -17,6 +17,7 @@ blurb: This site began as a collaborative WordPress project put together by stud
   uncollected poetry published in various Jamaican, British, and American magazines
   from the 1910s and 20s not included in those volumes.
 added_by: Alex Gil
+twitter: "@elotroalex"
 added_year: '2020'
 notes: 
 order: '110'

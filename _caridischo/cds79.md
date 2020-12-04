@@ -14,6 +14,7 @@ blurb: 'Welcome to the Haitian History Blog, a space dedicated to discussions on
   one that encompasses questions relating to society, governance, intellectual history
   and foreign relations forged between Haiti and its neighbours in the Americas. '
 added_by: 
+twitter: 
 added_year: '2020'
 notes: 
 order: '146'

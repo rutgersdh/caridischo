@@ -13,6 +13,7 @@ blurb: 'The Dominica History web resource is a collaboration between the Divisio
   of Culture in Dominica and Create Caribbean Research Institute at Dominica State
   College. This year, the theme is “Building Communities: 1838-1938.”'
 added_by: 'Schuyler Esprit '
+twitter: "@schuyleresprit"
 added_year: '2020'
 notes: 
 order: '120'

@@ -12,6 +12,7 @@ stewards:
 blurb: Collaborative encyclopedia on the Cuban network, in Spanish, born from the
   will to create and disseminate knowledge, with everyone and for everyone.
 added_by: 
+twitter: 
 added_year: '2020'
 notes: 
 order: '123'

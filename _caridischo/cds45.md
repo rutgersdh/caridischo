@@ -13,6 +13,7 @@ blurb: Cuban Counterpoints is the public face of a scholarly community. It is a 
   linked to EthnoCuba, a network/group of Cubanist academics that includes residents
   from over fifteen countries, including Cuba and the United States.
 added_by: Ariana Hernandez-Reguant
+twitter: 
 added_year: '2020'
 notes: "\U0001F49C"
 order: '109'

@@ -16,6 +16,7 @@ blurb: Imagined Homeland (Dominica’s Literary Geographies) aims to digitally r
   literary history and to explore the significant sociopolitical contexts that influenced
   literature about Dominica’s dynamic physical and social geography.
 added_by: Schuyler Esprit
+twitter: "@schuyleresprit"
 added_year: '2020'
 notes: 
 order: '164'

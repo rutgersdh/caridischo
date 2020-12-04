@@ -12,11 +12,12 @@ stewards: John Hope Franklin Humanities Institute, Duke University
 blurb: This timemap locates the main cholera outbreaks in the Caribbean in the 19th
   century, citing the journalistic sources at the time of each outbreak.
 added_by: Roopika Risam
+twitter: "@roopikarisam"
 added_year: '2020'
 notes: 
 order: '083'
 layout: caridischo_item
 collection: caridischo
-thumbnail: ''
-full: ''
+thumbnail: img/derivatives/simple/cds20/thumbnail.jpg
+full: img/derivatives/simple/cds20/fullwidth.jpg
 ---

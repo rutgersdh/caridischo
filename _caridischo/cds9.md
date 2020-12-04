@@ -13,6 +13,7 @@ blurb: The collection Anthologies of Latin American and Caribbean Social Thought
   a CLACSO publishing undertaking aimed at promoting access to the work of some of
   the most prominent authors of the social sciences in Latin America and the Caribbean.
 added_by: 
+twitter: 
 added_year: '2020'
 notes: 
 order: '157'

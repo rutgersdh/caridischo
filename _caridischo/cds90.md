@@ -14,6 +14,7 @@ blurb: This project is planning the creation of publicly accessible database for
   art outside Haiti. We are also working on expanding digital resources regarding
   Haitian art.
 added_by: 
+twitter: 
 added_year: '2020'
 notes: 
 order: '158'

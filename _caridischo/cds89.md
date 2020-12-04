@@ -19,6 +19,7 @@ blurb: Colonial slavery shaped modern Britain and we all still live with its leg
   at present primarily a resource for studying slave-owners, will also provide information
   of value to those researching enslaved people.
 added_by: Roopika Risam
+twitter: "@roopikarisam"
 added_year: '2020'
 notes: "Are we cool with projects by the colonizers?\r\n\U0001F602 "
 order: '156'

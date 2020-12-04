@@ -19,6 +19,7 @@ blurb: The literature of the Caribbean is exceptional, both in language and subj
   of the Caribbean and the Black Diaspora—and indeed central for our understanding
   of the New World.
 added_by: Alex Gil
+twitter: "@elotroalex"
 added_year: '2020'
 notes: 
 order: '091'

@@ -14,6 +14,7 @@ blurb: Mapping Marronage is an interactive visualization of the trans-Atlantic n
   18th and 19th century. It traces the geographic reach, crossings and intersections
   of letters, testimonies and financial exchanges by enslaved people of African-descent.
 added_by: Roopika Risam
+twitter: "@roopikarisam"
 added_year: '2020'
 notes: 
 order: '154'

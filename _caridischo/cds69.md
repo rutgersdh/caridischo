@@ -13,6 +13,7 @@ blurb: Welcome to Freedom to Believe, part of a theatre in education project exp
   Caribbean social and religious histoires led by Diana Paton and funded by the Arts
   and Humanities Research Council.
 added_by: Roopika Risam
+twitter: "@roopikarisam"
 added_year: '2020'
 notes: 
 order: '135'

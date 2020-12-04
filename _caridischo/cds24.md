@@ -14,6 +14,7 @@ blurb: Initiated by the former General Council of Martinique, the Banque Numéri
   cultural and historical heritage of Martinique backed by the geographic information
   system of Martinique (SIGMA).
 added_by: Roopika Risam
+twitter: "@roopikarisam"
 added_year: '2020'
 notes: 
 order: '086'

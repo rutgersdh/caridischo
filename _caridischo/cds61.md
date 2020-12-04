@@ -13,6 +13,7 @@ blurb: Focusing in on the Chinese female migrants who traveled to the island of 
   between 1860-1884, I will attempt help begin filling this gap, this lack of the
   female narrative.
 added_by: Roopika Risam
+twitter: "@roopikarisam"
 added_year: '2020'
 notes: 
 order: '127'

@@ -15,6 +15,7 @@ blurb: The Library of Glissant Studies is a collective project which would not b
   Studies by indexing information, and facilitating collaborations between scholars,
   students, and universities.
 added_by: Alex Gil
+twitter: "@elotroalex"
 added_year: '2020'
 notes: 
 order: '162'

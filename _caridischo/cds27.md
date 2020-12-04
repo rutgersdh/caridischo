@@ -11,6 +11,7 @@ creators: Amalia S. Levi, et al
 stewards: Endangered Archives Programme
 blurb: Digitized historical newspaper \"The Barbadian\" (1822-1863).
 added_by: Amalia S. Levi
+twitter: "@amaliasl"
 added_year: '2020'
 notes: 
 order: '089'

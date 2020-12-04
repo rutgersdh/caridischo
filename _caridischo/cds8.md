@@ -14,6 +14,7 @@ blurb: 'The Afro-Colombian Literature Library contains 18 titles and an essay wr
   works of authors such as: Manuel Zapata Olivella, Oscar Collazos, Helcías Martán
   Góngora, Arnoldo Palacios, Rogerio Velásquez, Candelario Obeso, among others.'
 added_by: 
+twitter: 
 added_year: '2020'
 notes: 
 order: '147'

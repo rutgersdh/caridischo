@@ -11,6 +11,7 @@ creators: Ricia Chansky et al.
 stewards: Climates of Inequality
 blurb: Stories of Environmental Justice
 added_by: Roopika Risam
+twitter: "@roopikarisam"
 added_year: '2020'
 notes: 
 order: '137'

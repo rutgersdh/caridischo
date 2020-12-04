@@ -18,6 +18,7 @@ blurb: The Carisealand (Caribbean Sea and Land) digital research project, launch
   injustices resulting from climate change activity; and to present models for alternate
   Caribbean futures.
 added_by: Kaiama L. Glover
+twitter: "@inthewhirld"
 added_year: '2020'
 notes: 
 order: '096'

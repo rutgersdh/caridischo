@@ -13,6 +13,7 @@ blurb: Below are descriptions and links to Cuban Heritage Collection digital col
   with digital manuscripts, photographs, letters, maps and other resources held in
   the University of Miami Libraries Cuban Heritage Collection.
 added_by: Roopika Risam
+twitter: "@roopikarisam"
 added_year: '2020'
 notes: There are approximately infinity subcollections
 order: '108'

@@ -14,6 +14,7 @@ blurb: This project maps, spatially and chronologically, the migration of Indian
   were sent. Between 1845 and 1917, about 143,900 indentured Indian labourers were
   sent to Trinidad.
 added_by: Roopika Risam
+twitter: "@roopikarisam"
 added_year: '2020'
 notes: 
 order: '142'

@@ -13,6 +13,7 @@ blurb: This is a course designed to pique your interest, hone your internet skil
   and sharpen your intellectual understanding of your field (both general history
   and Caribbean history) and its representation on the internet.
 added_by: Alex Gil
+twitter: "@elotroalex"
 added_year: '2020'
 notes: 
 order: '112'

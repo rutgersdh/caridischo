@@ -12,6 +12,7 @@ stewards:
 blurb: African Diaspora, Ph.D. is a curated blog highlighting scholarship and scholars
   in the field of Atlantic African Diaspora history.
 added_by: Alex Gil
+twitter: "@elotroalex"
 added_year: '2020'
 notes: 
 order: '125'

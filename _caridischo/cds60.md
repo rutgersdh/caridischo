@@ -13,6 +13,7 @@ blurb: Welcome to Digital Aponte, a site dedicated to the life and work of José
   Aponte, a free man of color, carpenter, artist, and alleged leader of a massive
   antislavery conspiracy and rebellion in colonial Cuba in 1811-1812.
 added_by: Alex Gil
+twitter: "@elotroalex"
 added_year: '2020'
 notes: 
 order: '126'
