@@ -1,8 +1,7 @@
 ---
 pid: cds7
-label: Banjology
-screenshot: 
 caridischo_genre: Collections & Curations
+label: Banjology
 claimed_genre: showcase
 link: https://sites.duke.edu/banjology/the-banjo-in-haiti/
 open_access: 'TRUE'
@@ -18,10 +17,11 @@ blurb: The banjo has a rich history in the Caribbean, the region where we first 
   late 1730s. Here, we offer a few avenues for understanding the fascinating history
   of the banjo in the Caribbean.
 added_by: 
+added_year: '2020'
 notes: 
-order: '020'
+order: '136'
 layout: caridischo_item
 collection: caridischo
 thumbnail: img/derivatives/simple/cds7/thumbnail.jpg
-full: img/derivatives/simple/cds7/full.jpg
+full: img/derivatives/simple/cds7/fullwidth.jpg
 ---

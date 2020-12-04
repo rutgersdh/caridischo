@@ -1,8 +1,7 @@
 ---
 pid: cds89
-label: Legacies of British Slave-ownership
-screenshot: 
 caridischo_genre: Collections & Curations
+label: Legacies of British Slave-ownership
 claimed_genre: database
 link: https://www.ucl.ac.uk/lbs//
 open_access: 'TRUE'
@@ -20,10 +19,11 @@ blurb: Colonial slavery shaped modern Britain and we all still live with its leg
   at present primarily a resource for studying slave-owners, will also provide information
   of value to those researching enslaved people.
 added_by: Roopika Risam
-notes: "Are we cool with projects by the colonizers?\r\n\U0001F602 "
-order: '096'
+added_year: '2020'
+notes: "Are we cool with projects by the colonizers?\n\U0001F602 "
+order: '156'
 layout: caridischo_item
 collection: caridischo
 thumbnail: img/derivatives/simple/cds89/thumbnail.jpg
-full: img/derivatives/simple/cds89/full.jpg
+full: img/derivatives/simple/cds89/fullwidth.jpg
 ---

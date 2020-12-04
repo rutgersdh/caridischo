@@ -1,8 +1,7 @@
 ---
 pid: cds90
-label: 'Haitian Art: a Digital Crossroads'
-screenshot: 
 caridischo_genre: Collections & Curations
+label: 'Haitian Art: a Digital Crossroads'
 claimed_genre: grant project
 link: https://hadc.sites.grinnell.edu/
 open_access: 'FALSE'
@@ -15,10 +14,11 @@ blurb: This project is planning the creation of publicly accessible database for
   art outside Haiti. We are also working on expanding digital resources regarding
   Haitian art.
 added_by: 
+added_year: '2020'
 notes: 
-order: '076'
+order: '158'
 layout: caridischo_item
 collection: caridischo
 thumbnail: img/derivatives/simple/cds90/thumbnail.jpg
-full: img/derivatives/simple/cds90/full.jpg
+full: img/derivatives/simple/cds90/fullwidth.jpg
 ---

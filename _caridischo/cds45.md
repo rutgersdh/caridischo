@@ -1,8 +1,7 @@
 ---
 pid: cds45
-label: Cuba Counterpoints
-screenshot: 
 caridischo_genre: Publications & Blogs
+label: Cuba Counterpoints
 claimed_genre: a journal
 link: cubacounterpoints.com
 open_access: 'TRUE'
@@ -14,10 +13,11 @@ blurb: Cuban Counterpoints is the public face of a scholarly community. It is a 
   linked to EthnoCuba, a network/group of Cubanist academics that includes residents
   from over fifteen countries, including Cuba and the United States.
 added_by: Ariana Hernandez-Reguant
+added_year: '2020'
 notes: "\U0001F49C"
-order: '042'
+order: '109'
 layout: caridischo_item
 collection: caridischo
 thumbnail: img/derivatives/simple/cds45/thumbnail.jpg
-full: img/derivatives/simple/cds45/full.jpg
+full: img/derivatives/simple/cds45/fullwidth.jpg
 ---

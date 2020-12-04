@@ -1,8 +1,7 @@
 ---
 pid: cds58
-label: Ecured
-screenshot: 
 caridischo_genre: Reference
+label: Ecured
 claimed_genre: enciclopedia
 link: https://www.ecured.cu/EcuRed
 open_access: 'TRUE'
@@ -13,10 +12,11 @@ stewards:
 blurb: Collaborative encyclopedia on the Cuban network, in Spanish, born from the
   will to create and disseminate knowledge, with everyone and for everyone.
 added_by: 
+added_year: '2020'
 notes: 
-order: '065'
+order: '123'
 layout: caridischo_item
 collection: caridischo
 thumbnail: img/derivatives/simple/cds58/thumbnail.jpg
-full: img/derivatives/simple/cds58/full.jpg
+full: img/derivatives/simple/cds58/fullwidth.jpg
 ---

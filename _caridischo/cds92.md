@@ -1,9 +1,8 @@
 ---
 pid: cds92
+caridischo_genre: Collections & Curations
 label: 'Caribbean Sexualities: Love | Hope | Community: Sexualities & Social Justice
   in the Caribbean'
-screenshot: 
-caridischo_genre: Collections & Curations
 claimed_genre: online collection
 link: caribbeansexualities.org
 open_access: 'TRUE'
@@ -16,10 +15,11 @@ blurb: \"This collection focusing on Caribbean Sexualitities and Social Justice 
   content already published in print but published online for the first time, alongside
   new materials and resources.\"
 added_by: Kaneesha Parsard
+added_year: '2020'
 notes: 
-order: '099'
+order: '160'
 layout: caridischo_item
 collection: caridischo
 thumbnail: img/derivatives/simple/cds92/thumbnail.jpg
-full: img/derivatives/simple/cds92/full.jpg
+full: img/derivatives/simple/cds92/fullwidth.jpg
 ---

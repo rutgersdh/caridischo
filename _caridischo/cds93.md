@@ -1,8 +1,7 @@
 ---
 pid: cds93
-label: Maroon Country
-screenshot: 
 caridischo_genre: Collections & Curations
+label: Maroon Country
 claimed_genre: digital archive
 link: http://marooncountry.org
 open_access: 'TRUE'
@@ -13,10 +12,11 @@ stewards: 'Create Caribbean '
 blurb: Maroon Country is a multimedia educational resource focused on the history
   of maroons, the independent and resistant black communities of the slavery-era Caribbean.
 added_by: Schuyler Esprit
+added_year: '2020'
 notes: 
-order: '107'
+order: '161'
 layout: caridischo_item
 collection: caridischo
 thumbnail: img/derivatives/simple/cds93/thumbnail.jpg
-full: img/derivatives/simple/cds93/full.jpg
+full: img/derivatives/simple/cds93/fullwidth.jpg
 ---

@@ -1,8 +1,7 @@
 ---
 pid: cds87
-label: Mapping Marronage
-screenshot: 
 caridischo_genre: Maps & Visualizations
+label: Mapping Marronage
 claimed_genre: maps
 link: http://mapping-marronage.rll.lsa.umich.edu/
 open_access: 'TRUE'
@@ -15,10 +14,11 @@ blurb: Mapping Marronage is an interactive visualization of the trans-Atlantic n
   18th and 19th century. It traces the geographic reach, crossings and intersections
   of letters, testimonies and financial exchanges by enslaved people of African-descent.
 added_by: Roopika Risam
+added_year: '2020'
 notes: 
-order: '104'
+order: '154'
 layout: caridischo_item
 collection: caridischo
 thumbnail: img/derivatives/simple/cds87/thumbnail.jpg
-full: img/derivatives/simple/cds87/full.jpg
+full: img/derivatives/simple/cds87/fullwidth.jpg
 ---

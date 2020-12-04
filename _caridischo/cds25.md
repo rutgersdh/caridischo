@@ -1,8 +1,7 @@
 ---
 pid: cds25
-label: Archivo Mesoamericano
-screenshot: 
 caridischo_genre: Collections & Curations
+label: Archivo Mesoamericano
 claimed_genre: archivo
 link: https://archivomesoamericano.org/
 open_access: 'TRUE'
@@ -20,10 +19,11 @@ blurb: 'El Archivo Mesoamericano representa un archivo digital que consiste de g
   (CIESAS) in Mexico, the Institute of History of Nicaragua and Central America (IHNCA)
   in Nicaragua, and the Museum of the Word and the Image (MUPI) in El Salvador. '
 added_by: Mary Borgo Ton
+added_year: '2020'
 notes: 
-order: '018'
+order: '087'
 layout: caridischo_item
 collection: caridischo
 thumbnail: img/derivatives/simple/cds25/thumbnail.jpg
-full: img/derivatives/simple/cds25/full.jpg
+full: img/derivatives/simple/cds25/fullwidth.jpg
 ---

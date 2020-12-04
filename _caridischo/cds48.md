@@ -1,8 +1,7 @@
 ---
 pid: cds48
-label: 'Digital History at UWI: Hist 2807 Digital History Course'
-screenshot: 
 caridischo_genre: Reference
+label: 'Digital History at UWI: Hist 2807 Digital History Course'
 claimed_genre: a syllabus
 link: https://uwidigitalhistory.wordpress.com/instructor-information/
 open_access: 'TRUE'
@@ -14,10 +13,11 @@ blurb: This is a course designed to pique your interest, hone your internet skil
   and sharpen your intellectual understanding of your field (both general history
   and Caribbean history) and its representation on the internet.
 added_by: Alex Gil
+added_year: '2020'
 notes: 
-order: '052'
+order: '112'
 layout: caridischo_item
 collection: caridischo
 thumbnail: img/derivatives/simple/cds48/thumbnail.jpg
-full: img/derivatives/simple/cds48/full.jpg
+full: img/derivatives/simple/cds48/fullwidth.jpg
 ---

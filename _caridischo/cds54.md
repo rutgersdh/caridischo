@@ -1,8 +1,7 @@
 ---
 pid: cds54
-label: Digital Grainger
-screenshot: 
 caridischo_genre: Collections & Curations
+label: Digital Grainger
 claimed_genre: an online edition
 link: http://caribbeandigitalnyc.net/2020/
 open_access: 'TRUE'
@@ -16,10 +15,11 @@ blurb: The first edition of The Sugar-Cane, a 168-page poem about eighteenth-cen
   version of the poem and a page-by-page reading experience, as well as excerpts that
   highlight counter-plantation themes within the poem.
 added_by: Kaiama L. Glover
+added_year: '2020'
 notes: 
-order: '051'
+order: '119'
 layout: caridischo_item
 collection: caridischo
 thumbnail: img/derivatives/simple/cds54/thumbnail.jpg
-full: img/derivatives/simple/cds54/full.jpg
+full: img/derivatives/simple/cds54/fullwidth.jpg
 ---

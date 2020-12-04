@@ -1,8 +1,7 @@
 ---
 pid: cds43
-label: 'dLOC as Data: A Thematic Approach to Caribbean Newspapers'
-screenshot: 
 caridischo_genre: Cabinet of Wonders
+label: 'dLOC as Data: A Thematic Approach to Caribbean Newspapers'
 claimed_genre: an initiative
 link: http://dlocasdata.domains.uflib.ufl.edu/
 open_access: 'TRUE'
@@ -20,10 +19,11 @@ blurb: Funded by the Collections as Data program with support from the Mellon Fo
   and research, we will demonstrate the potential of newspaper data by creating a
   pilot thematic tool kit focused on hurricanes and tropical cyclones.
 added_by: Perry Collins
+added_year: '2020'
 notes: 
-order: '057'
+order: '107'
 layout: caridischo_item
 collection: caridischo
 thumbnail: img/derivatives/simple/cds43/thumbnail.jpg
-full: img/derivatives/simple/cds43/full.jpg
+full: img/derivatives/simple/cds43/fullwidth.jpg
 ---

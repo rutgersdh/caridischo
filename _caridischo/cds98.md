@@ -1,8 +1,7 @@
 ---
 pid: cds98
-label: La Gazette Royale d'Haïti
-screenshot: 
 caridischo_genre: Collections & Curations
+label: La Gazette Royale d'Haïti
 claimed_genre: digital archive
 link: http://lagazetteroyale.com
 open_access: 'TRUE'
@@ -16,10 +15,11 @@ blurb: The La Gazette Royale project, which I first began to develop in 2014, is
   well as the six different versions of the Almanach Royal d’Hayti issued by the royal
   press.
 added_by: Kaiama L. Glover
+added_year: '2020'
 notes: 
-order: '091'
+order: '166'
 layout: caridischo_item
 collection: caridischo
 thumbnail: img/derivatives/simple/cds98/thumbnail.jpg
-full: img/derivatives/simple/cds98/full.jpg
+full: img/derivatives/simple/cds98/fullwidth.jpg
 ---

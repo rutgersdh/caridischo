@@ -1,8 +1,7 @@
 ---
 pid: cds86
-label: Haiti an Island Luminous
-screenshot: 
 caridischo_genre: Collections & Curations
+label: Haiti an Island Luminous
 claimed_genre: 'a site '
 link: http://islandluminous.fiu.edu/index-english.html
 open_access: 'TRUE'
@@ -16,10 +15,11 @@ blurb: An Island Luminous is a site to help readers learn about Haiti’s histor
   and libraries in Haiti and the United States with commentary by over one hundred
   (100) authors from universities around the world.
 added_by: Alex Gil
+added_year: '2020'
 notes: 
-order: '074'
+order: '153'
 layout: caridischo_item
 collection: caridischo
 thumbnail: img/derivatives/simple/cds86/thumbnail.jpg
-full: img/derivatives/simple/cds86/full.jpg
+full: img/derivatives/simple/cds86/fullwidth.jpg
 ---

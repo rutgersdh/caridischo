@@ -1,8 +1,7 @@
 ---
 pid: cds84
-label: John Carter Brown Library Haiti Collection
-screenshot: 
 caridischo_genre: Collections & Curations
+label: John Carter Brown Library Haiti Collection
 claimed_genre: digital collection
 link: https://archive.org/details/jcbhaiti
 open_access: 'TRUE'
@@ -15,10 +14,11 @@ blurb: Our rare books, maps and newspapers tell the story of the founding of the
   through the Haitian Revolution (the world's only successful slave revolution) and
   the founding of Haiti in its place.
 added_by: Roopika Risam
+added_year: '2020'
 notes: 
-order: '089'
+order: '151'
 layout: caridischo_item
 collection: caridischo
 thumbnail: img/derivatives/simple/cds84/thumbnail.jpg
-full: img/derivatives/simple/cds84/full.jpg
+full: img/derivatives/simple/cds84/fullwidth.jpg
 ---

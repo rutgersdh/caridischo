@@ -1,8 +1,7 @@
 ---
 pid: cds33
-label: Carisealand
-screenshot: 
 caridischo_genre: Collections & Curations
+label: Carisealand
 claimed_genre: digital research project
 link: http://archipelagosjournal.org/issue04/esprit-carisealand.html
 open_access: 'TRUE'
@@ -19,10 +18,11 @@ blurb: The Carisealand (Caribbean Sea and Land) digital research project, launch
   injustices resulting from climate change activity; and to present models for alternate
   Caribbean futures.
 added_by: Kaiama L. Glover
+added_year: '2020'
 notes: 
-order: '035'
+order: '096'
 layout: caridischo_item
 collection: caridischo
 thumbnail: img/derivatives/simple/cds33/thumbnail.jpg
-full: img/derivatives/simple/cds33/full.jpg
+full: img/derivatives/simple/cds33/fullwidth.jpg
 ---

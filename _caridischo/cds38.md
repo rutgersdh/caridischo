@@ -1,8 +1,7 @@
 ---
 pid: cds38
-label: Collections of Cultural Property | Centro León
-screenshot: 
 caridischo_genre: Collections & Curations
+label: Collections of Cultural Property | Centro León
 claimed_genre: eMuseum
 link: https://centroleon.org.do/cl/
 open_access: 'FALSE'
@@ -20,10 +19,11 @@ blurb: The Eduardo León Jimenes Cultural Center (León Center) is located in th
   , Caribbean patio and gardens, all of which comply with the international standards
   established by ICOM / UNESCO for their design and operation.
 added_by: 
+added_year: '2020'
 notes: 
-order: '038'
+order: '101'
 layout: caridischo_item
 collection: caridischo
 thumbnail: img/derivatives/simple/cds38/thumbnail.jpg
-full: img/derivatives/simple/cds38/full.jpg
+full: img/derivatives/simple/cds38/fullwidth.jpg
 ---

@@ -1,9 +1,8 @@
 ---
 pid: cds56
-label: Caribbean Diaspora Project
-screenshot: 
 caridischo_genre: Collections & Curations
-claimed_genre: Digital Humanities initiative
+label: Caribbean Diaspora Project
+claimed_genre: a Digital Humanities initiative
 link: caribbeandiasporaproject.org
 open_access: 'TRUE'
 status: Active
@@ -15,10 +14,11 @@ blurb: 'Caribbean Diasporas: Panorama of Carnival Practices is a Digital Humanit
   and secondary sources, as well as artifacts, all related to carnival practices and
   mobility in the Caribbean.'
 added_by: Roopika Risam
+added_year: '2020'
 notes: 
-order: '029'
+order: '121'
 layout: caridischo_item
 collection: caridischo
 thumbnail: img/derivatives/simple/cds56/thumbnail.jpg
-full: img/derivatives/simple/cds56/full.jpg
+full: img/derivatives/simple/cds56/fullwidth.jpg
 ---

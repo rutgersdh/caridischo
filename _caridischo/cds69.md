@@ -1,8 +1,7 @@
 ---
 pid: cds69
-label: Freedom to Believe
-screenshot: 
 caridischo_genre: Cabinet of Wonders
+label: Freedom to Believe
 claimed_genre: project
 link: https://www.freedomtobelieve.info/
 open_access: 'TRUE'
@@ -14,10 +13,11 @@ blurb: Welcome to Freedom to Believe, part of a theatre in education project exp
   Caribbean social and religious histoires led by Diana Paton and funded by the Arts
   and Humanities Research Council.
 added_by: Roopika Risam
+added_year: '2020'
 notes: 
-order: '069'
+order: '135'
 layout: caridischo_item
 collection: caridischo
 thumbnail: img/derivatives/simple/cds69/thumbnail.jpg
-full: img/derivatives/simple/cds69/full.jpg
+full: img/derivatives/simple/cds69/fullwidth.jpg
 ---

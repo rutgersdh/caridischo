@@ -1,8 +1,7 @@
 ---
 pid: cds78
-label: Ecologies Entrelacées
-screenshot: 
 caridischo_genre: Collections & Curations
+label: Ecologies Entrelacées
 claimed_genre: a digital humanities project
 link: https://www.ecologiesentrelacees.com/
 open_access: 'TRUE'
@@ -14,10 +13,11 @@ blurb: A bilingual environmental digital humanities project that looks at gender
   ecology in the Francophone Caribbean though the themes of sugar, bananas, beaches,
   and gardens.
 added_by: 
+added_year: '2020'
 notes: 
-order: '064'
+order: '145'
 layout: caridischo_item
 collection: caridischo
 thumbnail: img/derivatives/simple/cds78/thumbnail.jpg
-full: img/derivatives/simple/cds78/full.jpg
+full: img/derivatives/simple/cds78/fullwidth.jpg
 ---

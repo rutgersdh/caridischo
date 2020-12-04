@@ -1,8 +1,7 @@
 ---
 pid: cds51
-label: Cuban Theatre Digital Archives
-screenshot: 
 caridischo_genre: Collections & Curations
+label: Cuban Theatre Digital Archives
 claimed_genre: digital archives
 link: http://ctda.library.miami.edu/
 open_access: 'TRUE'
@@ -15,10 +14,11 @@ blurb: 'The Cuban Theater Digital Archive (CTDA) is a resource for research, tea
   repository for important Cuban theatrical materials; and a forum to foster scholarly
   communication in this field. '
 added_by: Roopika Risam
+added_year: '2020'
 notes: 
-order: '044'
+order: '116'
 layout: caridischo_item
 collection: caridischo
 thumbnail: img/derivatives/simple/cds51/thumbnail.jpg
-full: img/derivatives/simple/cds51/full.jpg
+full: img/derivatives/simple/cds51/fullwidth.jpg
 ---

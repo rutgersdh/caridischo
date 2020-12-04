@@ -1,8 +1,7 @@
 ---
 pid: cds19
-label: Age of Revolutions
-screenshot: 
 caridischo_genre: Publications & Blogs
+label: Age of Revolutions
 claimed_genre: an open-access, peer-reviewed academic journal
 link: https://ageofrevolutions.com/
 open_access: 'TRUE'
@@ -16,10 +15,11 @@ blurb: The word “revolution” is a human tool. At any point in time, its mean
   changes in history, encouraging the comparative study of revolutions, and exploring
   the hopes imbued in the term “revolution.”
 added_by: 
+added_year: '2020'
 notes: 
-order: '010'
+order: '081'
 layout: caridischo_item
 collection: caridischo
 thumbnail: img/derivatives/simple/cds19/thumbnail.jpg
-full: img/derivatives/simple/cds19/full.jpg
+full: img/derivatives/simple/cds19/fullwidth.jpg
 ---

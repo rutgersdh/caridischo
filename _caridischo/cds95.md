@@ -1,8 +1,7 @@
 ---
 pid: cds95
-label: Junkanoo in Grand Bahama
-screenshot: 
 caridischo_genre: Cabinet of Wonders
+label: Junkanoo in Grand Bahama
 claimed_genre: an initial exploration
 link: https://junkanooingb.com/
 open_access: 'TRUE'
@@ -15,10 +14,11 @@ blurb: 'This project is the work of students of The University of The Bahamas-No
   and aims to document the history, practices and participants of Junkanoo on the
   island of Grand Bahama. '
 added_by: Roopika Risam
+added_year: '2020'
 notes: 
-order: '090'
+order: '163'
 layout: caridischo_item
 collection: caridischo
 thumbnail: img/derivatives/simple/cds95/thumbnail.jpg
-full: img/derivatives/simple/cds95/full.jpg
+full: img/derivatives/simple/cds95/fullwidth.jpg
 ---

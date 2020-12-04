@@ -1,8 +1,7 @@
 ---
 pid: cds66
-label: Île en île
-screenshot: 
 caridischo_genre: Collections & Curations
+label: Île en île
 claimed_genre: un site web
 link: http://ile-en-ile.org/
 open_access: 'TRUE'
@@ -14,10 +13,11 @@ blurb: Île en île is an open access, non-profit website intended to provide a 
   documentation of French-speaking islands and to promote informative and non-commercial
   resources on the island world.
 added_by: Alex Gil
+added_year: '2020'
 notes: 
-order: '080'
+order: '132'
 layout: caridischo_item
 collection: caridischo
 thumbnail: img/derivatives/simple/cds66/thumbnail.jpg
-full: img/derivatives/simple/cds66/full.jpg
+full: img/derivatives/simple/cds66/fullwidth.jpg
 ---

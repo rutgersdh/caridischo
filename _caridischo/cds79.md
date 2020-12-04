@@ -1,8 +1,7 @@
 ---
 pid: cds79
-label: Haitian History Blog
-screenshot: 
 caridischo_genre: Publications & Blogs
+label: Haitian History Blog
 claimed_genre: blog
 link: https://haitianhistory.tumblr.com/
 open_access: 'TRUE'
@@ -15,10 +14,11 @@ blurb: 'Welcome to the Haitian History Blog, a space dedicated to discussions on
   one that encompasses questions relating to society, governance, intellectual history
   and foreign relations forged between Haiti and its neighbours in the Americas. '
 added_by: 
+added_year: '2020'
 notes: 
-order: '077'
+order: '146'
 layout: caridischo_item
 collection: caridischo
 thumbnail: img/derivatives/simple/cds79/thumbnail.jpg
-full: img/derivatives/simple/cds79/full.jpg
+full: img/derivatives/simple/cds79/fullwidth.jpg
 ---

@@ -1,9 +1,8 @@
 ---
 pid: cds14
-label: Branding the Cuban Revolution
-screenshot: 
 caridischo_genre: Collections & Curations
-claimed_genre: "[Omeka digital collection]"
+label: Branding the Cuban Revolution
+claimed_genre: "[digital collection]"
 link: https://brandingrevolution.omeka.net/exhibits/show/branding-the-cuban-revolution
 open_access: 'TRUE'
 status: In Disrepair
@@ -12,10 +11,11 @@ creators: Steve Hyland, Jr.
 stewards: 
 blurb: Reflections on the political messaging of the revolution to Cubans.
 added_by: Roopika Risam
+added_year: '2020'
 notes: 
-order: '028'
+order: '045'
 layout: caridischo_item
 collection: caridischo
 thumbnail: img/derivatives/simple/cds14/thumbnail.jpg
-full: img/derivatives/simple/cds14/full.jpg
+full: img/derivatives/simple/cds14/fullwidth.jpg
 ---

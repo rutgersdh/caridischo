@@ -1,9 +1,8 @@
 ---
 pid: cds94
-label: Library of Glissant Studies
-screenshot: 
 caridischo_genre: Collections & Curations
-claimed_genre: Collection/Archive
+label: Library of Glissant Studies
+claimed_genre: a digital library
 link: https://www.glissantstudies.com/
 open_access: 'TRUE'
 status: Active
@@ -16,10 +15,11 @@ blurb: The Library of Glissant Studies is a collective project which would not b
   Studies by indexing information, and facilitating collaborations between scholars,
   students, and universities.
 added_by: Alex Gil
+added_year: '2020'
 notes: 
-order: '098'
+order: '162'
 layout: caridischo_item
 collection: caridischo
 thumbnail: img/derivatives/simple/cds94/thumbnail.jpg
-full: img/derivatives/simple/cds94/full.jpg
+full: img/derivatives/simple/cds94/fullwidth.jpg
 ---

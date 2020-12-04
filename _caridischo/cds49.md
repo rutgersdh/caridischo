@@ -1,8 +1,7 @@
 ---
 pid: cds49
-label: Create Caribbean
-screenshot: 
 caridischo_genre: Cabinet of Wonders
+label: Create Caribbean
 claimed_genre: a digital humanities center
 link: http://createcaribbean.org/create/
 open_access: 'TRUE'
@@ -17,10 +16,11 @@ blurb: Create Caribbean Inc. aims to develop the creative capacity of youth in D
   outreach and community participation in the preservation and dissemination of Caribbean
   history, heritage and other research areas of significance.
 added_by: Alex Gil
+added_year: '2020'
 notes: 
-order: '041'
+order: '113'
 layout: caridischo_item
 collection: caridischo
 thumbnail: img/derivatives/simple/cds49/thumbnail.jpg
-full: img/derivatives/simple/cds49/full.jpg
+full: img/derivatives/simple/cds49/fullwidth.jpg
 ---

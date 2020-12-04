@@ -4,8 +4,8 @@ layout: none
 [
   {
     "pid": "cds40",
-    "label": "Digital Map of the Afro-Cuban Web",
     "caridischo_genre": "Maps & Visualizations",
+    "label": "Digital Map of the Afro-Cuban Web",
     "claimed_genre": "digital map",
     "language": "en",
     "creators": "Maya Anderson-González",
@@ -18,9 +18,9 @@ layout: none
   },
   {
     "pid": "cds11",
-    "label": "Archives Nationales d'Outre Mer: Archives Numérisées",
     "caridischo_genre": "Collections & Curations",
-    "claimed_genre": "archives numérisees",
+    "label": "Archives Nationales d'Outre Mer: Archives Numérisées",
+    "claimed_genre": "des archives numérisees",
     "language": "fr",
     "creators": null,
     "stewards": null,
@@ -32,8 +32,8 @@ layout: none
   },
   {
     "pid": "cds25",
-    "label": "Archivo Mesoamericano",
     "caridischo_genre": "Collections & Curations",
+    "label": "Archivo Mesoamericano",
     "claimed_genre": "archivo",
     "language": "es, en",
     "creators": null,
@@ -46,9 +46,9 @@ layout: none
   },
   {
     "pid": "cds74",
-    "label": "Curaçao Nationaal Archief",
     "caridischo_genre": "Collections & Curations",
-    "claimed_genre": "archief",
+    "label": "Curaçao Nationaal Archief",
+    "claimed_genre": "een archief",
     "language": "du",
     "creators": null,
     "stewards": "National Archives of Curaçao",
@@ -60,8 +60,8 @@ layout: none
   },
   {
     "pid": "cds87",
-    "label": "Mapping Marronage",
     "caridischo_genre": "Maps & Visualizations",
+    "label": "Mapping Marronage",
     "claimed_genre": "maps",
     "language": "en",
     "creators": "Annette Joseph-Gabriel",
@@ -74,8 +74,8 @@ layout: none
   },
   {
     "pid": "cds149",
-    "label": "Slavery: Supporters and Abolitionists, 1675-1865",
     "caridischo_genre": "Collections & Curations",
+    "label": "Slavery: Supporters and Abolitionists, 1675-1865",
     "claimed_genre": "collection",
     "language": "en",
     "creators": null,
@@ -88,8 +88,8 @@ layout: none
   },
   {
     "pid": "cds118",
-    "label": "Mapping Slavery",
     "caridischo_genre": "Maps & Visualizations",
+    "label": "Mapping Slavery",
     "claimed_genre": "maps",
     "language": "en, nl, id",
     "creators": null,
@@ -102,9 +102,9 @@ layout: none
   },
   {
     "pid": "cds108",
-    "label": "Making of Caribbean Feminisms",
     "caridischo_genre": "Cabinet of Wonders",
-    "claimed_genre": "project",
+    "label": "Making of Caribbean Feminisms",
+    "claimed_genre": "a project",
     "language": "en",
     "creators": "Institute for Gender and Development Studies",
     "stewards": "UWI St. Augustine",
@@ -116,8 +116,8 @@ layout: none
   },
   {
     "pid": "cds159",
-    "label": "thepostarchive",
     "caridischo_genre": "Collections & Curations",
+    "label": "thepostarchive",
     "claimed_genre": "archive",
     "language": "en, es, fr",
     "creators": null,
@@ -130,9 +130,9 @@ layout: none
   },
   {
     "pid": "cds97",
-    "label": "Liberated Africans",
     "caridischo_genre": "Collections & Curations",
-    "claimed_genre": "Exhibit",
+    "label": "Liberated Africans",
+    "claimed_genre": "an exhibit",
     "language": "en",
     "creators": "Henry B. Lovejoy",
     "stewards": "Matrix, Michigan State University",
@@ -144,8 +144,8 @@ layout: none
   },
   {
     "pid": "cds64",
-    "label": "In the Same Boats",
     "caridischo_genre": "Maps & Visualizations",
+    "label": "In the Same Boats",
     "claimed_genre": "maps",
     "language": "en",
     "creators": "Kaiama Glover, Alex Gil",
@@ -158,8 +158,8 @@ layout: none
   },
   {
     "pid": "cds35",
-    "label": "Carmelita Tropicana Online Digital Archive",
     "caridischo_genre": "Collections & Curations",
+    "label": "Carmelita Tropicana Online Digital Archive",
     "claimed_genre": "digital archive",
     "language": "en",
     "creators": "Laura Lomas et al. ",
@@ -172,8 +172,8 @@ layout: none
   },
   {
     "pid": "cds50",
-    "label": "Documents from the History of the Dominican Republic",
     "caridischo_genre": "Collections & Curations",
+    "label": "Documents from the History of the Dominican Republic",
     "claimed_genre": "project",
     "language": "en, es",
     "creators": "Amaury Rodriguez",
@@ -186,8 +186,8 @@ layout: none
   },
   {
     "pid": "cds70",
-    "label": "Aftermaths: Community Responses to Climate Disaster",
     "caridischo_genre": "Collections & Curations",
+    "label": "Aftermaths: Community Responses to Climate Disaster",
     "claimed_genre": "a participatory public memory project",
     "language": "en, es",
     "creators": "Ricia Chansky et al.",
@@ -200,8 +200,8 @@ layout: none
   },
   {
     "pid": "cds21",
-    "label": "Academia Historia Dominicana: Revista Clío",
     "caridischo_genre": "Collections & Curations",
+    "label": "Academia Historia Dominicana: Revista Clío",
     "claimed_genre": "publicaciones",
     "language": "es",
     "creators": "Dr. Federico Henríquez y Carvajal",
@@ -214,8 +214,8 @@ layout: none
   },
   {
     "pid": "cds83",
-    "label": "Haiti and the Atlantic World",
     "caridischo_genre": "Collections & Curations",
+    "label": "Haiti and the Atlantic World",
     "claimed_genre": "website",
     "language": "en",
     "creators": "Julia Gaffield",
@@ -228,8 +228,8 @@ layout: none
   },
   {
     "pid": "cds15",
-    "label": "Arquitecture of necessity/Arquitectura de la necesidad",
     "caridischo_genre": "Publications & Blogs",
+    "label": "Arquitecture of necessity/Arquitectura de la necesidad",
     "claimed_genre": "[blog]",
     "language": "es",
     "creators": "Ernesto Oroza",
@@ -242,8 +242,8 @@ layout: none
   },
   {
     "pid": "cds44",
-    "label": "Cuban Heritage Connection",
     "caridischo_genre": "Collections & Curations",
+    "label": "Cuban Heritage Connection",
     "claimed_genre": "digital collections",
     "language": "en, es",
     "creators": null,
@@ -256,9 +256,9 @@ layout: none
   },
   {
     "pid": "cds128",
-    "label": "Tan Listwa",
     "caridischo_genre": "Publications & Blogs",
-    "claimed_genre": "blog",
+    "label": "Tan Listwa",
+    "claimed_genre": "a blog",
     "language": "en, fr",
     "creators": "Jessica Pierre-Louis",
     "stewards": null,
@@ -270,13 +270,13 @@ layout: none
   },
   {
     "pid": "cds138",
-    "label": "Néhri, Chef des Haytiens",
     "caridischo_genre": "Collections & Curations",
-    "claimed_genre": "online edition",
+    "label": "Néhri, Chef des Haytiens",
+    "claimed_genre": "an online edition",
     "language": "fr",
     "creators": "Tabitha McIntosh, Grégory Pierrot",
     "stewards": null,
-    "blurb": "In 1819, Haitian playwright, polemicist, journalist and statesman Juste Chanlatte published Néhri, Chef des Haytiens, his dramatized, fictionalized version of Haiti’s final victory over France. It has been presumed lost or unpublished for 200 years.\r\n\r\nToday, it is back.\r\n\r\nThis site offers:\r\n\r\n* new biographical information on poet, playwright, pamphletist and statesman Juste Chanlatte whose life – like that of so many early Haitian figures – has been subject to supposition and hearsay;\r\n\r\n* a material history of the physical copy of the book itself, located in Chantilly, tracing its passage from one French bibliophile to another, rebound and miscatalogued;\r\n\r\n* previously unrecorded series of reviews that traveled across three continents and over two oceans in the weeks following King Henry I of Haiti’s suicide in 1820, as well as the extant evidence that the play was performed and discussed.",
+    "blurb": "In 1819, Haitian playwright, polemicist, journalist and statesman Juste Chanlatte published Néhri, Chef des Haytiens, his dramatized, fictionalized version of Haiti’s final victory over France. It has been presumed lost or unpublished for 200 years.\n\nToday, it is back.\n\nThis site offers:\n\n* new biographical information on poet, playwright, pamphletist and statesman Juste Chanlatte whose life – like that of so many early Haitian figures – has been subject to supposition and hearsay;\n\n* a material history of the physical copy of the book itself, located in Chantilly, tracing its passage from one French bibliophile to another, rebound and miscatalogued;\n\n* previously unrecorded series of reviews that traveled across three continents and over two oceans in the weeks following King Henry I of Haiti’s suicide in 1820, as well as the extant evidence that the play was performed and discussed.",
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds138/thumbnail.jpg",
     "permalink": "/caridischo/cds138",
@@ -284,8 +284,8 @@ layout: none
   },
   {
     "pid": "cds169",
-    "label": "Protestitas",
     "caridischo_genre": "Cabinet of Wonders",
+    "label": "Protestitas",
     "claimed_genre": "poetry bot",
     "language": "es",
     "creators": "Leonardo Flores",
@@ -298,8 +298,8 @@ layout: none
   },
   {
     "pid": "cds54",
-    "label": "Digital Grainger",
     "caridischo_genre": "Collections & Curations",
+    "label": "Digital Grainger",
     "claimed_genre": "an online edition",
     "language": "en",
     "creators": "Julie Chun Kim, Cristobal Silva, Alex Gil, Kimberly Takahata, Ami Yoon, Steve Fragano, Lina Jiang, and Elizabeth Cornell",
@@ -312,8 +312,8 @@ layout: none
   },
   {
     "pid": "cds93",
-    "label": "Maroon Country",
     "caridischo_genre": "Collections & Curations",
+    "label": "Maroon Country",
     "claimed_genre": "digital archive",
     "language": "en",
     "creators": "Schuyler Esprit ",
@@ -326,8 +326,8 @@ layout: none
   },
   {
     "pid": "cds31",
-    "label": "Digital Library of the Caribbean",
     "caridischo_genre": "Collections & Curations",
+    "label": "Digital Library of the Caribbean",
     "claimed_genre": "digital library",
     "language": "en, fr, es, du, ht",
     "creators": "UFL/FIU",
@@ -340,8 +340,8 @@ layout: none
   },
   {
     "pid": "cds60",
-    "label": "Digital Aponte",
     "caridischo_genre": "Collections & Curations",
+    "label": "Digital Aponte",
     "claimed_genre": "a site",
     "language": "en, es",
     "creators": "Linda Rodriguez, Ada Ferrer, Kris Minhae Choe, Eric Anderson, et al",
@@ -354,8 +354,8 @@ layout: none
   },
   {
     "pid": "cds71",
-    "label": "Fictions of the Haitian Revolution",
     "caridischo_genre": "Reference",
+    "label": "Fictions of the Haitian Revolution",
     "claimed_genre": "online bibliography",
     "language": "en, fr",
     "creators": "Marlene L. Daut",
@@ -368,8 +368,8 @@ layout: none
   },
   {
     "pid": "cds20",
-    "label": "19th Century Caribbean Cholera Timemap",
     "caridischo_genre": "Maps & Visualizations",
+    "label": "19th Century Caribbean Cholera Timemap",
     "claimed_genre": "a timemap",
     "language": "en",
     "creators": "Deborah Jenson et al.",
@@ -382,8 +382,8 @@ layout: none
   },
   {
     "pid": "cds82",
-    "label": "In All My Dreams",
     "caridischo_genre": "Collections & Curations",
+    "label": "In All My Dreams",
     "claimed_genre": "exhibit",
     "language": "en",
     "creators": "Kaiama L. Glover, Laurent Dubois",
@@ -396,9 +396,9 @@ layout: none
   },
   {
     "pid": "cds14",
-    "label": "Branding the Cuban Revolution",
     "caridischo_genre": "Collections & Curations",
-    "claimed_genre": "[Omeka digital collection]",
+    "label": "Branding the Cuban Revolution",
+    "claimed_genre": "[digital collection]",
     "language": "en",
     "creators": "Steve Hyland, Jr.",
     "stewards": null,
@@ -410,8 +410,8 @@ layout: none
   },
   {
     "pid": "cds45",
-    "label": "Cuba Counterpoints",
     "caridischo_genre": "Publications & Blogs",
+    "label": "Cuba Counterpoints",
     "claimed_genre": "a journal",
     "language": "en",
     "creators": "Ariana Hernandez-Reguant",
@@ -424,9 +424,9 @@ layout: none
   },
   {
     "pid": "cds129",
-    "label": "Ramble Bahamas",
     "caridischo_genre": "Maps & Visualizations",
-    "claimed_genre": "map",
+    "label": "Ramble Bahamas",
+    "claimed_genre": "a tour",
     "language": "en",
     "creators": "Tracey Thompson, Jessica Dawson",
     "stewards": "The Oral & Public History Institute of the University of The Bahamas",
@@ -438,9 +438,9 @@ layout: none
   },
   {
     "pid": "cds139",
-    "label": "The Caribbean Commons",
     "caridischo_genre": "Cabinet of Wonders",
-    "claimed_genre": "network",
+    "label": "The Caribbean Commons",
+    "claimed_genre": "a network",
     "language": "en",
     "creators": "Kelly Baker Josephs",
     "stewards": "CUNY",
@@ -452,8 +452,8 @@ layout: none
   },
   {
     "pid": "cds168",
-    "label": "Manioc",
     "caridischo_genre": "Collections & Curations",
+    "label": "Manioc",
     "claimed_genre": "digital library",
     "language": "fr",
     "creators": null,
@@ -466,8 +466,8 @@ layout: none
   },
   {
     "pid": "cds55",
-    "label": "Dominica History: Building Communities 1838 – 1938",
     "caridischo_genre": "Collections & Curations",
+    "label": "Dominica History: Building Communities 1838 – 1938",
     "claimed_genre": "web resource",
     "language": "en",
     "creators": "Schuyler Esprit ",
@@ -480,8 +480,8 @@ layout: none
   },
   {
     "pid": "cds92",
-    "label": "Caribbean Sexualities: Love | Hope | Community: Sexualities & Social Justice in the Caribbean",
     "caridischo_genre": "Collections & Curations",
+    "label": "Caribbean Sexualities: Love | Hope | Community: Sexualities & Social Justice in the Caribbean",
     "claimed_genre": "online collection",
     "language": "en",
     "creators": "Rosamond S. King, Angelique V. Nixon",
@@ -494,8 +494,8 @@ layout: none
   },
   {
     "pid": "cds30",
-    "label": "Coasts in Crisis: Caribbean Arts and Cultures after Hurricanes",
     "caridischo_genre": "Cabinet of Wonders",
+    "label": "Coasts in Crisis: Caribbean Arts and Cultures after Hurricanes",
     "claimed_genre": "a platform",
     "language": "en, es",
     "creators": "Charlotte Rogers",
@@ -508,8 +508,8 @@ layout: none
   },
   {
     "pid": "cds61",
-    "label": "Ghosts in the Water: Chinese Women in Trinidad",
     "caridischo_genre": "Collections & Curations",
+    "label": "Ghosts in the Water: Chinese Women in Trinidad",
     "claimed_genre": "a project",
     "language": "en",
     "creators": "Kimberly Bain",
@@ -522,8 +522,8 @@ layout: none
   },
   {
     "pid": "cds41",
-    "label": "Centro for Puerto Rican Studies Digital Collection",
     "caridischo_genre": "Collections & Curations",
+    "label": "Centro for Puerto Rican Studies Digital Collection",
     "claimed_genre": "digital collection",
     "language": "en",
     "creators": null,
@@ -536,8 +536,8 @@ layout: none
   },
   {
     "pid": "cds10",
-    "label": ".break .dance: a choreo-essay",
     "caridischo_genre": "Cabinet of Wonders",
+    "label": ".break .dance: a choreo-essay",
     "claimed_genre": "a choreo-essay",
     "language": "en",
     "creators": "Marisa Parham",
@@ -550,8 +550,8 @@ layout: none
   },
   {
     "pid": "cds24",
-    "label": "Beyond the Sugar Curtain",
     "caridischo_genre": "Publications & Blogs",
+    "label": "Beyond the Sugar Curtain",
     "claimed_genre": "a project",
     "language": "en, es",
     "creators": "Jennifer Lambe",
@@ -564,8 +564,8 @@ layout: none
   },
   {
     "pid": "cds75",
-    "label": "Indian Indenture",
     "caridischo_genre": "Maps & Visualizations",
+    "label": "Indian Indenture",
     "claimed_genre": "map",
     "language": "en",
     "creators": "Dhanashree Thorat",
@@ -578,8 +578,8 @@ layout: none
   },
   {
     "pid": "cds86",
-    "label": "Haiti an Island Luminous",
     "caridischo_genre": "Collections & Curations",
+    "label": "Haiti an Island Luminous",
     "claimed_genre": "a site ",
     "language": "en",
     "creators": "Adam M. Silvia and Brooke Wooldridge ",
@@ -592,8 +592,8 @@ layout: none
   },
   {
     "pid": "cds148",
-    "label": "The Free Womb Project",
     "caridischo_genre": "Collections & Curations",
+    "label": "The Free Womb Project",
     "claimed_genre": "exhibit",
     "language": "en, es",
     "creators": "Dr. Yesenia Barragan ",
@@ -606,9 +606,9 @@ layout: none
   },
   {
     "pid": "cds119",
-    "label": "sx salon",
     "caridischo_genre": "Publications & Blogs",
-    "claimed_genre": "journal",
+    "label": "sx salon",
+    "claimed_genre": "a journal",
     "language": "en",
     "creators": "Kelly Baker Josephs",
     "stewards": "Small Axe",
@@ -620,9 +620,9 @@ layout: none
   },
   {
     "pid": "cds109",
-    "label": "Memory of Cuban Nation",
     "caridischo_genre": "Collections & Curations",
-    "claimed_genre": "Exhibit",
+    "label": "Memory of Cuban Nation",
+    "claimed_genre": "an exhibit",
     "language": "en, pl, cz",
     "creators": "Post Bellum, Florida International University",
     "stewards": null,
@@ -634,13 +634,13 @@ layout: none
   },
   {
     "pid": "cds158",
-    "label": "The Other Revolution: Haiti, 1789-1804",
     "caridischo_genre": "Collections & Curations",
+    "label": "The Other Revolution: Haiti, 1789-1804",
     "claimed_genre": "exhibit",
     "language": "en",
     "creators": "Malick W. Ghachem, Susan Danforth, Leslie Tobias-Olsen",
     "stewards": "The John Carter Brown Library, Brown University",
-    "blurb": "\\\"In many instances the revolutionary spirit can be only dimly perceived through the eye-witness accounts and recollections of literate white colonists and free people of color, but it is there all the same.\r\n\r\nThe exhibition items have been chosen, and the captions written, so as to provide a running narrative of the Haitian Revolution.\\\"",
+    "blurb": "\\\"In many instances the revolutionary spirit can be only dimly perceived through the eye-witness accounts and recollections of literate white colonists and free people of color, but it is there all the same.\n\nThe exhibition items have been chosen, and the captions written, so as to provide a running narrative of the Haitian Revolution.\\\"",
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds158/thumbnail.jpg",
     "permalink": "/caridischo/cds158",
@@ -648,8 +648,8 @@ layout: none
   },
   {
     "pid": "cds96",
-    "label": "Imagined Homeland: Dominica's Literary Geographies",
     "caridischo_genre": "Collections & Curations",
+    "label": "Imagined Homeland: Dominica's Literary Geographies",
     "claimed_genre": "a project",
     "language": "en",
     "creators": "Schuyler Esprit ",
@@ -662,8 +662,8 @@ layout: none
   },
   {
     "pid": "cds65",
-    "label": "Early Caribbean Digital Archive",
     "caridischo_genre": "Collections & Curations",
+    "label": "Early Caribbean Digital Archive",
     "claimed_genre": "digital archive",
     "language": "en",
     "creators": "Nicole Aljoe, Elizabeth Dillon",
@@ -676,8 +676,8 @@ layout: none
   },
   {
     "pid": "cds34",
-    "label": "Caribbean Memory Project",
     "caridischo_genre": "Collections & Curations",
+    "label": "Caribbean Memory Project",
     "claimed_genre": "collection of archives",
     "language": "en",
     "creators": "Kevin Adonis Browne, Dawn Cumberbatch",
@@ -690,8 +690,8 @@ layout: none
   },
   {
     "pid": "cds51",
-    "label": "Cuban Theatre Digital Archives",
     "caridischo_genre": "Collections & Curations",
+    "label": "Cuban Theatre Digital Archives",
     "claimed_genre": "digital archives",
     "language": "en, es",
     "creators": "Lillian Manzor et al.",
@@ -704,9 +704,9 @@ layout: none
   },
   {
     "pid": "cds126",
-    "label": "Santería Music Database",
     "caridischo_genre": "Collections & Curations",
-    "claimed_genre": "database",
+    "label": "Santería Music Database",
+    "claimed_genre": "a database",
     "language": "en, es",
     "creators": "Martin Blais",
     "stewards": null,
@@ -718,8 +718,8 @@ layout: none
   },
   {
     "pid": "cds143",
-    "label": "The Louis J. Boeri and Minín Bujones Boeri Collection of Cuban-American Radionovelas, 1963-1970",
     "caridischo_genre": "Collections & Curations",
+    "label": "The Louis J. Boeri and Minín Bujones Boeri Collection of Cuban-American Radionovelas, 1963-1970",
     "claimed_genre": "collection",
     "language": "en, es",
     "creators": null,
@@ -732,9 +732,9 @@ layout: none
   },
   {
     "pid": "cds112",
-    "label": "Manioc Blog",
     "caridischo_genre": "Publications & Blogs",
-    "claimed_genre": "blog",
+    "label": "Manioc Blog",
+    "claimed_genre": "a blog",
     "language": "fr",
     "creators": null,
     "stewards": null,
@@ -746,8 +746,8 @@ layout: none
   },
   {
     "pid": "cds5",
-    "label": "Alma Jordan Library Digital Collections",
     "caridischo_genre": "Collections & Curations",
+    "label": "Alma Jordan Library Digital Collections",
     "claimed_genre": "digital collections",
     "language": "en",
     "creators": null,
@@ -760,9 +760,9 @@ layout: none
   },
   {
     "pid": "cds102",
-    "label": "National Library of Jamaica Digital",
     "caridischo_genre": "Collections & Curations",
-    "claimed_genre": "digital library",
+    "label": "National Library of Jamaica Digital",
+    "claimed_genre": "a digital library",
     "language": "en",
     "creators": null,
     "stewards": "National Library of Jamaica",
@@ -774,8 +774,8 @@ layout: none
   },
   {
     "pid": "cds153",
-    "label": "Slavery Images",
     "caridischo_genre": "Collections & Curations",
+    "label": "Slavery Images",
     "claimed_genre": "image collection",
     "language": "en",
     "creators": "Henry Lovejoy",
@@ -788,8 +788,8 @@ layout: none
   },
   {
     "pid": "cds167",
-    "label": "AfroMix",
     "caridischo_genre": "Reference",
+    "label": "AfroMix",
     "claimed_genre": "portal",
     "language": "en",
     "creators": null,
@@ -802,9 +802,9 @@ layout: none
   },
   {
     "pid": "cds136",
-    "label": "Radio Haiti (Pilot site)",
     "caridischo_genre": "Collections & Curations",
-    "claimed_genre": "digital collection",
+    "label": "Radio Haiti (Pilot site)",
+    "claimed_genre": "a digital collection",
     "language": "en, ht, fr",
     "creators": "Laura Wagner, Meagan Bonnell, Laurent Dubois",
     "stewards": "Duke University (Forum for Scholars and Publics)",
@@ -816,27 +816,27 @@ layout: none
   },
   {
     "pid": "cds116",
-    "label": "One More Voice",
     "caridischo_genre": "Collections & Curations",
-    "claimed_genre": "collection",
+    "label": "One More Voice",
+    "claimed_genre": "a collection",
     "language": "en",
     "creators": "Adrian S. Wisnicki",
     "stewards": null,
     "blurb": "One More Voice focuses on recovering non-European contributions from nineteenth-century British imperial and colonial archives.",
     "collection": "caridischo",
-    "thumbnail": "",
+    "thumbnail": "img/derivatives/simple/cds116/thumbnail.jpg",
     "permalink": "/caridischo/cds116",
     "lunr_id": 58
   },
   {
     "pid": "cds147",
-    "label": "The Cuban American Dream Timeline",
     "caridischo_genre": "Collections & Curations",
+    "label": "The Cuban American Dream Timeline",
     "claimed_genre": "a timeline",
     "language": "en",
     "creators": "Katiana Bagué Alexis Baldacci",
     "stewards": "George A Smathers Libraries",
-    "blurb": "A timeline of events that explore the reasons behind the immigration of Cubans to Florida from the 16th to the 21st century, the pressure that such immigration brought to local and state governments, the reactions of Floridian communities to Cuban immigrants, the ways in which Cuban immigrants adapted to their new reality, and the contribution of Cuban immigration to Florida. \r\n",
+    "blurb": "A timeline of events that explore the reasons behind the immigration of Cubans to Florida from the 16th to the 21st century, the pressure that such immigration brought to local and state governments, the reactions of Floridian communities to Cuban immigrants, the ways in which Cuban immigrants adapted to their new reality, and the contribution of Cuban immigration to Florida. \n",
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds147/thumbnail.jpg",
     "permalink": "/caridischo/cds147",
@@ -844,9 +844,9 @@ layout: none
   },
   {
     "pid": "cds122",
-    "label": "Slave Societies Digital Archive",
     "caridischo_genre": "Collections & Curations",
-    "claimed_genre": "digital archive",
+    "label": "Slave Societies Digital Archive",
+    "claimed_genre": "a digital archive",
     "language": "en",
     "creators": "Jane Landers",
     "stewards": null,
@@ -858,8 +858,8 @@ layout: none
   },
   {
     "pid": "cds89",
-    "label": "Legacies of British Slave-ownership",
     "caridischo_genre": "Collections & Curations",
+    "label": "Legacies of British Slave-ownership",
     "claimed_genre": "database",
     "language": "en",
     "creators": "Matthew Smith et al.",
@@ -872,9 +872,9 @@ layout: none
   },
   {
     "pid": "cds1",
+    "caridischo_genre": "Reference",
     "label": "archipelagos journal",
-    "caridischo_genre": "Publications & Blogs",
-    "claimed_genre": "academic journal",
+    "claimed_genre": "an academic journal",
     "language": "en, fr, es",
     "creators": "Kaiama Glover, Alex Gil",
     "stewards": "Columbia University Library",
@@ -886,13 +886,13 @@ layout: none
   },
   {
     "pid": "cds99",
-    "label": "Puerto Rico Architectural Heritage Archive",
     "caridischo_genre": "Collections & Curations",
+    "label": "Puerto Rico Architectural Heritage Archive",
     "claimed_genre": "digital archive",
     "language": "es, en",
     "creators": "Jacqueline Hayden ",
     "stewards": "Fundación Luis Muñoz Marín",
-    "blurb": "The Puerto Rico Architectural Historic Archive will be an online digital repository of\r\narchitectural resources, whether documents, photographs, buildings and sites in Puerto\r\nRico. PRAHA is an alliance of six organizations that share a commitment towards the\r\nconservation of architectural heritage: 1. public and private; Fundación Luis Muñoz\r\nMarín (FLMM), Para la Naturaleza, and the Puerto Rico Historic Buildings Drawings\r\nSociety (PRHBDS) and 2. state and federal entities; the National Park Service (NPS),\r\nthe State Historic Preservation Office (SHPO), the Archivo de Arquitectura y\r\nConstrucción de la Universidad de Puerto Rico (AACUPR). Our goal is to share\r\ntechnological infrastructure and distributed meta data across our six organizations to\r\nfurther promote the visibility of our collective resources. Without the acknowledgement\r\nof Vernacular, Afro Puerto Rican, rural, and barrio architecture, a panoramic view of the\r\nhistory and definition of architecture as a cultural product remains incomplete. In this\r\nproject, such a stance will translate into the visualization, through photographic records,\r\nof architectural styles, dwelling systems, and the working spaces of/for the historically\r\nmarginalized and silenced social groups.",
+    "blurb": "The Puerto Rico Architectural Historic Archive will be an online digital repository of\narchitectural resources, whether documents, photographs, buildings and sites in Puerto\nRico. PRAHA is an alliance of six organizations that share a commitment towards the\nconservation of architectural heritage: 1. public and private; Fundación Luis Muñoz\nMarín (FLMM), Para la Naturaleza, and the Puerto Rico Historic Buildings Drawings\nSociety (PRHBDS) and 2. state and federal entities; the National Park Service (NPS),\nthe State Historic Preservation Office (SHPO), the Archivo de Arquitectura y\nConstrucción de la Universidad de Puerto Rico (AACUPR). Our goal is to share\ntechnological infrastructure and distributed meta data across our six organizations to\nfurther promote the visibility of our collective resources. Without the acknowledgement\nof Vernacular, Afro Puerto Rican, rural, and barrio architecture, a panoramic view of the\nhistory and definition of architecture as a cultural product remains incomplete. In this\nproject, such a stance will translate into the visualization, through photographic records,\nof architectural styles, dwelling systems, and the working spaces of/for the historically\nmarginalized and silenced social groups.",
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds99/thumbnail.jpg",
     "permalink": "/caridischo/cds99",
@@ -900,9 +900,9 @@ layout: none
   },
   {
     "pid": "cds132",
-    "label": "The Barbados Synagogue Restoration Project",
     "caridischo_genre": "Collections & Curations",
-    "claimed_genre": "Collection/Archive",
+    "label": "The Barbados Synagogue Restoration Project",
+    "claimed_genre": "a collection",
     "language": "en",
     "creators": "Amalia S. Levi; Digital Library of the Caribbean",
     "stewards": "Digital Library of the Caribbean",
@@ -914,8 +914,8 @@ layout: none
   },
   {
     "pid": "cds163",
-    "label": "The Puerto Rico Citizenship Archives Project",
     "caridischo_genre": "Collections & Curations",
+    "label": "The Puerto Rico Citizenship Archives Project",
     "claimed_genre": "digital archive",
     "language": "en",
     "creators": "Charles R. Venator-Santiago ",
@@ -928,8 +928,8 @@ layout: none
   },
   {
     "pid": "cds157",
-    "label": "TonyOldies",
     "caridischo_genre": "Collections & Curations",
+    "label": "TonyOldies",
     "claimed_genre": "digital archive",
     "language": "en",
     "creators": "Tony Hadley",
@@ -942,9 +942,9 @@ layout: none
   },
   {
     "pid": "cds106",
-    "label": "Migration, Mobility, Sustainability: NEH Institute for Advanced Topics in the Digital Humanities",
     "caridischo_genre": "Cabinet of Wonders",
-    "claimed_genre": "institute",
+    "label": "Migration, Mobility, Sustainability: NEH Institute for Advanced Topics in the Digital Humanities",
+    "claimed_genre": "an institute",
     "language": "en",
     "creators": "http://nehcaribbean.domains.uflib.ufl.edu/contributors/",
     "stewards": "University of Florida; Digital Library of the Caribbean",
@@ -956,8 +956,8 @@ layout: none
   },
   {
     "pid": "cds117",
-    "label": "Latino Genealogy & Beyond: diasporic journeys across time and space",
     "caridischo_genre": "Publications & Blogs",
+    "label": "Latino Genealogy & Beyond: diasporic journeys across time and space",
     "claimed_genre": "blogs",
     "language": "en",
     "creators": "Ellen Fernandez-Sacco",
@@ -970,8 +970,8 @@ layout: none
   },
   {
     "pid": "cds146",
-    "label": "SPAT Memory Project",
     "caridischo_genre": "Collections & Curations",
+    "label": "SPAT Memory Project",
     "claimed_genre": "collection",
     "language": "en",
     "creators": "Schuyler Esprit ",
@@ -984,8 +984,8 @@ layout: none
   },
   {
     "pid": "cds123",
-    "label": "Mapping the Haitian Revolution",
     "caridischo_genre": "Maps & Visualizations",
+    "label": "Mapping the Haitian Revolution",
     "claimed_genre": "maps",
     "language": "en",
     "creators": "Stephanie Curci, Christopher Jones, Axis Maps",
@@ -998,8 +998,8 @@ layout: none
   },
   {
     "pid": "cds88",
-    "label": "Musical Passages",
     "caridischo_genre": "Collections & Curations",
+    "label": "Musical Passage",
     "claimed_genre": "exhibit",
     "language": "en",
     "creators": "Mary Caton Lingold, David Garner, Laurent Dubois",
@@ -1012,8 +1012,8 @@ layout: none
   },
   {
     "pid": "cds98",
-    "label": "La Gazette Royale d'Haïti",
     "caridischo_genre": "Collections & Curations",
+    "label": "La Gazette Royale d'Haïti",
     "claimed_genre": "digital archive",
     "language": "en, fr",
     "creators": "Marlene L. Daut",
@@ -1026,8 +1026,8 @@ layout: none
   },
   {
     "pid": "cds133",
-    "label": "The Barbados Mercury and Bridgetown Gazette",
     "caridischo_genre": "Collections & Curations",
+    "label": "The Barbados Mercury and Bridgetown Gazette",
     "claimed_genre": "public workshops",
     "language": "en",
     "creators": "Amalia S. Levi",
@@ -1040,8 +1040,8 @@ layout: none
   },
   {
     "pid": "cds162",
-    "label": "Traveling Caribbean Heritage",
     "caridischo_genre": "Collections & Curations",
+    "label": "Traveling Caribbean Heritage",
     "claimed_genre": "exhibit",
     "language": "en, nl",
     "creators": "Rose Mary Allen et al. ",
@@ -1054,8 +1054,8 @@ layout: none
   },
   {
     "pid": "cds156",
-    "label": "The Public Archive",
     "caridischo_genre": "Publications & Blogs",
+    "label": "The Public Archive",
     "claimed_genre": "blog",
     "language": "en",
     "creators": "Peter Hudson",
@@ -1068,9 +1068,9 @@ layout: none
   },
   {
     "pid": "cds107",
-    "label": "Islands in the North",
     "caridischo_genre": "Maps & Visualizations",
-    "claimed_genre": "map, timeline and a database",
+    "label": "Islands in the North",
+    "claimed_genre": "a map, a timeline and a database",
     "language": "en",
     "creators": "Marlene Gaynair",
     "stewards": "Rutgers Digital Humanities Initiatives",
@@ -1082,8 +1082,8 @@ layout: none
   },
   {
     "pid": "cds127",
-    "label": "Slave Revolt in Jamaica",
     "caridischo_genre": "Maps & Visualizations",
+    "label": "Slave Revolt in Jamaica",
     "claimed_genre": "maps",
     "language": "en",
     "creators": "Vincent Brown",
@@ -1096,8 +1096,8 @@ layout: none
   },
   {
     "pid": "cds142",
-    "label": "The New Map of Empire",
     "caridischo_genre": "Maps & Visualizations",
+    "label": "The New Map of Empire",
     "claimed_genre": "map",
     "language": "en",
     "creators": "S. Max Edelson and Bill Ferster",
@@ -1110,9 +1110,9 @@ layout: none
   },
   {
     "pid": "cds113",
-    "label": "Nancy Prince: A Transamerican Archive",
     "caridischo_genre": "Collections & Curations",
-    "claimed_genre": "exhibit",
+    "label": "Nancy Prince: A Transamerican Archive",
+    "claimed_genre": "a transamerican archive",
     "language": "en",
     "creators": null,
     "stewards": "Florida International University Libraries",
@@ -1124,8 +1124,8 @@ layout: none
   },
   {
     "pid": "cds4",
-    "label": "Barbados Runaways",
     "caridischo_genre": "Collections & Curations",
+    "label": "Barbados Runaways",
     "claimed_genre": "a platform",
     "language": "en",
     "creators": "Early Caribbean Digital Archive; Amalia S. Levi",
@@ -1138,8 +1138,8 @@ layout: none
   },
   {
     "pid": "cds103",
-    "label": "New Netherlands Online Publications",
     "caridischo_genre": "Collections & Curations",
+    "label": "New Netherlands Online Publications",
     "claimed_genre": "online publications",
     "language": "en, du",
     "creators": null,
@@ -1152,8 +1152,8 @@ layout: none
   },
   {
     "pid": "cds152",
-    "label": "Worker Rebellions in the British Caribbean",
     "caridischo_genre": "Collections & Curations",
+    "label": "Worker Rebellions in the British Caribbean",
     "claimed_genre": "timeline",
     "language": "en",
     "creators": null,
@@ -1166,9 +1166,9 @@ layout: none
   },
   {
     "pid": "cds166",
-    "label": "Two Plantations",
     "caridischo_genre": "Maps & Visualizations",
-    "claimed_genre": "diagram and family tree",
+    "label": "Two Plantations",
+    "claimed_genre": "a diagram and a family tree",
     "language": "en",
     "creators": "Vincent Brown",
     "stewards": null,
@@ -1180,9 +1180,9 @@ layout: none
   },
   {
     "pid": "cds137",
-    "label": "Saint-Domingue Lost: Imperial French Narratives of the Haitian Revolution",
     "caridischo_genre": "Collections & Curations",
-    "claimed_genre": "multimedia exhibit",
+    "label": "Saint-Domingue Lost: Imperial French Narratives of the Haitian Revolution",
+    "claimed_genre": "a multimedia exhibit",
     "language": "en, fr",
     "creators": "Andrew Blank Morgan Cornacchini  Nathan H. Dize Porter Geer Paul Miller Mikael Reijonen Claire Weinstein Elisabeth Zak",
     "stewards": null,
@@ -1194,8 +1194,8 @@ layout: none
   },
   {
     "pid": "cds145",
-    "label": "The Caribbean Dictionary",
     "caridischo_genre": "Reference",
+    "label": "The Caribbean Dictionary",
     "claimed_genre": "dictionary",
     "language": "en",
     "creators": null,
@@ -1208,9 +1208,9 @@ layout: none
   },
   {
     "pid": "cds114",
-    "label": "edition humboldt digital",
     "caridischo_genre": "Collections & Curations",
-    "claimed_genre": "edition",
+    "label": "edition humboldt digital",
+    "claimed_genre": "an edition",
     "language": "de, en",
     "creators": "Ottmar Ette, et al",
     "stewards": "Berlin-Brandenburg Academy of Sciences and Humanities",
@@ -1222,9 +1222,9 @@ layout: none
   },
   {
     "pid": "cds120",
-    "label": "Memory, Mourning, and Reslience in Grand Bahama",
     "caridischo_genre": "Collections & Curations",
-    "claimed_genre": "Exhibit",
+    "label": "Memory, Mourning, and Reslience in Grand Bahama",
+    "claimed_genre": "an exhibit",
     "language": "en",
     "creators": "Sally Everson et al.",
     "stewards": "The University of The Bahamas-North",
@@ -1235,9 +1235,23 @@ layout: none
     "lunr_id": 87
   },
   {
-    "pid": "cds29",
-    "label": "Caribbean Literature",
+    "pid": "cds171",
     "caridischo_genre": "Collections & Curations",
+    "label": "Archivo General de la Nación: Collectiones Digitales",
+    "claimed_genre": "colección digital",
+    "language": "es",
+    "creators": null,
+    "stewards": "Archivo Nacional de la Nación",
+    "blurb": "Servicio de consulta de documentos mediante software de gestión archivística que facilita el acceso a las informaciones contenidas en los fondos y colecciones documentales digitalizados en el AGN.",
+    "collection": "caridischo",
+    "thumbnail": "img/derivatives/simple/cds171/thumbnail.jpg",
+    "permalink": "/caridischo/cds171",
+    "lunr_id": 88
+  },
+  {
+    "pid": "cds29",
+    "caridischo_genre": "Collections & Curations",
+    "label": "Caribbean Literature",
     "claimed_genre": "collection",
     "language": "en",
     "creators": null,
@@ -1246,12 +1260,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds29/thumbnail.jpg",
     "permalink": "/caridischo/cds29",
-    "lunr_id": 88
+    "lunr_id": 89
   },
   {
     "pid": "cds78",
-    "label": "Ecologies Entrelacées",
     "caridischo_genre": "Collections & Curations",
+    "label": "Ecologies Entrelacées",
     "claimed_genre": "a digital humanities project",
     "language": "en, fr",
     "creators": "Eirann Cohen, Rachel Kirk, Soraya Limare",
@@ -1260,12 +1274,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds78/thumbnail.jpg",
     "permalink": "/caridischo/cds78",
-    "lunr_id": 89
+    "lunr_id": 90
   },
   {
     "pid": "cds3",
-    "label": "AImé Césaire: Open Blibiography on Zotero",
     "caridischo_genre": "Reference",
+    "label": "AImé Césaire: Open Blibiography on Zotero",
     "claimed_genre": "a bibliography",
     "language": "en, fr",
     "creators": "Alex Gil, et al",
@@ -1274,12 +1288,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds3/thumbnail.jpg",
     "permalink": "/caridischo/cds3",
-    "lunr_id": 90
+    "lunr_id": 91
   },
   {
     "pid": "cds68",
-    "label": "Curaçao | History",
     "caridischo_genre": "Collections & Curations",
+    "label": "Curaçao | History",
     "claimed_genre": "a timeline",
     "language": "en",
     "creators": null,
@@ -1288,12 +1302,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds68/thumbnail.jpg",
     "permalink": "/caridischo/cds68",
-    "lunr_id": 91
+    "lunr_id": 92
   },
   {
     "pid": "cds39",
-    "label": "Dark Laboratory",
     "caridischo_genre": "Cabinet of Wonders",
+    "label": "Dark Laboratory",
     "claimed_genre": "a laboratory",
     "language": "en",
     "creators": " Tao Leigh Goffe Jeffrey Palmer",
@@ -1302,12 +1316,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds39/thumbnail.jpg",
     "permalink": "/caridischo/cds39",
-    "lunr_id": 92
+    "lunr_id": 93
   },
   {
     "pid": "cds161",
-    "label": "Visualizing Sovereignty",
     "caridischo_genre": "Maps & Visualizations",
+    "label": "Visualizing Sovereignty",
     "claimed_genre": "a story-telling, community-building, and solidarity economy project",
     "language": "en",
     "creators": "Yarimar Bonilla, Max Hantel",
@@ -1316,13 +1330,13 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds161/thumbnail.jpg",
     "permalink": "/caridischo/cds161",
-    "lunr_id": 93
+    "lunr_id": 94
   },
   {
     "pid": "cds130",
-    "label": "Radio Haiti Archive (Radio Haïti-Inter)",
     "caridischo_genre": "Collections & Curations",
-    "claimed_genre": "digital collection",
+    "label": "Radio Haiti Archive (Radio Haïti-Inter)",
+    "claimed_genre": "a digital collection",
     "language": "en, ht, fr",
     "creators": "Laura Wagner (Radio Haiti Archivist), Craig Breaden (Audiovisual Archivist), Tanya Thomas, Krystelle Rocourt, Catherine Farmer, Eline Roilllet (student assistants), and other Duke Libraries staff",
     "stewards": "Duke University (Rubenstein Library)",
@@ -1330,13 +1344,13 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds130/thumbnail.jpg",
     "permalink": "/caridischo/cds130",
-    "lunr_id": 94
+    "lunr_id": 95
   },
   {
     "pid": "cds104",
-    "label": "Facing Climates of Inequality after Dorian",
     "caridischo_genre": "Collections & Curations",
-    "claimed_genre": "exhibit",
+    "label": "Facing Climates of Inequality after Dorian",
+    "claimed_genre": "an exhibit",
     "language": "en",
     "creators": "Ian Strachan et al.",
     "stewards": "Climates of Inequality, Digital Humanities @ UB-North, University of Bahamas North",
@@ -1344,12 +1358,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds104/thumbnail.jpg",
     "permalink": "/caridischo/cds104",
-    "lunr_id": 95
+    "lunr_id": 96
   },
   {
     "pid": "cds155",
-    "label": "The Afrolatin@ Project",
     "caridischo_genre": "Cabinet of Wonders",
+    "label": "The Afrolatin@ Project",
     "claimed_genre": "project",
     "language": "en",
     "creators": null,
@@ -1358,13 +1372,13 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds155/thumbnail.jpg",
     "permalink": "/caridischo/cds155",
-    "lunr_id": 96
+    "lunr_id": 97
   },
   {
     "pid": "cds124",
-    "label": "Mapping Haitian History",
     "caridischo_genre": "Collections & Curations",
-    "claimed_genre": "historical visual records project",
+    "label": "Mapping Haitian History",
+    "claimed_genre": "a historical visual records project",
     "language": "en, fr, ht",
     "creators": "Stephanie Curci",
     "stewards": "Stephanie Curci",
@@ -1372,13 +1386,13 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds124/thumbnail.jpg",
     "permalink": "/caridischo/cds124",
-    "lunr_id": 97
+    "lunr_id": 98
   },
   {
     "pid": "cds110",
-    "label": "Proyecto Humboldt Digital",
     "caridischo_genre": "Collections & Curations",
-    "claimed_genre": "iniciativa internacional para la capacitación en las Humanidades Digitales",
+    "label": "Proyecto Humboldt Digital",
+    "claimed_genre": "una iniciativa internacional",
     "language": "de, es",
     "creators": "Tobias Kraft et al.",
     "stewards": "Casa Museo Alejandro de Humboldt (La Habana), Academia de Ciencias y Humanidades Berlín-Brandeburgo ",
@@ -1386,13 +1400,13 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds110/thumbnail.jpg",
     "permalink": "/caridischo/cds110",
-    "lunr_id": 98
+    "lunr_id": 99
   },
   {
     "pid": "cds141",
-    "label": "Slave Voyages",
     "caridischo_genre": "Collections & Curations",
-    "claimed_genre": "database",
+    "label": "Slave Voyages",
+    "claimed_genre": "a database",
     "language": "en,es, pt",
     "creators": "Marcy Alexander",
     "stewards": "Emory University",
@@ -1400,12 +1414,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds141/thumbnail.jpg",
     "permalink": "/caridischo/cds141",
-    "lunr_id": 99
+    "lunr_id": 100
   },
   {
     "pid": "cds19",
-    "label": "Age of Revolutions",
     "caridischo_genre": "Publications & Blogs",
+    "label": "Age of Revolutions",
     "claimed_genre": "an open-access, peer-reviewed academic journal",
     "language": "en",
     "creators": "Bryan Banks Cindy Ermus",
@@ -1414,12 +1428,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds19/thumbnail.jpg",
     "permalink": "/caridischo/cds19",
-    "lunr_id": 100
+    "lunr_id": 101
   },
   {
     "pid": "cds48",
-    "label": "Digital History at UWI: Hist 2807 Digital History Course",
     "caridischo_genre": "Reference",
+    "label": "Digital History at UWI: Hist 2807 Digital History Course",
     "claimed_genre": "a syllabus",
     "language": "en",
     "creators": "Debbie Mc Collin",
@@ -1428,12 +1442,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds48/thumbnail.jpg",
     "permalink": "/caridischo/cds48",
-    "lunr_id": 101
+    "lunr_id": 102
   },
   {
     "pid": "cds7",
-    "label": "Banjology",
     "caridischo_genre": "Collections & Curations",
+    "label": "Banjology",
     "claimed_genre": "showcase",
     "language": "en",
     "creators": "Laurent Dubois  David Garner  Mary Caton Lingold",
@@ -1442,12 +1456,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds7/thumbnail.jpg",
     "permalink": "/caridischo/cds7",
-    "lunr_id": 102
+    "lunr_id": 103
   },
   {
     "pid": "cds58",
-    "label": "Ecured",
     "caridischo_genre": "Reference",
+    "label": "Ecured",
     "claimed_genre": "enciclopedia",
     "language": "es",
     "creators": "Martín Campos, Javier",
@@ -1456,12 +1470,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds58/thumbnail.jpg",
     "permalink": "/caridischo/cds58",
-    "lunr_id": 103
+    "lunr_id": 104
   },
   {
     "pid": "cds151",
-    "label": "The Atlantic Networks Project",
     "caridischo_genre": "Maps & Visualizations",
+    "label": "The Atlantic Networks Project",
     "claimed_genre": "maps",
     "language": "en",
     "creators": "Andrew Sluyter",
@@ -1470,13 +1484,13 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds151/thumbnail.jpg",
     "permalink": "/caridischo/cds151",
-    "lunr_id": 104
+    "lunr_id": 105
   },
   {
     "pid": "cds100",
-    "label": "Le marronnage dans le monde atlantique: Sources et trajectoires de vie",
     "caridischo_genre": "Collections & Curations",
-    "claimed_genre": "corpus",
+    "label": "Le marronnage dans le monde atlantique: Sources et trajectoires de vie",
+    "claimed_genre": "a corpus",
     "language": "fr",
     "creators": "Jean-Pierre Le Glaunec Léon Robichaud",
     "stewards": "Université de Sherbrooke Groupe d'Histoire de l'Atlantique Français Fonds de Recherche Société et Culture Québec Conseil de Recherche en Sciences Humaines du Canada ",
@@ -1484,26 +1498,26 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds100/thumbnail.jpg",
     "permalink": "/caridischo/cds100",
-    "lunr_id": 105
-  },
-  {
-    "pid": "cds134",
-    "label": "Oliwon Lakarayib",
-    "caridischo_genre": "Cabinet of Wonders",
-    "claimed_genre": "portal",
-    "language": "fr",
-    "creators": "Elsa Juston",
-    "stewards": null,
-    "blurb": "Our digital platform dedicated to the Caribbean.\r\nEach month, videos and podcasts in history, geography, humanities and social sciences.\r\n",
-    "collection": "caridischo",
-    "thumbnail": "img/derivatives/simple/cds134/thumbnail.jpg",
-    "permalink": "/caridischo/cds134",
     "lunr_id": 106
   },
   {
-    "pid": "cds165",
-    "label": "Valor y Cambio",
+    "pid": "cds134",
     "caridischo_genre": "Cabinet of Wonders",
+    "label": "Oliwon Lakarayib",
+    "claimed_genre": "a portal",
+    "language": "fr",
+    "creators": "Elsa Juston",
+    "stewards": null,
+    "blurb": "Our digital platform dedicated to the Caribbean.\nEach month, videos and podcasts in history, geography, humanities and social sciences.\n",
+    "collection": "caridischo",
+    "thumbnail": "img/derivatives/simple/cds134/thumbnail.jpg",
+    "permalink": "/caridischo/cds134",
+    "lunr_id": 107
+  },
+  {
+    "pid": "cds165",
+    "caridischo_genre": "Cabinet of Wonders",
+    "label": "Valor y Cambio",
     "claimed_genre": "proyect",
     "language": "en, es",
     "creators": "Frances Negrón-Muntaner, Sarabel Santos-Negrón",
@@ -1512,13 +1526,13 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds165/thumbnail.jpg",
     "permalink": "/caridischo/cds165",
-    "lunr_id": 107
+    "lunr_id": 108
   },
   {
     "pid": "cds125",
-    "label": "RSHHGG Lab: Online Index and Lab for the Revue de la Société Haïtienne d’Histoire, de Géographie et de Géologie",
     "caridischo_genre": "Collections & Curations",
-    "claimed_genre": "collection",
+    "label": "RSHHGG Lab: Online Index and Lab for the Revue de la Société Haïtienne d’Histoire, de Géographie et de Géologie",
+    "claimed_genre": "a collection",
     "language": "en, fr, ht",
     "creators": null,
     "stewards": null,
@@ -1526,13 +1540,13 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds125/thumbnail.jpg",
     "permalink": "/caridischo/cds125",
-    "lunr_id": 108
+    "lunr_id": 109
   },
   {
     "pid": "cds111",
-    "label": "Obeah Histories",
     "caridischo_genre": "Collections & Curations",
-    "claimed_genre": "exhibit",
+    "label": "Obeah Histories",
+    "claimed_genre": "an exhibit",
     "language": "en",
     "creators": "Diana Paton et al.",
     "stewards": "Newcastle University",
@@ -1540,12 +1554,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds111/thumbnail.jpg",
     "permalink": "/caridischo/cds111",
-    "lunr_id": 109
+    "lunr_id": 110
   },
   {
     "pid": "cds140",
-    "label": "The Falmouth Project",
     "caridischo_genre": "Maps & Visualizations",
+    "label": "The Falmouth Project",
     "claimed_genre": "maps",
     "language": "en",
     "creators": "Louis P. Nelson",
@@ -1554,12 +1568,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds140/thumbnail.jpg",
     "permalink": "/caridischo/cds140",
-    "lunr_id": 110
+    "lunr_id": 111
   },
   {
     "pid": "cds18",
-    "label": "Biblioteca Nacional Aruba: Coleccion Digital",
     "caridischo_genre": "Collections & Curations",
+    "label": "Biblioteca Nacional Aruba: Coleccion Digital",
     "claimed_genre": "colección digital",
     "language": "es",
     "creators": "Biblioteca Nacional Aruba",
@@ -1568,12 +1582,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds18/thumbnail.jpg",
     "permalink": "/caridischo/cds18",
-    "lunr_id": 111
+    "lunr_id": 112
   },
   {
     "pid": "cds49",
-    "label": "Create Caribbean",
     "caridischo_genre": "Cabinet of Wonders",
+    "label": "Create Caribbean",
     "claimed_genre": "a digital humanities center",
     "language": "en",
     "creators": "Schuyler Esprit",
@@ -1582,12 +1596,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds49/thumbnail.jpg",
     "permalink": "/caridischo/cds49",
-    "lunr_id": 112
+    "lunr_id": 113
   },
   {
     "pid": "cds6",
-    "label": "#ADPhD",
     "caridischo_genre": "Cabinet of Wonders",
+    "label": "#ADPhD",
     "claimed_genre": "a curated blog",
     "language": "en",
     "creators": "Jessica Marie Johnson",
@@ -1596,26 +1610,26 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds6/thumbnail.jpg",
     "permalink": "/caridischo/cds6",
-    "lunr_id": 113
+    "lunr_id": 114
   },
   {
     "pid": "cds59",
-    "label": "The Gay Freedom Movement in Jamaica",
     "caridischo_genre": "Collections & Curations",
+    "label": "The Gay Freedom Movement in Jamaica",
     "claimed_genre": "collection",
     "language": "en",
     "creators": null,
     "stewards": null,
-    "blurb": "\r\nThe Gay Freedom Movement in Jamaica (GFM) was formed in  September 1977 as the first movement in the English Speaking Caribbean to seek rights for LGBT (Lesbian, Gay, Bisexual and Transgendered) people\r\n",
+    "blurb": "\nThe Gay Freedom Movement in Jamaica (GFM) was formed in  September 1977 as the first movement in the English Speaking Caribbean to seek rights for LGBT (Lesbian, Gay, Bisexual and Transgendered) people\n",
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds59/thumbnail.jpg",
     "permalink": "/caridischo/cds59",
-    "lunr_id": 114
+    "lunr_id": 115
   },
   {
     "pid": "cds150",
-    "label": "The Work of Man Has Only Just Begun: Legacies of Césaire",
     "caridischo_genre": "Cabinet of Wonders",
+    "label": "The Work of Man Has Only Just Begun: Legacies of Césaire",
     "claimed_genre": "a forum and a researchathon",
     "language": "en",
     "creators": "Kaiama Glover, Alex Gil, Kelly Josephs",
@@ -1624,13 +1638,13 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds150/thumbnail.jpg",
     "permalink": "/caridischo/cds150",
-    "lunr_id": 115
+    "lunr_id": 116
   },
   {
     "pid": "cds101",
-    "label": "La Médiathèque Caraïbe Bettino Lara",
     "caridischo_genre": "Collections & Curations",
-    "claimed_genre": "médiathèque",
+    "label": "La Médiathèque Caraïbe Bettino Lara",
+    "claimed_genre": "une médiathèque",
     "language": "fr",
     "creators": null,
     "stewards": null,
@@ -1638,12 +1652,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds101/thumbnail.jpg",
     "permalink": "/caridischo/cds101",
-    "lunr_id": 116
+    "lunr_id": 117
   },
   {
     "pid": "cds135",
-    "label": "The Black British Map",
     "caridischo_genre": "Maps & Visualizations",
+    "label": "The Black British Map",
     "claimed_genre": "maps",
     "language": "en",
     "creators": "Liberty Martin",
@@ -1652,12 +1666,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds135/thumbnail.jpg",
     "permalink": "/caridischo/cds135",
-    "lunr_id": 117
+    "lunr_id": 118
   },
   {
     "pid": "cds164",
-    "label": "Unmapping the Caribbean: Cuban Santería",
     "caridischo_genre": "Cabinet of Wonders",
+    "label": "Unmapping the Caribbean: Cuban Santería",
     "claimed_genre": "multimedia exhibit",
     "language": "en",
     "creators": null,
@@ -1666,12 +1680,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds164/thumbnail.jpg",
     "permalink": "/caridischo/cds164",
-    "lunr_id": 118
+    "lunr_id": 119
   },
   {
     "pid": "cds144",
-    "label": "Slave Trade of the MCC",
     "caridischo_genre": "Collections & Curations",
+    "label": "Slave Trade of the MCC",
     "claimed_genre": "collection",
     "language": "en, nl",
     "creators": null,
@@ -1680,13 +1694,13 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds144/thumbnail.jpg",
     "permalink": "/caridischo/cds144",
-    "lunr_id": 119
+    "lunr_id": 120
   },
   {
     "pid": "cds115",
-    "label": "Plenamar",
     "caridischo_genre": "Publications & Blogs",
-    "claimed_genre": "online cultural magazine",
+    "label": "Plenamar",
+    "claimed_genre": "an online cultural magazine",
     "language": "es",
     "creators": "Minerva del Risco,Rafael Emilio Yunén, Fausto Rosario, José Mármol and Jochy Herrera",
     "stewards": "Acento.com.do",
@@ -1694,12 +1708,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds115/thumbnail.jpg",
     "permalink": "/caridischo/cds115",
-    "lunr_id": 120
+    "lunr_id": 121
   },
   {
     "pid": "cds121",
-    "label": "Mi María",
     "caridischo_genre": "Cabinet of Wonders",
+    "label": "Mi María",
     "claimed_genre": "a mass-listening project",
     "language": "en",
     "creators": "Ricia Anne Chansky",
@@ -1708,12 +1722,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds121/thumbnail.jpg",
     "permalink": "/caridischo/cds121",
-    "lunr_id": 121
+    "lunr_id": 122
   },
   {
     "pid": "cds170",
-    "label": "Documentation of the Sidney Martin Library Art Collection, UWI (Cave Hill Campus)",
     "caridischo_genre": "Collections & Curations",
+    "label": "Documentation of the Sidney Martin Library Art Collection, UWI (Cave Hill Campus)",
     "claimed_genre": "documentation",
     "language": "en",
     "creators": "Amalia S. Levi",
@@ -1722,12 +1736,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds170/thumbnail.jpg",
     "permalink": "/caridischo/cds170",
-    "lunr_id": 122
+    "lunr_id": 123
   },
   {
     "pid": "cds28",
-    "label": "Barbados Ephemera Collection",
     "caridischo_genre": "Collections & Curations",
+    "label": "Barbados Ephemera Collection",
     "claimed_genre": "digitized ephemera",
     "language": "en",
     "creators": "Amalia S. Levi; Modern Endangered Archives Program",
@@ -1736,12 +1750,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds28/thumbnail.jpg",
     "permalink": "/caridischo/cds28",
-    "lunr_id": 123
+    "lunr_id": 124
   },
   {
     "pid": "cds79",
-    "label": "Haitian History Blog",
     "caridischo_genre": "Publications & Blogs",
+    "label": "Haitian History Blog",
     "claimed_genre": "blog",
     "language": "en",
     "creators": null,
@@ -1750,12 +1764,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds79/thumbnail.jpg",
     "permalink": "/caridischo/cds79",
-    "lunr_id": 124
+    "lunr_id": 125
   },
   {
     "pid": "cds2",
-    "label": "...... et les chiens se taisaient",
     "caridischo_genre": "Collections & Curations",
+    "label": "...... et les chiens se taisaient",
     "claimed_genre": "a scholarly edition",
     "language": "en, fr",
     "creators": "Alex Gil",
@@ -1764,12 +1778,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds2/thumbnail.jpg",
     "permalink": "/caridischo/cds2",
-    "lunr_id": 125
+    "lunr_id": 126
   },
   {
     "pid": "cds69",
-    "label": "Freedom to Believe",
     "caridischo_genre": "Cabinet of Wonders",
+    "label": "Freedom to Believe",
     "claimed_genre": "project",
     "language": "en",
     "creators": "Diana Paton et al.",
@@ -1778,12 +1792,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds69/thumbnail.jpg",
     "permalink": "/caridischo/cds69",
-    "lunr_id": 126
+    "lunr_id": 127
   },
   {
     "pid": "cds38",
-    "label": "Collections of Cultural Property | Centro León",
     "caridischo_genre": "Collections & Curations",
+    "label": "Collections of Cultural Property | Centro León",
     "claimed_genre": "eMuseum",
     "language": "es",
     "creators": "María Amalia León de Jorge",
@@ -1792,12 +1806,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds38/thumbnail.jpg",
     "permalink": "/caridischo/cds38",
-    "lunr_id": 127
+    "lunr_id": 128
   },
   {
     "pid": "cds160",
-    "label": "US Caribbean & Ethnic Florida Digital Newspaper Project",
     "caridischo_genre": "Publications & Blogs",
+    "label": "US Caribbean & Ethnic Florida Digital Newspaper Project",
     "claimed_genre": "blog",
     "language": "en, es",
     "creators": "University of Florida: Melissa Jerome, Sarah \\\"Moxy\\\" Moczygemba ",
@@ -1806,13 +1820,13 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds160/thumbnail.jpg",
     "permalink": "/caridischo/cds160",
-    "lunr_id": 128
+    "lunr_id": 129
   },
   {
     "pid": "cds131",
-    "label": "Repeating Islands",
     "caridischo_genre": "Publications & Blogs",
-    "claimed_genre": "blog",
+    "label": "Repeating Islands",
+    "claimed_genre": "a blog",
     "language": "en",
     "creators": "Ivette Romero-Cesareo, Lisa Paravisini-Gebert",
     "stewards": null,
@@ -1820,26 +1834,26 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds131/thumbnail.jpg",
     "permalink": "/caridischo/cds131",
-    "lunr_id": 129
-  },
-  {
-    "pid": "cds105",
-    "label": "Puerto Rico Syllabus",
-    "caridischo_genre": "Reference",
-    "claimed_genre": "syllabus",
-    "language": "en, es",
-    "creators": "Yarimar Bonilla",
-    "stewards": null,
-    "blurb": "\r\nThe materials gathered help place the current moment within the larger political, social, and economic history of this U.S. territory and illuminate how both the crisis and its proposed solutions are impacting the daily lives of millions of Puerto Ricans both within the territory and across its growing diaspora.",
-    "collection": "caridischo",
-    "thumbnail": "img/derivatives/simple/cds105/thumbnail.jpg",
-    "permalink": "/caridischo/cds105",
     "lunr_id": 130
   },
   {
+    "pid": "cds105",
+    "caridischo_genre": "Reference",
+    "label": "Puerto Rico Syllabus",
+    "claimed_genre": "a syllabus",
+    "language": "en, es",
+    "creators": "Yarimar Bonilla",
+    "stewards": null,
+    "blurb": "\nThe materials gathered help place the current moment within the larger political, social, and economic history of this U.S. territory and illuminate how both the crisis and its proposed solutions are impacting the daily lives of millions of Puerto Ricans both within the territory and across its growing diaspora.",
+    "collection": "caridischo",
+    "thumbnail": "img/derivatives/simple/cds105/thumbnail.jpg",
+    "permalink": "/caridischo/cds105",
+    "lunr_id": 131
+  },
+  {
     "pid": "cds154",
-    "label": "The Puerto Rican Experience In The U.S. Military: A Century Of Unheralded Service",
     "caridischo_genre": "Collections & Curations",
+    "label": "The Puerto Rican Experience In The U.S. Military: A Century Of Unheralded Service",
     "claimed_genre": "collection",
     "language": "en",
     "creators": null,
@@ -1848,12 +1862,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds154/thumbnail.jpg",
     "permalink": "/caridischo/cds154",
-    "lunr_id": 131
+    "lunr_id": 132
   },
   {
     "pid": "cds81",
-    "label": "In Whispers and Furtive Glances: Assessing Cuban Digital Literacies and (H)ac(k)tivism in Post-Embargo Cuba",
     "caridischo_genre": "Cabinet of Wonders",
+    "label": "In Whispers and Furtive Glances: Assessing Cuban Digital Literacies and (H)ac(k)tivism in Post-Embargo Cuba",
     "claimed_genre": "a project proposal",
     "language": "en",
     "creators": "Mark Daniel Triana",
@@ -1862,26 +1876,26 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds81/thumbnail.jpg",
     "permalink": "/caridischo/cds81",
-    "lunr_id": 132
-  },
-  {
-    "pid": "cds72",
-    "label": "International Digital Ephemera Project: Cuban Ephemera",
-    "caridischo_genre": "Collections & Curations",
-    "claimed_genre": "Collection/Archive",
-    "language": "es, en",
-    "creators": null,
-    "stewards": "UCLA library",
-    "blurb": "\r\nThe UCLA Library has launched an innovative and forward-looking initiative to capture ephemeral content with global partners. Through this project, UCLA Library endeavors to build international and global collections of knowledge and to preserve the historical and cultural record so that present and future generations can access and use ephemera that document the larger arena of discourse that takes place alongside mainstream media and scholarly publications. ",
-    "collection": "caridischo",
-    "thumbnail": "img/derivatives/simple/cds72/thumbnail.jpg",
-    "permalink": "/caridischo/cds72",
     "lunr_id": 133
   },
   {
-    "pid": "cds46",
-    "label": "Claude McKay's Early Poetry (1911-1922): A Digital Collection",
+    "pid": "cds72",
     "caridischo_genre": "Collections & Curations",
+    "label": "International Digital Ephemera Project: Cuban Ephemera",
+    "claimed_genre": "a collection",
+    "language": "es, en",
+    "creators": null,
+    "stewards": "UCLA library",
+    "blurb": "\nThe UCLA Library has launched an innovative and forward-looking initiative to capture ephemeral content with global partners. Through this project, UCLA Library endeavors to build international and global collections of knowledge and to preserve the historical and cultural record so that present and future generations can access and use ephemera that document the larger arena of discourse that takes place alongside mainstream media and scholarly publications. ",
+    "collection": "caridischo",
+    "thumbnail": "img/derivatives/simple/cds72/thumbnail.jpg",
+    "permalink": "/caridischo/cds72",
+    "lunr_id": 134
+  },
+  {
+    "pid": "cds46",
+    "caridischo_genre": "Collections & Curations",
+    "label": "Claude McKay's Early Poetry (1911-1922): A Digital Collection",
     "claimed_genre": "digital collection",
     "language": "en",
     "creators": "Amardeep Singh",
@@ -1890,12 +1904,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds46/thumbnail.jpg",
     "permalink": "/caridischo/cds46",
-    "lunr_id": 134
+    "lunr_id": 135
   },
   {
     "pid": "cds17",
-    "label": "Banque Numérique des Patrimoines Martiniquais",
     "caridischo_genre": "Collections & Curations",
+    "label": "Banque Numérique des Patrimoines Martiniquais",
     "claimed_genre": "banque numérique",
     "language": "fr",
     "creators": null,
@@ -1904,13 +1918,13 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds17/thumbnail.jpg",
     "permalink": "/caridischo/cds17",
-    "lunr_id": 135
+    "lunr_id": 136
   },
   {
     "pid": "cds56",
-    "label": "Caribbean Diaspora Project",
     "caridischo_genre": "Collections & Curations",
-    "claimed_genre": "Digital Humanities initiative",
+    "label": "Caribbean Diaspora Project",
+    "claimed_genre": "a Digital Humanities initiative",
     "language": "en",
     "creators": "Mirerza González-Vélez, Nadjah Ríos Villarini",
     "stewards": "dLoC, Puerto Rican Foundation for the Humanities",
@@ -1918,12 +1932,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds56/thumbnail.jpg",
     "permalink": "/caridischo/cds56",
-    "lunr_id": 136
+    "lunr_id": 137
   },
   {
     "pid": "cds62",
-    "label": "Dominica History: The Road To Independence ",
     "caridischo_genre": "Collections & Curations",
+    "label": "Dominica History: The Road To Independence ",
     "claimed_genre": "digital archive",
     "language": "en",
     "creators": "Schuyler Esprit ",
@@ -1932,12 +1946,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds62/thumbnail.jpg",
     "permalink": "/caridischo/cds62",
-    "lunr_id": 137
+    "lunr_id": 138
   },
   {
     "pid": "cds33",
-    "label": "Carisealand",
     "caridischo_genre": "Collections & Curations",
+    "label": "Carisealand",
     "claimed_genre": "digital research project",
     "language": "en",
     "creators": "Schuyler Esprit",
@@ -1946,12 +1960,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds33/thumbnail.jpg",
     "permalink": "/caridischo/cds33",
-    "lunr_id": 138
+    "lunr_id": 139
   },
   {
     "pid": "cds9",
-    "label": "Antologías del Pensamiento Social Latinoamericano y Caribeño ",
     "caridischo_genre": "Collections & Curations",
+    "label": "Antologías del Pensamiento Social Latinoamericano y Caribeño ",
     "claimed_genre": "antología",
     "language": "es",
     "creators": null,
@@ -1960,27 +1974,27 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds9/thumbnail.jpg",
     "permalink": "/caridischo/cds9",
-    "lunr_id": 139
+    "lunr_id": 140
   },
   {
     "pid": "cds91",
-    "label": "La Revista América Negra",
     "caridischo_genre": "Collections & Curations",
+    "label": "La Revista América Negra",
     "claimed_genre": "publicaciones",
     "language": "es, en, fr, de, it, pt",
     "creators": "Nina de Friedemann",
     "stewards": "Pontificia Universidad Javeriana Bogotá",
-    "blurb": "The América Negra Magazine was a biannual publication of the Human Expedition that contained materials on any of the disciplines that deal with the description and analysis of human populations. The Magazine emphasized the black and indigenous communities of the American continent and their relationships with populations from other parts of the world.\r\n",
+    "blurb": "The América Negra Magazine was a biannual publication of the Human Expedition that contained materials on any of the disciplines that deal with the description and analysis of human populations. The Magazine emphasized the black and indigenous communities of the American continent and their relationships with populations from other parts of the world.\n",
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds91/thumbnail.jpg",
     "permalink": "/caridischo/cds91",
-    "lunr_id": 140
+    "lunr_id": 141
   },
   {
     "pid": "cds13",
-    "label": "A Colony in Crisis",
     "caridischo_genre": "Collections & Curations",
-    "claimed_genre": "curation and translation",
+    "label": "A Colony in Crisis",
+    "claimed_genre": "a curation and translations",
     "language": "en, ht",
     "creators": "Abby R. Broughton, Kelsey Corlett-Rivera, Nathan H. Dize, Brittany de Gail",
     "stewards": "Vanderbilt University",
@@ -1988,12 +2002,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds13/thumbnail.jpg",
     "permalink": "/caridischo/cds13",
-    "lunr_id": 141
+    "lunr_id": 142
   },
   {
     "pid": "cds42",
-    "label": "Archivo de Respuestas Emergencias de Puerto Rico (AREPR)",
     "caridischo_genre": "Collections & Curations",
+    "label": "Archivo de Respuestas Emergencias de Puerto Rico (AREPR)",
     "claimed_genre": "archivo",
     "language": "en, es",
     "creators": "Christina Boyles",
@@ -2002,12 +2016,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds42/thumbnail.jpg",
     "permalink": "/caridischo/cds42",
-    "lunr_id": 142
+    "lunr_id": 143
   },
   {
     "pid": "cds85",
-    "label": "Guantánamo Public Memory Project",
     "caridischo_genre": "Cabinet of Wonders",
+    "label": "Guantánamo Public Memory Project",
     "claimed_genre": "a project",
     "language": "en",
     "creators": "Columbia University Center for the Study of Human Rights",
@@ -2016,12 +2030,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds85/thumbnail.jpg",
     "permalink": "/caridischo/cds85",
-    "lunr_id": 143
+    "lunr_id": 144
   },
   {
     "pid": "cds76",
-    "label": "Jews of Barbados - Bibliography",
     "caridischo_genre": "Reference",
+    "label": "Jews of Barbados - Bibliography",
     "claimed_genre": "online bibliography",
     "language": "en",
     "creators": "Amalia S. Levi",
@@ -2030,12 +2044,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds76/thumbnail.jpg",
     "permalink": "/caridischo/cds76",
-    "lunr_id": 144
+    "lunr_id": 145
   },
   {
     "pid": "cds27",
-    "label": "The Barbadian",
     "caridischo_genre": "Collections & Curations",
+    "label": "The Barbadian",
     "claimed_genre": "digitization",
     "language": "en",
     "creators": "Amalia S. Levi, et al",
@@ -2044,26 +2058,26 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds27/thumbnail.jpg",
     "permalink": "/caridischo/cds27",
-    "lunr_id": 145
+    "lunr_id": 146
   },
   {
     "pid": "cds37",
-    "label": "Caribbean Review of Gender Studies",
     "caridischo_genre": "Publications & Blogs",
+    "label": "Caribbean Review of Gender Studies",
     "claimed_genre": "academic journal",
     "language": "en",
     "creators": "Institute for Gender and Development Studies",
     "stewards": "UWI St. Augustine",
-    "blurb": "\r\nThe Caribbean Review of Gender Studies stimulates cross-cultural exchanges among Caribbean peoples within the region, those in the Caribbean Diaspora, as well as those who bring a comparative perspective to bear on Caribbean gender and feminist concerns. The journal is established around an identity and voice emanating from Caribbean realities of power in gender, sexualities, ethnicity and class relations, and their effects. The journal welcomes critical disciplinary or multi-disciplinary scholarly articles and creative contributions that broaden networks and enhance the global understanding and reach of Caribbean feminist theory and praxis.\r\n",
+    "blurb": "\nThe Caribbean Review of Gender Studies stimulates cross-cultural exchanges among Caribbean peoples within the region, those in the Caribbean Diaspora, as well as those who bring a comparative perspective to bear on Caribbean gender and feminist concerns. The journal is established around an identity and voice emanating from Caribbean realities of power in gender, sexualities, ethnicity and class relations, and their effects. The journal welcomes critical disciplinary or multi-disciplinary scholarly articles and creative contributions that broaden networks and enhance the global understanding and reach of Caribbean feminist theory and praxis.\n",
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds37/thumbnail.jpg",
     "permalink": "/caridischo/cds37",
-    "lunr_id": 146
+    "lunr_id": 147
   },
   {
     "pid": "cds66",
-    "label": "Île en île",
     "caridischo_genre": "Collections & Curations",
+    "label": "Île en île",
     "claimed_genre": "un site web",
     "language": "fr",
     "creators": "Thomas C. Spear",
@@ -2072,12 +2086,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds66/thumbnail.jpg",
     "permalink": "/caridischo/cds66",
-    "lunr_id": 147
+    "lunr_id": 148
   },
   {
     "pid": "cds95",
-    "label": "Junkanoo in Grand Bahama",
     "caridischo_genre": "Cabinet of Wonders",
+    "label": "Junkanoo in Grand Bahama",
     "claimed_genre": "an initial exploration",
     "language": "en",
     "creators": "Sally Everson",
@@ -2086,26 +2100,26 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds95/thumbnail.jpg",
     "permalink": "/caridischo/cds95",
-    "lunr_id": 148
+    "lunr_id": 149
   },
   {
     "pid": "cds52",
-    "label": "Directorio de Afrocubanas",
     "caridischo_genre": "Reference",
+    "label": "Directorio de Afrocubanas",
     "claimed_genre": "directorio",
     "language": "es",
     "creators": "Sandra Alvarez",
     "stewards": null,
-    "blurb": "\r\nThe Directory of Afro-Cubans is a digital tool that collects files on Afro-descendant Cuban women, who have contributed significantly to national culture and history.",
+    "blurb": "\nThe Directory of Afro-Cubans is a digital tool that collects files on Afro-descendant Cuban women, who have contributed significantly to national culture and history.",
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds52/thumbnail.jpg",
     "permalink": "/caridischo/cds52",
-    "lunr_id": 149
+    "lunr_id": 150
   },
   {
     "pid": "cds12",
-    "label": "Alternative Considerations of Jonestown and Peoples Temple",
     "caridischo_genre": "Collections & Curations",
+    "label": "Alternative Considerations of Jonestown and Peoples Temple",
     "claimed_genre": "a digital humanities project; annotated documents",
     "language": "en",
     "creators": "Fielding M. McGehee, Rebecca Moore",
@@ -2114,12 +2128,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds12/thumbnail.jpg",
     "permalink": "/caridischo/cds12",
-    "lunr_id": 150
+    "lunr_id": 151
   },
   {
     "pid": "cds43",
-    "label": "dLOC as Data: A Thematic Approach to Caribbean Newspapers",
     "caridischo_genre": "Cabinet of Wonders",
+    "label": "dLOC as Data: A Thematic Approach to Caribbean Newspapers",
     "claimed_genre": "an initiative",
     "language": "en",
     "creators": "Perry Collins, Hadassah St. Hubert, Miguel Asencio, Jamie Rogers; http://dlocasdata.domains.uflib.ufl.edu/project-team/",
@@ -2128,12 +2142,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds43/thumbnail.jpg",
     "permalink": "/caridischo/cds43",
-    "lunr_id": 151
+    "lunr_id": 152
   },
   {
     "pid": "cds84",
-    "label": "John Carter Brown Library Haiti Collection",
     "caridischo_genre": "Collections & Curations",
+    "label": "John Carter Brown Library Haiti Collection",
     "claimed_genre": "digital collection",
     "language": "en, fr",
     "creators": null,
@@ -2142,12 +2156,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds84/thumbnail.jpg",
     "permalink": "/caridischo/cds84",
-    "lunr_id": 152
+    "lunr_id": 153
   },
   {
     "pid": "cds77",
-    "label": "George Padmore Institute Archive",
     "caridischo_genre": "Collections & Curations",
+    "label": "George Padmore Institute Archive",
     "claimed_genre": "archive",
     "language": "en",
     "creators": null,
@@ -2156,12 +2170,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds77/thumbnail.jpg",
     "permalink": "/caridischo/cds77",
-    "lunr_id": 153
+    "lunr_id": 154
   },
   {
     "pid": "cds26",
-    "label": "A Boricua Abroad",
     "caridischo_genre": "Publications & Blogs",
+    "label": "A Boricua Abroad",
     "claimed_genre": "[blog]",
     "language": "en",
     "creators": "Jennifer Caroccio",
@@ -2170,12 +2184,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds26/thumbnail.jpg",
     "permalink": "/caridischo/cds26",
-    "lunr_id": 154
+    "lunr_id": 155
   },
   {
     "pid": "cds36",
-    "label": "Caribbean Religious Trials",
     "caridischo_genre": "Reference",
+    "label": "Caribbean Religious Trials",
     "claimed_genre": "website",
     "language": "en",
     "creators": "Diana Paton et al.",
@@ -2184,12 +2198,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds36/thumbnail.jpg",
     "permalink": "/caridischo/cds36",
-    "lunr_id": 155
+    "lunr_id": 156
   },
   {
     "pid": "cds67",
-    "label": "Harlem Shadows",
     "caridischo_genre": "Collections & Curations",
+    "label": "Harlem Shadows",
     "claimed_genre": "edition",
     "language": "en",
     "creators": "Chris Forster, Roopika Risam",
@@ -2198,13 +2212,13 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds67/thumbnail.jpg",
     "permalink": "/caridischo/cds67",
-    "lunr_id": 156
+    "lunr_id": 157
   },
   {
     "pid": "cds94",
-    "label": "Library of Glissant Studies",
     "caridischo_genre": "Collections & Curations",
-    "claimed_genre": "Collection/Archive",
+    "label": "Library of Glissant Studies",
+    "claimed_genre": "a digital library",
     "language": "en, fr",
     "creators": "Raphaël Lauro and Jeanne Jégousso",
     "stewards": null,
@@ -2212,12 +2226,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds94/thumbnail.jpg",
     "permalink": "/caridischo/cds94",
-    "lunr_id": 157
+    "lunr_id": 158
   },
   {
     "pid": "cds53",
-    "label": "English Slave Trade, 1791-1799\r\n(House of Lords Survey)",
     "caridischo_genre": "Collections & Curations",
+    "label": "English Slave Trade, 1791-1799\n(House of Lords Survey)",
     "claimed_genre": "online data archive",
     "language": "en",
     "creators": "Herbert S. Klein",
@@ -2226,12 +2240,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds53/thumbnail.jpg",
     "permalink": "/caridischo/cds53",
-    "lunr_id": 158
+    "lunr_id": 159
   },
   {
     "pid": "cds22",
-    "label": "Caribbean Literary Heritage",
     "caridischo_genre": "Cabinet of Wonders",
+    "label": "Caribbean Literary Heritage",
     "claimed_genre": "a project",
     "language": "en",
     "creators": "Project team led by Alison Donnell",
@@ -2240,12 +2254,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds22/thumbnail.jpg",
     "permalink": "/caridischo/cds22",
-    "lunr_id": 159
+    "lunr_id": 160
   },
   {
     "pid": "cds73",
-    "label": "First Blacks in the Americas",
     "caridischo_genre": "Collections & Curations",
+    "label": "First Blacks in the Americas",
     "claimed_genre": "a digital educational platform ",
     "language": "en, es",
     "creators": "Lisette Acosta, Dominican Studies Institute",
@@ -2254,12 +2268,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds73/thumbnail.jpg",
     "permalink": "/caridischo/cds73",
-    "lunr_id": 160
+    "lunr_id": 161
   },
   {
     "pid": "cds47",
-    "label": "Digital Archeological Archive of Comparative Slavery",
     "caridischo_genre": "Collections & Curations",
+    "label": "Digital Archeological Archive of Comparative Slavery",
     "claimed_genre": "digital archeological archive",
     "language": "en",
     "creators": "Jillian E. Galle",
@@ -2268,12 +2282,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds47/thumbnail.jpg",
     "permalink": "/caridischo/cds47",
-    "lunr_id": 161
+    "lunr_id": 162
   },
   {
     "pid": "cds16",
-    "label": "Bibliography for \\\"runaway\\\" enslaved people",
     "caridischo_genre": "Reference",
+    "label": "Bibliography for \\\"runaway\\\" enslaved people",
     "claimed_genre": "a bibliography",
     "language": "en",
     "creators": "Amalia S. Levi & Dr. Paola A. Schiappacasse",
@@ -2282,12 +2296,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds16/thumbnail.jpg",
     "permalink": "/caridischo/cds16",
-    "lunr_id": 162
+    "lunr_id": 163
   },
   {
     "pid": "cds57",
-    "label": "Digital Photographic Archive of Historic Havana",
     "caridischo_genre": "Collections & Curations",
+    "label": "Digital Photographic Archive of Historic Havana",
     "claimed_genre": "digitial photographic archive",
     "language": "en",
     "creators": null,
@@ -2296,12 +2310,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds57/thumbnail.jpg",
     "permalink": "/caridischo/cds57",
-    "lunr_id": 163
+    "lunr_id": 164
   },
   {
     "pid": "cds63",
-    "label": "Dutch Caribbean Heritage Collection",
     "caridischo_genre": "Collections & Curations",
+    "label": "Dutch Caribbean Heritage Collection",
     "claimed_genre": "collection",
     "language": "en, es, du, pap",
     "creators": null,
@@ -2310,12 +2324,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds63/thumbnail.jpg",
     "permalink": "/caridischo/cds63",
-    "lunr_id": 164
+    "lunr_id": 165
   },
   {
     "pid": "cds32",
-    "label": "CUNY Dominican Institute Publications ",
     "caridischo_genre": "Publications & Blogs",
+    "label": "CUNY Dominican Institute Publications ",
     "claimed_genre": "publications",
     "language": "en",
     "creators": null,
@@ -2324,12 +2338,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds32/thumbnail.jpg",
     "permalink": "/caridischo/cds32",
-    "lunr_id": 165
+    "lunr_id": 166
   },
   {
     "pid": "cds8",
-    "label": "Biblioteca de Literatura Afrocolombiana",
     "caridischo_genre": "Collections & Curations",
+    "label": "Biblioteca de Literatura Afrocolombiana",
     "claimed_genre": "colección digital",
     "language": "es",
     "creators": null,
@@ -2338,12 +2352,12 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds8/thumbnail.jpg",
     "permalink": "/caridischo/cds8",
-    "lunr_id": 166
+    "lunr_id": 167
   },
   {
     "pid": "cds90",
-    "label": "Haitian Art: a Digital Crossroads",
     "caridischo_genre": "Collections & Curations",
+    "label": "Haitian Art: a Digital Crossroads",
     "claimed_genre": "grant project",
     "language": "en",
     "creators": "Fredo Rivera, Petrouchka Moïse",
@@ -2352,6 +2366,6 @@ layout: none
     "collection": "caridischo",
     "thumbnail": "img/derivatives/simple/cds90/thumbnail.jpg",
     "permalink": "/caridischo/cds90",
-    "lunr_id": 167
+    "lunr_id": 168
   }
 ]

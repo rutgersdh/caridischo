@@ -1,8 +1,7 @@
 ---
 pid: cds73
-label: First Blacks in the Americas
-screenshot: 
 caridischo_genre: Collections & Curations
+label: First Blacks in the Americas
 claimed_genre: 'a digital educational platform '
 link: http://firstblacks.org/en/
 open_access: 'TRUE'
@@ -17,10 +16,11 @@ blurb: First Blacks in the Americas is a fully bilingual (English and Spanish) d
   Spanish One’) by the Spanish colonizers when they arrived in 1492 and throughout
   the sixteenth-century.
 added_by: Alex Gil
+added_year: '2020'
 notes: 
-order: '068'
+order: '140'
 layout: caridischo_item
 collection: caridischo
 thumbnail: img/derivatives/simple/cds73/thumbnail.jpg
-full: img/derivatives/simple/cds73/full.jpg
+full: img/derivatives/simple/cds73/fullwidth.jpg
 ---

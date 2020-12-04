@@ -1,8 +1,7 @@
 ---
 pid: cds64
-label: In the Same Boats
-screenshot: 
 caridischo_genre: Maps & Visualizations
+label: In the Same Boats
 claimed_genre: maps
 link: https://sameboats.org/
 open_access: 'TRUE'
@@ -22,10 +21,11 @@ blurb: 'In the Same Boats is a work of multimodal scholarship designed to encour
   and on the same transatlantic crossings––literally and metaphorically in the same
   boats––as they circulate throughout the Americas, Africa, Europe, and beyond.'
 added_by: Alex Gil
+added_year: '2020'
 notes: 
-order: '083'
+order: '130'
 layout: caridischo_item
 collection: caridischo
 thumbnail: img/derivatives/simple/cds64/thumbnail.jpg
-full: img/derivatives/simple/cds64/full.jpg
+full: img/derivatives/simple/cds64/fullwidth.jpg
 ---

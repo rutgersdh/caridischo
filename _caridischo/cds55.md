@@ -1,8 +1,7 @@
 ---
 pid: cds55
-label: 'Dominica History: Building Communities 1838 – 1938'
-screenshot: 
 caridischo_genre: Collections & Curations
+label: 'Dominica History: Building Communities 1838 – 1938'
 claimed_genre: web resource
 link: https://dominicahistory.org/2016/
 open_access: 'TRUE'
@@ -14,10 +13,11 @@ blurb: 'The Dominica History web resource is a collaboration between the Divisio
   of Culture in Dominica and Create Caribbean Research Institute at Dominica State
   College. This year, the theme is “Building Communities: 1838-1938.”'
 added_by: 'Schuyler Esprit '
+added_year: '2020'
 notes: 
-order: '060'
+order: '120'
 layout: caridischo_item
 collection: caridischo
 thumbnail: img/derivatives/simple/cds55/thumbnail.jpg
-full: img/derivatives/simple/cds55/full.jpg
+full: img/derivatives/simple/cds55/fullwidth.jpg
 ---

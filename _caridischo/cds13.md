@@ -1,9 +1,8 @@
 ---
 pid: cds13
-label: A Colony in Crisis
-screenshot: 
 caridischo_genre: Collections & Curations
-claimed_genre: curation and translation
+label: A Colony in Crisis
+claimed_genre: a curation and translations
 link: https://colonyincrisis.lib.umd.edu
 open_access: 'TRUE'
 status: Active
@@ -14,10 +13,11 @@ blurb: The website is designed to provide online access to both the French origi
   and the English translations of key primary sources dealing with the grain shortage
   faced by the colony of Saint-Domingue in 1789
 added_by: Kaiama L. Glover
+added_year: '2020'
 notes: 
-order: '006'
+order: '034'
 layout: caridischo_item
 collection: caridischo
 thumbnail: img/derivatives/simple/cds13/thumbnail.jpg
-full: img/derivatives/simple/cds13/full.jpg
+full: img/derivatives/simple/cds13/fullwidth.jpg
 ---

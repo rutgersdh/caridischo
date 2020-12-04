@@ -1,8 +1,7 @@
 ---
 pid: cds57
-label: Digital Photographic Archive of Historic Havana
-screenshot: 
 caridischo_genre: Collections & Curations
+label: Digital Photographic Archive of Historic Havana
 claimed_genre: digitial photographic archive
 link: https://compass.fivecolleges.edu/collections/digital-photographic-archive-historic-havana
 open_access: 'FALSE'
@@ -18,10 +17,11 @@ blurb: Based on a common need for a robust infrastructure to manage their digita
   have partnered with Born-Digital for development, design, and project management
   support.
 added_by: 'Arturo Victoriano '
+added_year: '2020'
 notes: 
-order: '055'
+order: '122'
 layout: caridischo_item
 collection: caridischo
 thumbnail: img/derivatives/simple/cds57/thumbnail.jpg
-full: img/derivatives/simple/cds57/full.jpg
+full: img/derivatives/simple/cds57/fullwidth.jpg
 ---

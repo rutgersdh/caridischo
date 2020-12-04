@@ -1,8 +1,7 @@
 ---
 pid: cds88
-label: Musical Passages
-screenshot: 
 caridischo_genre: Collections & Curations
+label: Musical Passage
 claimed_genre: exhibit
 link: http://www.musicalpassage.org/
 open_access: 'TRUE'
@@ -23,10 +22,11 @@ blurb: Developed by historian Laurent Dubois, PhD candidate in English Mary Cato
   music they had learned in their homelands. They may also have been in the process
   of creating entirely new performance traditions.
 added_by: Alex Gil
+added_year: '2020'
 notes: Can't copy text from the original site.
-order: '112'
+order: '155'
 layout: caridischo_item
 collection: caridischo
 thumbnail: img/derivatives/simple/cds88/thumbnail.jpg
-full: img/derivatives/simple/cds88/full.jpg
+full: img/derivatives/simple/cds88/fullwidth.jpg
 ---

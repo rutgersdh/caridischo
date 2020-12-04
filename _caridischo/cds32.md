@@ -1,8 +1,7 @@
 ---
 pid: cds32
-label: 'CUNY Dominican Institute Publications '
-screenshot: 
 caridischo_genre: Publications & Blogs
+label: 'CUNY Dominican Institute Publications '
 claimed_genre: publications
 link: https://academicworks.cuny.edu/dsi_pubs/
 open_access: 'TRUE'
@@ -15,10 +14,11 @@ blurb: CUNY Academic Works is a service of the CUNY Libraries dedicated to colle
   work of the City University of New York. In service to CUNY’s mission as a public
   university, content in Academic Works is freely available to all.
 added_by: 
+added_year: '2020'
 notes: 
-order: '045'
+order: '095'
 layout: caridischo_item
 collection: caridischo
 thumbnail: img/derivatives/simple/cds32/thumbnail.jpg
-full: img/derivatives/simple/cds32/full.jpg
+full: img/derivatives/simple/cds32/fullwidth.jpg
 ---

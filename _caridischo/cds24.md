@@ -1,8 +1,7 @@
 ---
 pid: cds24
-label: Beyond the Sugar Curtain
-screenshot: 
 caridischo_genre: Publications & Blogs
+label: Beyond the Sugar Curtain
 claimed_genre: a project
 link: https://www.brown.edu/research/projects/tracing-cuba-us-connections/home-inicio
 open_access: 'TRUE'
@@ -15,10 +14,11 @@ blurb: Initiated by the former General Council of Martinique, the Banque Numéri
   cultural and historical heritage of Martinique backed by the geographic information
   system of Martinique (SIGMA).
 added_by: Roopika Risam
+added_year: '2020'
 notes: 
-order: '024'
+order: '086'
 layout: caridischo_item
 collection: caridischo
 thumbnail: img/derivatives/simple/cds24/thumbnail.jpg
-full: img/derivatives/simple/cds24/full.jpg
+full: img/derivatives/simple/cds24/fullwidth.jpg
 ---
