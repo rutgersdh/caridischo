@@ -99,7 +99,7 @@ search:
 # submenu via `sub`.
 
 menu:
-  - label: 'Genres'
+  - label: 'Browse'
     sub:     
       - label: 'Collections & Curations'
         link: '/collections/'
@@ -111,6 +111,8 @@ menu:
         link: '/reference/'
       - label: 'Cabinet of Wonders'
         link: '/wonders/'
+  - label: 'Search'
+    link: '/search/'
   - label: 'About'
     sub:
       - label: 'Sources'
@@ -119,8 +121,6 @@ menu:
         link: '/credits/'
       - label: 'FAQ'
         link: '/faq/'
-  - label: 'Search'
-    link: '/search/'
 
 
 

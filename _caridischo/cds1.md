@@ -3,7 +3,7 @@ pid: cds1
 label: archipelagos journal
 screenshot: 
 caridischo_genre: Publications & Blogs
-claimed_genre: academic journal
+claimed_genre: an academic journal
 link: http://archipelagosjournal.org/
 open_access: 'TRUE'
 status: Active

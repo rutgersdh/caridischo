@@ -1,5 +1,5 @@
 <div class='image-viewer'>
-  <a href='{{ include.image_link }}' target="_blank">
+  {% if include.image_link %}<a href='{{ include.image_link }}' target="_blank">{% endif %}
     <img class='item-full-image' src='{{ include.full_image | absolute_url }}' alt='{{ page.label | slugify }}'/>
-  </a>
+  {% if include.image_link %}</a>{% endif %}
 </div>
