@@ -1,6 +1,6 @@
 ---
 pid: cds1
-caridischo_genre: Reference
+caridischo_genre: Publications & Blogs
 label: archipelagos journal
 claimed_genre: an academic journal
 link: http://archipelagosjournal.org/

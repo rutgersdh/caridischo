@@ -4,6 +4,12 @@ title: Reference Works
 permalink: /reference/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a dignissim lacus. Mauris sed mollis arcu. Sed sem nulla, tincidunt vel egestas in, tristique ac purus. Suspendisse mattis fermentum vulputate. Pellentesque sit amet neque pharetra, faucibus nisl vel, egestas mauris. Vestibulum pulvinar elit vel malesuada suscipit. Praesent dolor mi, mollis a purus et, viverra finibus velit.
+We even have our own encyclopedias and dictionaries, as one should. A strange, more complete set of "Tlön, Uqbar, Orbis Tertius," *EcuRed* includes what Wikipedia lives out. So does *The Caribbean Dictionary*. Reference built by us will always reflect our own worlds in a manner that the universalists cannot. A reference work is always a series of breacrumbs, a shout out that points us to that which is unique, and may be ours.
+
+This directory is itself a reference work, and so are the bibliographies and syllabi listed below. The *Puerto Rico Syllabus,* as all syllabi, is a bibliography in its own right---curated for students, for the public---curated in the era of automatically generated bibliographies, from Google to library keyword searches.
+
+---
+
+In no particular order...
 
 {% include collection_gallery.html  collection='caridischo' facet_by='caridischo_genre' only='Reference' %}
