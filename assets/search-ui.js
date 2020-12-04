@@ -1,11 +1,11 @@
 // Methods and jQuery UI for Wax search box
 function excerptedString(str) {
   str = str || ''; // handle null > string
-  if (str.length < 40) {
+  if (str.length < 120) {
     return str;
   }
   else {
-    return `${str.substring(0, 40)} ...`;
+    return `${str.substring(0, 120)} ...`;
   }
 }
 
@@ -23,15 +23,9 @@ function displayResult(item, fields, url) {
   var label = item.label || 'Untitled';
   var link  = item.permalink;
   var thumb = getThumbnail(item, url);
-  var meta  = []
+  var meta  = excerptedString(item.blurb);
 
-  for (i in fields) {
-    fieldLabel = fields[i];
-    if (fieldLabel in item ) {
-      meta.push(`<b>${fieldLabel}:</b> ${excerptedString(item[fieldLabel])}`);
-    }
-  }
-  return `<div class="result"><a href="${url}${link}">${thumb}<p><span class="title">${item.label}</span><br><span class="meta">${meta.join(' | ')}</span></p></a></div>`;
+  return `<div class="result"><a href="${url}${link}">${thumb}<p><span class="title">${item.label}</span><br><span class="meta">${meta}</span></p></a></div>`;
 }
 
 function startSearchUI(fields, indexFile, url) {
