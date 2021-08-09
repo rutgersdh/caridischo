@@ -18,12 +18,12 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'CariDiScho2020'
-description:      'A Directory of Caribbean Digital Scholarship'
-url:              ''
-baseurl:          '/caridischo'
+title:            'Music DH'
+description:      'A Directory of Digital Scholarship in Music'
+url:              'https://rutgersdh.github.io'
+baseurl:          '/musicdh'
 copyright:        'CC-BY 4.0 International'
-logo:             '/img/logo.png'
+logo:             '/img/mla_logo.png'
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS
@@ -58,13 +58,13 @@ webrick:
 collections:
   exhibits:
     output: true
-  caridischo: # name of collection
+  musicdh: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'caridischo_item' # the layout for the pages to use
+    layout: 'musicdh_item' # the layout for the pages to use
     metadata:
-      source: 'caridischo.csv' # path to the metadata file within `_data`
+      source: 'musicdh.csv' # path to the metadata file within `_data`
     images:
-      source: 'raw_images/caridischo' # path to the directory of images within `_data`
+      source: 'raw_images/musicdh' # path to the directory of images within `_data`
 
 # --------------------------------------------------------------
 # LUNR SEARCH INDEX SETTINGS
@@ -80,16 +80,15 @@ search:
   main:
     index: '/search/index.json' # file the index will get written to
     collections:
-      caridischo:
+      musicdh:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
           - label
           - blurb
-          - caridischo_genre
-          - claimed_genre
-          - language
+          - genre
           - creators
           - stewards
+          - notes
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
@@ -101,16 +100,16 @@ search:
 menu:
   - label: 'Browse'
     sub:     
-      - label: 'Collections & Curations'
+      - label: 'Collections'
         link: '/collections/'
-      - label: 'Maps & Visualizations'
-        link: '/visualizations/'
+      - label: 'Editions'
+        link: '/editions/'
       - label: 'Publications & Blogs'
         link: '/publications/'
-      - label: 'Reference Works'
-        link: '/reference/'
-      - label: 'Cabinet of Wonders'
-        link: '/wonders/'
+      - label: 'Open Data'
+        link: '/data/'
+      - label: 'Software'
+        link: '/software/'
   - label: 'Search'
     link: '/search/'
   - label: 'About'
@@ -119,8 +118,6 @@ menu:
         link: '/reuse/'      
       - label: 'Credits'
         link: '/credits/'
-      - label: 'FAQ'
-        link: '/faq/'
 
 
 
@@ -132,12 +129,12 @@ menu:
 footer:
   links:
     - label: 'GitHub'
-      link: 'https://github.com/elotroalex/caridischo'
+      link: 'https://github.com/rutgersdh/musicdh'
     - label: 'Contact'
-      link: 'mailto:agil@columbia.edu'
+      link: 'mailto:fg162@rutgers.edu'
   logos:
-    - img: '/img/logo.png'
-    - img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2r40VYrf2Q5jkJiPGjPkl7xZoHJliwgVtHCLVXmAsRKw0ZudD'
-      link: 'https://library.columbia.edu'
+    - img: '/img/mla_logo.png'
+    - img: '/img/ru_shield.png'
+      link: 'https://www.musiclibraryassoc.org/'
 
 # FIN
