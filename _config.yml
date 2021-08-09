@@ -23,7 +23,7 @@ description:      'A Directory of Digital Scholarship in Music'
 url:              'https://rutgersdh.github.io'
 baseurl:          '/musicdh'
 copyright:        'CC-BY 4.0 International'
-logo:             '/img/mla_logo.png'
+logo:             ''
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS
@@ -118,6 +118,8 @@ menu:
         link: '/reuse/'      
       - label: 'Credits'
         link: '/credits/'
+      - label: 'FAQ'
+        link: '/faq/'
 
 
 
@@ -134,7 +136,6 @@ footer:
       link: 'mailto:fg162@rutgers.edu'
   logos:
     - img: '/img/mla_logo.png'
-    - img: '/img/ru_shield.png'
       link: 'https://www.musiclibraryassoc.org/'
 
 # FIN

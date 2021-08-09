@@ -1,0 +1,25 @@
+---
+pid: musicdh008
+label: Inventions of Note
+genre: digital collection
+link: https://dome.mit.edu/handle/1721.3/188939
+status: active
+open_access: 'TRUE'
+creators: NA
+stewards: MIT Libraries
+blurb: The Inventions of Note Sheet Music Collection was established in 1997 by the
+  Lewis Music Library at the Massachusetts Institute of Technology. This sheet music
+  collection consists of popular songs and piano compositions that portray technologies
+  (old and new alike) as revealed through song texts and/or cover art. Today we take
+  for granted such inventions as the automobile, airplane, radio, and telephone; they
+  have become part of our daily lives. However, the initial appearance of these and
+  other inventions created a myriad of responses in American society ranging from
+  excitement and delight to anxiety and scorn. This collection reflects those varied
+  reactions through the medium of popular music publications.
+notes: NA
+order: '07'
+layout: musicdh_item
+collection: musicdh
+thumbnail: img/derivatives/simple/musicdh008/thumbnail.jpg
+full: img/derivatives/simple/musicdh008/fullwidth.jpg
+---

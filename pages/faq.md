@@ -4,31 +4,18 @@ title: FAQ
 permalink: '/faq/'
 ---
 
-### What is digital scholarship? 
+### What counts as music DH? 
 
-The scholarly and cultural record is now a hybrid material reality—parts analog, parts digital. Vast commodified libraries and small, carefully-curated collections of digitized historical and cultural artifacts are now commonplace sources for our research; most of our writing for publication happens directly in and for the computer, with print being an after-effect; the venues themselves for such publications is increasingly online and opened. An enormous amount of data now carry our cultures and histories as a result. This data, as such, can also be manipulated using algorithms, often to detect patterns in corpora, and at other times to create new knowledge, or even convincing falsehoods; powerful networking tools seem to fuel a new kind of acknowledged collaboration, outside of service and clientelist relationships in the production and hoarding of knowledge. *Digital scholarship* speaks of this brave new world, and the material objects and architectures that enable our movements through it.
-
-### Can't you just give it to me straight?
-
-Sure. How about... The digital archives we use and produce for our research, and the new forms our research, teaching and publishing can take because computers.
+At the MLA 2018 Annual Meeting, there was some discussion about what constitutes a digital humanities project in music. Here follow some brief remarks and loose guidelines. In comments to the meeting minutes, Michael Cuthbert remarked that one often observes a distinction between composition (digital art) and musicology and music theory (digital humanities). David Day asked what distinctions we might draw between an online digital collection or library (e.g. the Danish National Digital Sheet Music Archive), a source of structured or semi-structured data (e.g. a music encoding dataset), and a project that includes some editorial apparatus, critical essays and/or similar contribution (e.g. the CHARM Mazurka Project or the Josquin Research Project). To this, one might add bibliographic and information resources, e.g. Early Music Sources and Digital Resources for Musicology. And music teachers use a range of digital technologies as well, although the list maintainer is less well acquainted with online presentations of materials in music pedagogy. In our [data sheet](https://docs.google.com/spreadsheets/d/1UyCED16mYxo3XE4RuushxE7DWyqR_CNFecn0k79ldA4/edit?usp=sharing), we have leaned towards specialized digital collections, digital editions, and other projects that hover over the general area of bibliographic and musicological studies. The emphasis is there for now, but there's no reason why we would not also include strong contributions in digital music pedagogy, theory, composition, as well as well-prepared/described datasets. To that end, please make use of the `category` field to describe your contribution. We have used that field to tease out some genre groupings and think about other ways of presenting this information.
 
 ### Why is my project not here?
 
-This directory was compiled over a period of over a month by a [group of our colleagues]({{ '/credits/' | absolute_url}})---librarians and scholars. These colleagues heard about the directory through social media networks and word of mouth. We did our best to promote the collection of data in order to make sure that most of us knew we were building a directory. We don't know why your project is not here.
+This directory was compiled over a period of a few years by a [group of our colleagues]({{ '/credits/' | absolute_url}})---librarians and scholars. We did our best to collect data by searching relevant professional listservs, conference hashtags on social media, [Reviews in DH](https://reviewsindh.pubpub.org/), [DH Awards](http://dhawards.org/), and other sources. 
 
 ### So... how do I add my project?
 
-The website for this directory was built as a static site by design. It is meant to be a snapshot, a census, not a platform. We decided to do this because of [our gravitation towards minimal computing practices](https://web.archive.org/web/20200326054116/https://des4div.library.northeastern.edu/design-for-diversity-the-case-of-ed-alex-gil/), but also because of the history of project directories in the larger world of digital humanities. Simply put, we're dealing here with Walter Benjamin's angel of history: nothing but disaster has befallen most previous attempts at building these comprehensive, exhaustive, always-open-for-business databases of projects. 
+The website for this directory was built as a static site by design. It is meant to be a snapshot in time, not an ever-evolving platform. We are keeping [our original Google sheet](https://docs.google.com/spreadsheets/d/1UyCED16mYxo3XE4RuushxE7DWyqR_CNFecn0k79ldA4/edit?usp=sharing) open and available to everyone. Please add your project there! There's a column for the year a new entry was added. Make sure to use that. At future meetings of the Music Library Association, we may decide to build a new directory. 
 
-Do not despair, though. We are keeping [our original data sheet on Google docs](https://docs.google.com/spreadsheets/d/1PfgI0GrQR60gwRFVIZmZtWae9JyAMpZNFOZRe5xsMsg/edit#gid=0) open and available to everyone. You can share your project there! A new column was added that asks for the year a new entry was added. Make sure to use it. We have discussed building a new directory a few years from now, for a future Caribbean Digital conference. Who knows... perhaps we're starting a tradition.
-
-### I found a serious error in your data. Who do I talk to?
-
-If the error is truly serious, talk to Alex Gil. He takes full responsibility for the contents of this site and its mistakes and misfortunes. Examples of serious errors include misattributions in the "creator" or in the "open access" category. 
-
-### What goes good with Dominican rum?
-
-Ice. Maybe un poquito de limón.
 
 
 
