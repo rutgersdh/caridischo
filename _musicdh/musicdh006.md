@@ -5,7 +5,7 @@ genre: data
 link: https://archives.nyphil.org/
 status: active
 open_access: 'TRUE'
-creators: Barbara Haws, archivist
+creators: Barbara Haws
 stewards: New York Philharmonic
 blurb: The New York Philharmonic played its first concert on December 7, 1842. Since
   then, it has merged with the New York Symphony, the New/National Symphony, and had

@@ -1,6 +1,6 @@
 ---
 pid: musicdh007
-label: Class of 1982 Sequentiary MIT
+label: Class of 1982 Sequentiary
 genre: digital collection
 link: https://libraries.mit.edu/music/sequentiary/
 status: active
