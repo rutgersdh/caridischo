@@ -11,7 +11,7 @@ $logo: url("{{ '/img/logo.png' | absolute_url }}");
 /* text */
 
 $body-font:       'Open Sans', 'sans-serif';
-$heading-font:    'Open Sans', 'sans-serif';
+$heading-font:    'Playfair Display', serif;
 
 
 /* Image Size */
@@ -48,5 +48,5 @@ $banner-height:   300px;
 font & asset import
 */
 
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&font-display=auto');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&family=Playfair+Display:wght@400;700&display=swap');
 @import 'wax';

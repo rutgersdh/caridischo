@@ -1,0 +1,24 @@
+---
+pid: musicdh013
+musicdh_genre: software
+label: Aruspix
+claimed_category: software
+link: http://www.aruspix.net/index.html
+status: active
+creators: Laurent Pugin
+stewards: RISM, Université de Genève, McGill University
+blurb: Software application for optical recognition, superimposition, and collation
+  of early music prints. Aruspix has been developed with early typographic music prints
+  in mind, meaning mainly those scores printed during the 16th and 17th centuries
+  with movable typefaces. Such scores are often difficult to examine with existing
+  superimposition and optical recognition software, as they present a number of specific
+  layout and format problems and are quite often in a deteriorated state because of
+  their age.
+tools_used: OMR
+notes: NA
+order: '12'
+layout: musicdh_item
+collection: musicdh
+thumbnail: img/derivatives/simple/musicdh013/thumbnail.jpg
+full: img/derivatives/simple/musicdh013/fullwidth.jpg
+---

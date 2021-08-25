@@ -1,0 +1,23 @@
+---
+pid: musicdh026
+musicdh_genre: reference
+label: 'Carl Nielsen''s Works: A Catalogue of Carl Nielsen''s Works (CNW)'
+claimed_category: music encoding, metadata, indexing
+link: http://www.kb.dk/dcm/cnw.html
+status: active
+creators: Niels Bo Foltmann, Sigfrid Lundberg
+stewards: Danish Centre for Music Editing, Royal Danish Library
+blurb: The first ever thematic-bibliographic registration of all Nielsen’s compositions.
+  It is based entirely on the so-called MEI Header (or metadata section) and was edited
+  using the MerMEId tool. It includes all the information usually found in printed
+  thematic catalogues such as instrumentation, date of composition, a short description
+  of each work’s history, a list of movements including incipits, as well as lists
+  of sources, performances, letters, diary entries and other documents.
+tools_used: MEI, MerMEId tool
+notes: NA
+order: '25'
+layout: musicdh_item
+collection: musicdh
+thumbnail: img/derivatives/simple/musicdh026/thumbnail.jpg
+full: img/derivatives/simple/musicdh026/fullwidth.jpg
+---

@@ -6,3 +6,16 @@ $ magick mogrify -crop 1200x300+0+0 -path ../banner *.png
 # Add right permissions to image folder
 
 $ cdchmod -R 755 .
+
+# Create montage of screen captures
+
+$ convert \( musicdh001.png musicdh002.png musicdh003.png musicdh004.png musicdh005.png musicdh006.png musicdh007.png musicdh008.png musicdh009.png musicdh010.png +append \) \
+\( musicdh011.png musicdh012.png musicdh013.png musicdh014.png musicdh015.png musicdh016.png musicdh017.png musicdh018.png musicdh019.png musicdh020.png +append \) \
+\( musicdh021.png musicdh022.png musicdh023.png musicdh024.png musicdh025.png musicdh026.png musicdh027.png musicdh028.png musicdh029.png musicdh030.png +append \) \
+\( musicdh031.png musicdh032.png musicdh033.png musicdh034.png musicdh035.png musicdh036.png musicdh037.png musicdh038.png musicdh039.png musicdh040.png +append \) \
+\( musicdh041.png musicdh042.png musicdh043.png musicdh044.png musicdh045.png musicdh046.png musicdh047.png musicdh048.png musicdh049.png musicdh050.png +append \) \
+\( musicdh051.png musicdh052.png musicdh053.png musicdh054.png musicdh055.png musicdh056.png musicdh057.png musicdh058.png musicdh059.png musicdh060.png +append \) \
+       -append                                  \
+       -mattecolor lightblue                    \
+       -frame 1x1                               \
+        montage.jpg

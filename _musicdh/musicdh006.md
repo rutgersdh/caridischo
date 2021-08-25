@@ -1,10 +1,10 @@
 ---
 pid: musicdh006
+musicdh_genre: data
 label: New York Philharmonic Leon Levy Digital Archives
-genre: data
+claimed_category: digital collections, open data
 link: https://archives.nyphil.org/
 status: active
-open_access: 'TRUE'
 creators: Barbara Haws
 stewards: New York Philharmonic
 blurb: The New York Philharmonic played its first concert on December 7, 1842. Since
@@ -15,8 +15,9 @@ blurb: The New York Philharmonic played its first concert on December 7, 1842. S
   provides an additional interface for searching printed programs alongside other
   digitized items such as marked music scores, marked orchestral parts, business records,
   and photos.
-notes: 'Tools used: Hadoop, CodeIgniter, Solr, Abbyy OCR. JSON and XML formats at
-  https://github.com/nyphilarchive/PerformanceHistory/.'
+tools_used: Hadoop, CodeIgniter, Solr, Abbyy OCR
+code_repository: https://github.com/nyphilarchive/PerformanceHistory/
+notes: NA
 order: '05'
 layout: musicdh_item
 collection: musicdh

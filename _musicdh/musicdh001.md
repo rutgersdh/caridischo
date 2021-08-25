@@ -1,10 +1,11 @@
 ---
 pid: musicdh001
+musicdh_genre: collections & exhibits
 label: Séamus Connolly Collection of Irish Music
-genre: digital collection
+claimed_category: digital collections, network visualization, linked open data, digital
+  curation, music encoding
 link: https://connollymusiccollection.bc.edu/
 status: active
-open_access: 'TRUE'
 creators: Ben Florin, Beth Sweeney
 stewards: Boston College Libraries
 blurb: This digital collection features traditional tunes and songs collected by master
@@ -13,7 +14,8 @@ blurb: This digital collection features traditional tunes and songs collected by
   over 330 audio recordings featuring more than 130 musicians, with accompanying stories,
   transcriptions, and introductory essays. Exploratory work with linked open data
   and visualizations is also underway.
-notes: 'Tools used: Omeka, Solr, SoundCloud, MusicXML.'
+tools_used: Omeka, Solr, SoundCloud, MusicXML
+notes: NA
 order: '00'
 layout: musicdh_item
 collection: musicdh

@@ -23,7 +23,7 @@ description:      'A Directory of Digital Scholarship in Music'
 url:              'https://rutgersdh.github.io'
 baseurl:          '/musicdh'
 copyright:        'CC-BY 4.0 International'
-logo:             ''
+logo:             'img/icon.png'
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS
@@ -85,10 +85,12 @@ search:
         fields: # the metadata fields to index
           - label
           - blurb
-          - genre
+          - musicdh_genre
+          - claimed_genre
+          - status
           - creators
           - stewards
-          - notes
+          - tools_used
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
@@ -100,20 +102,24 @@ search:
 menu:
   - label: 'Browse'
     sub:     
-      - label: 'Collections'
+      - label: 'Collections & Exhibits'
         link: '/collections/'
       - label: 'Editions'
         link: '/editions/'
-      - label: 'Publications & Blogs'
-        link: '/publications/'
+      - label: 'Reference Works'
+        link: '/reference/'
       - label: 'Open Data'
         link: '/data/'
       - label: 'Software'
         link: '/software/'
+      - label: 'Cabinet of Curiosities'
+        link: '/kunstkabinett/'
   - label: 'Search'
     link: '/search/'
   - label: 'About'
     sub:
+      - label: 'Call for Collaboration'
+        link: '/cfc/'
       - label: 'Sources'
         link: '/reuse/'      
       - label: 'Credits'

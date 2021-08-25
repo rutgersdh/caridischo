@@ -1,10 +1,10 @@
 ---
 pid: musicdh002
+musicdh_genre: edition
 label: Burns Antiphoner
-genre: digital edition
+claimed_category: music encoding, digital collections
 link: https://burnsantiphoner.bc.edu/
 status: active
-open_access: 'TRUE'
 creators: Ben Florin, Michael Noone
 stewards: Boston College Libraries
 blurb: The Burns Antiphoner is an interactive resource with a dynamic presentation
@@ -13,7 +13,8 @@ blurb: The Burns Antiphoner is an interactive resource with a dynamic presentati
   can be queried and viewed. The manuscript has 119 parchment folios with text and
   notation for antiphons and responsories for the entire annual calendar of saints’
   days.
-notes: 'Tools used: Diva.js, Ruby on Rails, Jekyll, Loris, Lunr.js, JSON, MEI'
+tools_used: Diva.js, Ruby on Rails, Jekyll, Loris, Lunr.js, JSON, MEI
+notes: NA
 order: '01'
 layout: musicdh_item
 collection: musicdh

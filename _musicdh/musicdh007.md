@@ -1,10 +1,10 @@
 ---
 pid: musicdh007
+musicdh_genre: collections & exhibits
 label: Class of 1982 Sequentiary
-genre: digital collection
+claimed_category: digitization
 link: https://libraries.mit.edu/music/sequentiary/
 status: active
-open_access: 'TRUE'
 creators: Michael Scott Cuthbert
 stewards: MIT Libraries
 blurb: The Class of 1982 Sequentiary is a book — donated to the MIT Lewis Music Library
@@ -14,7 +14,8 @@ blurb: The Class of 1982 Sequentiary is a book — donated to the MIT Lewis Musi
   and thus intact sequentiaries are quite rare. This project was an experiment created
   to support the Medieval and Renaissance Music (21M.220) class taught by Professor
   Michael Cuthbert for Spring 2017.
-notes: This project uses the Mirador viewer and IIIF.
+tools_used: Mirador, IIIF
+notes: NA
 order: '06'
 layout: musicdh_item
 collection: musicdh

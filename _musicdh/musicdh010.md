@@ -1,12 +1,12 @@
 ---
 pid: musicdh010
+musicdh_genre: software
 label: music21j
-genre: software
+claimed_category: computational musicology, software, music notation
 link: http://web.mit.edu/music21/music21j/doc/
-status: active
-open_access: 'TRUE'
+status: in development
 creators: Michael Scott Cuthbert
-stewards: Michael Scott Cuthbert
+stewards: Massachusetts Institute of Technology (MIT)
 blurb: |-
   Music21j is a Javascript reinterpretation of the Music21 Python package,
   a toolkit for computer-aided musicology, now with intuitive HTML/Javascript
@@ -16,6 +16,7 @@ blurb: |-
   Connections (via Web Midi or JazzSoft plugin) to MIDI devices.
   Music theory and analysis modules at the level of music21 ca. 2012
   A repository of modules such as metronomes, keyboards, and automatic transcribers.
+tools_used: Javascript, Vexflow
 notes: NA
 order: '09'
 layout: musicdh_item

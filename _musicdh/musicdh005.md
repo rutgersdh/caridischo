@@ -1,10 +1,10 @@
 ---
 pid: musicdh005
+musicdh_genre: collections & exhibits
 label: Musical Passage
-genre: digital exhibit
+claimed_category: digital annotation, transcription, performance
 link: http://www.musicalpassage.org/
 status: active
-open_access: 'TRUE'
 creators: Laurent Dubois, Mary Caton Lingold, David Garner
 stewards: Duke University
 blurb: Developed by historian Laurent Dubois, PhD candidate in English Mary Caton
@@ -13,7 +13,8 @@ blurb: Developed by historian Laurent Dubois, PhD candidate in English Mary Cato
   around two pages from eighteenth-century British naturalist and collector Hans Sloane’s
   A Voyage to the Islands (1707), which documents his time in Jamaica in the late
   1680s.
-notes: 'Tools used: Bootstrap, fullPage.js, jQuery. Reviewed in sx archipelagos: http://smallaxe.net/sxarchipelagos/issue01/musical-passage.html.'
+tools_used: Bootstrap, fullPage.js, jQuery
+notes: NA
 order: '04'
 layout: musicdh_item
 collection: musicdh

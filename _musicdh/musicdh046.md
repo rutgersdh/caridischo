@@ -1,0 +1,20 @@
+---
+pid: musicdh046
+musicdh_genre: collections & exhibits
+label: Portuguese Early Music Database
+claimed_category: database
+link: http://pemdatabase.eu/
+status: active
+creators: Manuel Pedro Ferreira, Elsa De Luca, Bernadette Nelson, Alberto Medina de
+  Seiça, Esperanza Rodríguez-García, Zuelma Chaves
+stewards: CESEM, FCSH-Universidade Nova de Lisboa
+blurb: The Portuguese Early Music Database allows free and universal access to a large
+  number of manuscripts with musical notation mostly written before c. 1650 preserved
+  in many different libraries and archives in Portugal and surrounding Spanish locations.
+notes: NA
+order: '45'
+layout: musicdh_item
+collection: musicdh
+thumbnail: img/derivatives/simple/musicdh046/thumbnail.jpg
+full: img/derivatives/simple/musicdh046/fullwidth.jpg
+---

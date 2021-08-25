@@ -1,0 +1,24 @@
+---
+pid: musicdh020
+musicdh_genre: reference
+label: Bonfils-Stanton Post-1945 Women Composers Index
+claimed_category: bibliographic and information resources
+link: https://bswci.wordpress.com/
+status: active
+creators: Sarah Perske and Andrea Copland
+stewards: Bonfils Stanton Music Library at the University of Denver
+blurb: The Bonfils-Stanton Post-1945 Women Composers Index is an open-source searchable
+  index created for the purpose of increasing the visibility, access, and serendipitous
+  discovery of chamber works written after 1945 by women composers. Currently the
+  index includes all post-1945 instrumental chamber works written by women composers
+  housed in the Bonfils-Stanton Music Library. The index is being expanded to include
+  vocal chamber works, and will ultimately be expanded to include works in collections
+  other than the Bonfils-Stanton Music Library.
+tools_used: LibreOffice Base, HTML
+notes: NA
+order: '19'
+layout: musicdh_item
+collection: musicdh
+thumbnail: img/derivatives/simple/musicdh020/thumbnail.jpg
+full: img/derivatives/simple/musicdh020/fullwidth.jpg
+---

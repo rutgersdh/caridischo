@@ -1,12 +1,12 @@
 ---
 pid: musicdh004
+musicdh_genre: collections & exhibits
 label: Documenting Teresa Carreño
-genre: digital collection
+claimed_category: digital curation, spatial visualization, transcription
 link: https://documentingcarreno.org/
 status: in development
-open_access: 'TRUE'
 creators: Anna E. Kijas
-stewards: Anna E. Kijas
+stewards: Tufts University
 blurb: Documenting Teresa Carreño brings together select primary source materials,
   such as advertisements, announcements, and reviews from newspapers, with descriptions
   or annotations in order to document Carreño's career from 1862 - 1917. Access to
@@ -15,7 +15,8 @@ blurb: Documenting Teresa Carreño brings together select primary source materia
   of Carreño's tours are displayed both geographically on a map and temporally on
   a timeline, allowing users to explore primary sources or artifacts related to specific
   events.
-notes: 'Tools used: Omeka, Carto, Neatline, Scripto'
+tools_used: Omeka, Carto, Neatline, Scripto
+notes: NA
 order: '03'
 layout: musicdh_item
 collection: musicdh

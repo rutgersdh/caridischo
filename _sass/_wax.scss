@@ -435,7 +435,7 @@ search box
   }
   .wax-gallery {
     margin: $margin auto;
-    min-height: 50vh;
+    min-height: 50vh; /* fg changed from 50vh */
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-start;
@@ -444,6 +444,8 @@ search box
       padding: 0;
       margin: .25rem;
       background-color: #ffffff;
+      /* max-height: $thumbnail-height; fg added */
+      /* max-width: $thumbnail-width; fg added */
       width: 100%;
       border: 1px grey solid;
 

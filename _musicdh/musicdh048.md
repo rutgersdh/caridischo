@@ -1,0 +1,27 @@
+---
+pid: musicdh048
+musicdh_genre: edition
+label: Josquin Research Project
+claimed_category: edition
+link: https://josquin.stanford.edu/
+status: active
+creators: Jesse Rodin, Craig Sapp, Clare Bokulich
+stewards: Stanford University, Center for Computer Assisted Research in the Humanities
+  (CCARH)
+blurb: 'The Josquin Research Project (JRP) changes what it means to engage with Renaissance
+  music. Our open-access website not only hosts an ever-growing collection of complete
+  scores, but for the first time makes the music fully searchable: in a few clicks
+  you can identify every instance of a given melodic and/or rhythmic pattern. The
+  JRP also provides analytical tools that can be used to gain insight into individual
+  works, the style of a given composer, or the musical lingua franca. The goal of
+  the project is to facilitate a new kind of knowing that brings big data into conversation
+  with traditional analytical methods.'
+tools_used: MusicXML, Humdrum, MIDI, Github
+code_repository: https://github.com/josquin-research-project
+notes: NA
+order: '47'
+layout: musicdh_item
+collection: musicdh
+thumbnail: img/derivatives/simple/musicdh048/thumbnail.jpg
+full: img/derivatives/simple/musicdh048/fullwidth.jpg
+---
