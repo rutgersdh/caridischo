@@ -5,6 +5,7 @@ label: musiconn.performance
 claimed_category: reference
 link: https://performance.musiconn.de/
 status: active
+open_access: 'TRUE'
 creators: Andrea Hammes, Florian Ruegamer
 stewards: Sächsische Landesbibliothek, Staats- und Universitätsbibliothek Dresden
 blurb: Searchable transcriptions of music programs and other performance ephemera

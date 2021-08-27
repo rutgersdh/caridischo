@@ -5,6 +5,7 @@ label: Women in Art Music
 claimed_category: exhibit
 link: https://wam.rutgers.edu/
 status: in development
+open_access: 'TRUE'
 creators: Rebecca Cypess
 stewards: Rutgers University–New Brunswick
 blurb: A public humanities site to to disseminate research about women in art music

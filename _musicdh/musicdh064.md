@@ -1,0 +1,27 @@
+---
+pid: musicdh064
+musicdh_genre: software
+label: Telemeta
+claimed_category: software
+link: http://telemeta.org/
+status: active
+open_access: 'TRUE'
+creators: Guillaume Pellerin, Joséphine Simonnot
+stewards: Parisson, Université Paris 10 Nanterre
+blurb: Telemeta is a free and open source collaborative multimedia asset management
+  system (MAM) which introduces fast and secure methods to archive, backup, transcode,
+  analyse, annotate and publish any digitalized video or audio file with extensive
+  metadata. It is dedicated to collaborative media archiving projects, research laboratories
+  and digital humanities - especially in ethno-musicological use cases - who need
+  to easily organize and publish documented sound collections of audio files, CDs,
+  digitalized vinyls and magnetic tapes over a strong database, through a smart and
+  secure platform, in accordance with open web standards.
+tools_used: Python
+code_repository: https://github.com/Parisson/Telemeta
+notes: NA
+order: '63'
+layout: musicdh_item
+collection: musicdh
+thumbnail: img/derivatives/simple/musicdh064/thumbnail.jpg
+full: img/derivatives/simple/musicdh064/fullwidth.jpg
+---

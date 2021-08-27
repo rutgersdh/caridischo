@@ -6,6 +6,7 @@ claimed_category: Digital edition, music encoding, literary encoding, metadata, 
   for musical and literary analysis
 link: http://www.tassomusic.org/
 status: active
+open_access: 'TRUE'
 creators: Emiliano Ricciardi, Craig S. Sapp
 stewards: UMass Amherst; CCARH/PHI, Stanford University
 blurb: Digital edition of the musical settings of Torquato Tasso's poetry, ca. 1570-1640.

@@ -5,6 +5,7 @@ label: Bach Chorales Multiple Chord Labels Dataset
 claimed_category: music encoding, optical music recognition
 link: https://github.com/juyaolongpaul/BCMCL
 status: in development
+open_access: 'TRUE'
 creators: Yaolong Ju
 stewards: McGill University
 blurb: This is a dataset of 139 chorales composed by Johann Sebastian Bach, and includes

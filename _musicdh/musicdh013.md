@@ -5,6 +5,7 @@ label: Aruspix
 claimed_category: software
 link: http://www.aruspix.net/index.html
 status: active
+open_access: 'TRUE'
 creators: Laurent Pugin
 stewards: RISM, Université de Genève, McGill University
 blurb: Software application for optical recognition, superimposition, and collation

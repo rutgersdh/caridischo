@@ -5,6 +5,7 @@ label: Corpus Monodicum
 claimed_category: music encoding, digital editions, neume notation
 link: https://corpus-monodicum.de/
 status: active
+open_access: 'TRUE'
 creators: Andreas Haug, Frank Puppe
 stewards: Universität Würzburg; Notengrafik Berlin
 blurb: A long term edition project of the historically significant, sacred and secular

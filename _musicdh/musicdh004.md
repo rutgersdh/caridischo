@@ -5,6 +5,7 @@ label: Documenting Teresa Carreño
 claimed_category: digital curation, spatial visualization, transcription
 link: https://documentingcarreno.org/
 status: in development
+open_access: 'TRUE'
 creators: Anna E. Kijas
 stewards: Tufts University
 blurb: Documenting Teresa Carreño brings together select primary source materials,

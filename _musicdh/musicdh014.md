@@ -5,6 +5,7 @@ label: Ampact
 claimed_category: software
 link: http://ampact.tumblr.com/
 status: active
+open_access: 'TRUE'
 creators: Johanna Devaney
 stewards: DDMAL, McGill University
 blurb: Automated Music Performance Analysis and Comparison Toolkit for MATLAB environment

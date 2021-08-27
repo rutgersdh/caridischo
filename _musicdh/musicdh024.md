@@ -5,6 +5,7 @@ label: Open Music Library
 claimed_category: reference
 link: https://openmusiclibrary.org
 status: defunct
+open_access: 'TRUE'
 creators: André Avorio
 stewards: Alexander Street, a ProQuest company
 blurb: The Open Music Library is an initiative from Alexander Street to build the

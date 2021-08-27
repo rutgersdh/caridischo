@@ -5,6 +5,7 @@ label: Chopin Mazurka Project
 claimed_category: analytical tools, visualizations, data capture
 link: http://mazurka.org.uk/
 status: active
+open_access: 'TRUE'
 creators: Nicholas Cook, Craig Sapp
 stewards: Centre for the History and Analysis of Recorded Music (CHARM); Royal Holloway,
   University of London

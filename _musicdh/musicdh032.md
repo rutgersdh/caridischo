@@ -5,6 +5,7 @@ label: Lost Voices Project
 claimed_category: music encoding, digital collections
 link: http://digitalduchemin.org/
 status: active
+open_access: 'TRUE'
 creators: Richard Freedman, Philippe Vendrix
 stewards: Haverford College, Centre d'Études Supérieures de la Renaissance (CESR),
   Tours

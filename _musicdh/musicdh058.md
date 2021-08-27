@@ -5,6 +5,7 @@ label: Corpus Musicae Ottomanicae
 claimed_category: edition
 link: https://corpus-musicae-ottomanicae.de/content/index.xml?lang=en
 status: active
+open_access: 'TRUE'
 creators: Ralf Martin Jäger, Thomas Bauer, Raoul Motika
 stewards: Westfälische Wilhelms-Universität Münster
 blurb: CMO is a long-term project for the critical edition of Near Eastern music manuscripts.

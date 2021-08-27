@@ -5,6 +5,7 @@ label: Digital Music Lab
 claimed_category: large-scale music collections, analysis and visualization
 link: http://dml.city.ac.uk/
 status: active
+open_access: 'TRUE'
 creators: Tillman Weyde, Emmanouil Benetos, Daniel Wolff, Stephen Cottrell, Dan Tidhar,
   Jason Dykes, Alexander Kachkaev, Mark Plumbley, Simon Dixon, Mathieu Barthet, Steven
   Hargreaves, Nicolas Gold, Samer Abdallah, Mahendra Mahey, Adam Tovell

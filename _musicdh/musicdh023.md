@@ -5,6 +5,7 @@ label: The Natural History of Song
 claimed_category: digital collections
 link: http://themusiclab.org/nhs
 status: active
+open_access: 'TRUE'
 creators: Samuel Mehr
 stewards: Harvard University
 blurb: A collection of ethnographic text and audio recordings from all over the world.

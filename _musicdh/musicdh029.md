@@ -5,6 +5,7 @@ label: Detmold Court Theatre
 claimed_category: music encoding, text encoding, metadata, indexing, database
 link: http://www.hoftheater-detmold.de/
 status: in development
+open_access: 'TRUE'
 creators: Irmlind Capelle, Kristina Richts
 stewards: Musikwissenschaftliches Seminar, Detmold/Paderborn
 blurb: This project uses MEI for a contextual indexing of sheet music for the first

@@ -5,6 +5,7 @@ label: New York Philharmonic Leon Levy Digital Archives
 claimed_category: digital collections, open data
 link: https://archives.nyphil.org/
 status: active
+open_access: 'TRUE'
 creators: Barbara Haws
 stewards: New York Philharmonic
 blurb: The New York Philharmonic played its first concert on December 7, 1842. Since

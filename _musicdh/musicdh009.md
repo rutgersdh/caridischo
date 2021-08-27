@@ -5,6 +5,7 @@ label: music21
 claimed_category: computational musicology, software
 link: http://web.mit.edu/music21/
 status: active
+open_access: 'TRUE'
 creators: Michael Scott Cuthbert
 stewards: Massachusetts Institute of Technology (MIT)
 blurb: Music21 is a Python-based toolkit for computer-aided musicology. People use

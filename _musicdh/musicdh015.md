@@ -5,6 +5,7 @@ label: Single Interface for Music Score Searching and Analysis (SIMSSA)
 claimed_category: software
 link: https://simssa.ca/
 status: in development
+open_access: 'TRUE'
 creators: Ichiro Fujinaga
 stewards: DDMAL, McGill University
 blurb: The Single Interface for Music Score Searching and Analysis project (SIMSSA)

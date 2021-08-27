@@ -5,6 +5,7 @@ label: Delius Catalogue of Works (DCW)
 claimed_category: music encoding, digital editions, metadata, indexing
 link: https://delius.music.ox.ac.uk/catalogue/
 status: defunct
+open_access: 'TRUE'
 creators: Joanna Bullivant, Daniel Grimley, David Lewis
 stewards: University of Oxford, the British Library, and the Royal Library, Denmark
 blurb: The catalogue was created as part of the wider project Delius, Modernism, and

@@ -5,6 +5,7 @@ label: Portuguese Early Music Database
 claimed_category: database
 link: http://pemdatabase.eu/
 status: active
+open_access: 'TRUE'
 creators: Manuel Pedro Ferreira, Elsa De Luca, Bernadette Nelson, Alberto Medina de
   Seiça, Esperanza Rodríguez-García, Zuelma Chaves
 stewards: CESEM, FCSH-Universidade Nova de Lisboa

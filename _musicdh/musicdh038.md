@@ -5,8 +5,8 @@ label: Marenzio Online Digital Edition
 claimed_category: music encoding, digital editions
 link: http://www.marenzio.org/
 status: in development
+open_access: 'TRUE'
 creators: Mauro Calcagno, Giuseppe Gerbino, Laurent Pugin
-stewards: NA
 blurb: The Marenzio Online Digital Edition (MODE) is a critical edition of the secular
   music of Luca Marenzio (ca. 1553-1599), one of the most influential composers of
   the European Renaissance. MODE is the product of an international collaboration

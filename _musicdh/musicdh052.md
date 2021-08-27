@@ -5,6 +5,7 @@ label: Broadside Ballads Online
 claimed_category: digital collection, database
 link: http://ballads.bodleian.ox.ac.uk/
 status: active
+open_access: 'TRUE'
 creators: Giles Bergel, Alexandra Franklin, Mike Bennett, Monica Messaggi Kaya
 stewards: Bodleian Libraries, University of Oxford
 blurb: Broadside Ballads Online presents a digital collection of English printed ballad-sheets

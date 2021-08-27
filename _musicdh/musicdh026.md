@@ -5,6 +5,7 @@ label: 'Carl Nielsen''s Works: A Catalogue of Carl Nielsen''s Works (CNW)'
 claimed_category: music encoding, metadata, indexing
 link: http://www.kb.dk/dcm/cnw.html
 status: active
+open_access: 'TRUE'
 creators: Niels Bo Foltmann, Sigfrid Lundberg
 stewards: Danish Centre for Music Editing, Royal Danish Library
 blurb: The first ever thematic-bibliographic registration of all Nielsen’s compositions.

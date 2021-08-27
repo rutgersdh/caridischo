@@ -5,6 +5,7 @@ label: Canons Database
 claimed_category: metadata
 link: https://www.canons.org.au/catalog
 status: in development
+open_access: 'TRUE'
 creators: Denis Collins, Jason Stoessel
 stewards: University of Queensland, Australia
 blurb: This project attempts to collect and classify every canon that survived in

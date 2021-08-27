@@ -5,6 +5,7 @@ label: Josquin Research Project
 claimed_category: edition
 link: https://josquin.stanford.edu/
 status: active
+open_access: 'TRUE'
 creators: Jesse Rodin, Craig Sapp, Clare Bokulich
 stewards: Stanford University, Center for Computer Assisted Research in the Humanities
   (CCARH)
@@ -14,8 +15,8 @@ blurb: 'The Josquin Research Project (JRP) changes what it means to engage with 
   you can identify every instance of a given melodic and/or rhythmic pattern. The
   JRP also provides analytical tools that can be used to gain insight into individual
   works, the style of a given composer, or the musical lingua franca. The goal of
-  the project is to facilitate a new kind of knowing that brings big data into conversation
-  with traditional analytical methods.'
+  the project is to facilitate a new kind of knowing that brings &quot;big data&quot;
+  into conversation with traditional analytical methods.'
 tools_used: MusicXML, Humdrum, MIDI, Github
 code_repository: https://github.com/josquin-research-project
 notes: NA

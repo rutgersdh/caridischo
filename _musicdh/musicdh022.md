@@ -5,6 +5,7 @@ label: Rebalancing the Music Canon
 claimed_category: music encoding
 link: https://rebalancing-music-canon.com/
 status: active
+open_access: 'TRUE'
 creators: Anna Kijas
 stewards: Tufts University
 blurb: This music data repository is focused on works by under-represented people

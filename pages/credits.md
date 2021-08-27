@@ -8,7 +8,7 @@ permalink: '/credits/'
 
 Many colleagues, students and friends contributed to our data sheet. Here's credit where credit is due, in order of number of contributions:
 
-[Anna E. Kijas](https://twitter.com/anna_kijas), [Francesca Giannetti](https://twitter.com/jo_frankie), [Michael S. Cuthbert](https://twitter.com/mscuthbert)...
+[Anna E. Kijas](https://twitter.com/anna_kijas), [Francesca Giannetti](https://twitter.com/jo_frankie), [Michael S. Cuthbert](https://twitter.com/mscuthbert)... (more to be added after Oct 12 crowdsourcing event)
 
 
 ### The Site

@@ -2,9 +2,10 @@
 pid: musicdh034
 musicdh_genre: software
 label: 'meico: MEI Converter'
-claimed_category: NA
+claimed_category: framework
 link: https://github.com/cemfi/meico
 status: active
+open_access: 'TRUE'
 creators: Axel Berndt, Benjamin W. Bohl, Johannes Kepper, Simon Waloschek
 stewards: Center of Music and Film Informatics, Detmold
 blurb: Meico is a converter framework for MEI files. Even though MEI is a quasi-standard

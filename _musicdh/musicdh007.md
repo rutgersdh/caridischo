@@ -5,6 +5,7 @@ label: Class of 1982 Sequentiary
 claimed_category: digitization
 link: https://libraries.mit.edu/music/sequentiary/
 status: active
+open_access: 'TRUE'
 creators: Michael Scott Cuthbert
 stewards: MIT Libraries
 blurb: The Class of 1982 Sequentiary is a book — donated to the MIT Lewis Music Library

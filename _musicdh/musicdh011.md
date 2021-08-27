@@ -5,10 +5,11 @@ label: Liturgical Cycles
 claimed_category: visualization, software, webpage
 link: https://cuthbertlab.github.io/liturgicalCycles/
 status: active
+open_access: 'TRUE'
 creators: Michael Scott Cuthbert
 stewards: Massachusetts Institute of Technology (MIT)
 blurb: A visualization of how the liturgical cycles of the year interact. Video with
-  narration by Prof. Elina Hamilton (Boston Conservatory) on YouTube at youtu.be/P2VuXO9VKrw.
+  narration by Prof. Elina Hamilton (Boston Conservatory) at <a href='https://www.youtube.com/watch?v=P2VuXO9VKrw'>https://www.youtube.com/watch?v=P2VuXO9VKrw</a>.
 tools_used: Javascript, SVG, Snap.js
 code_repository: https://github.com/cuthbertLab/liturgicalCycles
 notes: NA

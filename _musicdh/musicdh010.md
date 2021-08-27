@@ -5,6 +5,7 @@ label: music21j
 claimed_category: computational musicology, software, music notation
 link: http://web.mit.edu/music21/music21j/doc/
 status: in development
+open_access: 'TRUE'
 creators: Michael Scott Cuthbert
 stewards: Massachusetts Institute of Technology (MIT)
 blurb: |-

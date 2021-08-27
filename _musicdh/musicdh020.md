@@ -5,6 +5,7 @@ label: Bonfils-Stanton Post-1945 Women Composers Index
 claimed_category: bibliographic and information resources
 link: https://bswci.wordpress.com/
 status: active
+open_access: 'TRUE'
 creators: Sarah Perske and Andrea Copland
 stewards: Bonfils Stanton Music Library at the University of Denver
 blurb: The Bonfils-Stanton Post-1945 Women Composers Index is an open-source searchable

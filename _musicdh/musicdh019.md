@@ -5,6 +5,7 @@ label: Bach digital
 claimed_category: digital collections
 link: https://www.bach-digital.net
 status: active
+open_access: 'TRUE'
 creators: Christine Blanken
 stewards: Bach-Archiv Leipzig
 blurb: The Bach digital database portal is designed to provide Bach researchers, professional

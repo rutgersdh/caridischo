@@ -5,6 +5,7 @@ label: OpenScore LiederCorpus (Scores of Scores)
 claimed_category: transcription, music encoding, online repository
 link: https://musescore.com/openscore-lieder-corpus
 status: active
+open_access: 'TRUE'
 creators: Mark Gotham
 stewards: Universität des Saarlandes
 blurb: The Scores of Scores lieder corpus encoding project is a major contribution

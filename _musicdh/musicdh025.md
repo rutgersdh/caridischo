@@ -5,6 +5,7 @@ label: Beethovens Werkstatt
 claimed_category: music encoding, digital collections, digital editions
 link: http://beethovens-werkstatt.de/
 status: in development
+open_access: 'TRUE'
 creators: Bernhard R. Appel, Joachim Veit
 stewards: Beethovenhaus, Bonn; Musikwissenschaftliches Seminar, Detmold/Paderborn
 blurb: The project aims to combine two of the most current research areas in music

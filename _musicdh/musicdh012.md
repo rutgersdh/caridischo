@@ -5,6 +5,7 @@ label: Women composers in MusicXML
 claimed_category: data
 link: https://github.com/cuthbertLab/womenComposers
 status: in development
+open_access: 'TRUE'
 creators: Michael Scott Cuthbert
 stewards: Massachusetts Institute of Technology (MIT)
 blurb: MusicXML encoded scores by women composers in the public domain and released

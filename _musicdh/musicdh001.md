@@ -6,6 +6,7 @@ claimed_category: digital collections, network visualization, linked open data, 
   curation, music encoding
 link: https://connollymusiccollection.bc.edu/
 status: active
+open_access: 'TRUE'
 creators: Ben Florin, Beth Sweeney
 stewards: Boston College Libraries
 blurb: This digital collection features traditional tunes and songs collected by master

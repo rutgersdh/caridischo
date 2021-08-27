@@ -5,6 +5,7 @@ label: Small Tools for Agile Music Research (STAMR)
 claimed_category: software
 link: https://github.com/cuthbertLab/stamr
 status: archived
+open_access: 'TRUE'
 creators: Michael Scott Cuthbert
 stewards: Massachusetts Institute of Technology (MIT)
 blurb: STAMR is a project to create Small Tools for Agile Music Research, created

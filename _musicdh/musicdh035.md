@@ -2,9 +2,10 @@
 pid: musicdh035
 musicdh_genre: software
 label: OMR for Plainchant
-claimed_category: NA
+claimed_category: network, database infrastructure, software tools
 link: https://ddmal.music.mcgill.ca/research/omr/OMR_for_Plainchant/
 status: archived
+open_access: 'TRUE'
 creators: Ichiro Fujinaga, Julie Cumming
 stewards: DDMAL, McGill University
 blurb: Plainchant is a large collection of monophonic songs, which exist as one of

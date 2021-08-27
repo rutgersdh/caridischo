@@ -5,6 +5,7 @@ label: Morales Mass Book
 claimed_category: digital publishing, digital collections
 link: https://moralesmassbook.bc.edu/
 status: active
+open_access: 'TRUE'
 creators: Ben Florin, Michael Noone
 stewards: Boston College Libraries
 blurb: 'Morales Mass Book is a companion site to the First Book of Masses by Cristóbal

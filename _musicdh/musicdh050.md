@@ -5,8 +5,8 @@ label: Chant21
 claimed_category: software
 link: https://github.com/bacor/chant21
 status: in development
+open_access: 'TRUE'
 creators: Bas Cornelissen
-stewards: NA
 blurb: chant21 is a Python library that improves the support for plainchant in music21.
   Documentation at chant21.readthedocs.io.
 notes: NA

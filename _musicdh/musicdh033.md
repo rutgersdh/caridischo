@@ -5,6 +5,7 @@ label: Measuring Polyphony
 claimed_category: music encoding, digital collections
 link: http://measuringpolyphony.org/
 status: active
+open_access: 'TRUE'
 creators: Karen Desmond
 stewards: Brandeis University
 blurb: This project presents, for the first time, digitisations of polyphonic compositions

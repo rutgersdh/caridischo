@@ -5,8 +5,8 @@ label: Probstücke Digital
 claimed_category: digital editions, music encoding, text encoding
 link: http://probstuecke-digital.de
 status: in development
+open_access: 'TRUE'
 creators: Niels Pfeffer, Klaus Rettinghaus
-stewards: NA
 blurb: Digital critical edition of the 24 Probstücke from Johann Mattheson's Große
   Generalbass-Schule (1731).
 tools_used: eXist-db, node.js, TEI, MEI, Mirador

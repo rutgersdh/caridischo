@@ -5,6 +5,7 @@ label: 'Richard Strauss: Works. Critical Edition – Online Platform'
 claimed_category: edition
 link: http://www.richard-strauss-ausgabe.de/
 status: active
+open_access: 'TRUE'
 creators: Hartmut Schick (direction), Dominik Leipold (software development)
 stewards: Bavarian Academy of Sciences and Humanities, Ludwig-Maximilians-Universität
   München

@@ -5,6 +5,7 @@ label: Burns Antiphoner
 claimed_category: music encoding, digital collections
 link: https://burnsantiphoner.bc.edu/
 status: active
+open_access: 'TRUE'
 creators: Ben Florin, Michael Noone
 stewards: Boston College Libraries
 blurb: The Burns Antiphoner is an interactive resource with a dynamic presentation

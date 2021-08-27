@@ -5,6 +5,7 @@ label: Musical Passage
 claimed_category: digital annotation, transcription, performance
 link: http://www.musicalpassage.org/
 status: active
+open_access: 'TRUE'
 creators: Laurent Dubois, Mary Caton Lingold, David Garner
 stewards: Duke University
 blurb: Developed by historian Laurent Dubois, PhD candidate in English Mary Caton

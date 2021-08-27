@@ -5,6 +5,7 @@ label: Reger-Werkausgabe [Reger Editions]
 claimed_category: digital editions
 link: http://reger-werkausgabe.de
 status: active
+open_access: 'TRUE'
 creators: Thomas Seedorf, Susanne Popp
 stewards: Academy of Sciences and Literature Mainz, Max-Reger-Institut/Elsa-Reger-Stiftung
   Karlsruhe

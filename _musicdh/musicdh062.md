@@ -1,0 +1,22 @@
+---
+pid: musicdh062
+musicdh_genre: collections & exhibits
+label: A-R Music Anthology
+claimed_category: reference
+link: https://www.armusicanthology.com/
+status: active
+open_access: 'FALSE'
+creators: A-R Editions
+stewards: A-R Editons
+blurb: The Online Music Anthology is an extensive collection of music and articles
+  designed expressly for music history and theory courses. A‑R’s Online Music Anthology
+  contains hundreds more pieces of music than traditional print anthologies, all beautifully
+  edited and newly engraved. A multi-author approach brings you articles by top scholars
+  with new and varied perspectives for your students.
+notes: NA
+order: '61'
+layout: musicdh_item
+collection: musicdh
+thumbnail: img/derivatives/simple/musicdh062/thumbnail.jpg
+full: img/derivatives/simple/musicdh062/fullwidth.jpg
+---

@@ -5,6 +5,7 @@ label: The Italian Opera Aria on the London Stage 1705-1801
 claimed_category: digital edition
 link: http://italianaria.bodleian.ox.ac.uk/
 status: active
+open_access: 'TRUE'
 creators: Michael Burden, Christopher Chowrimootoo
 stewards: University of Oxford
 blurb: The Italian Opera Aria on the London Stage is based on the surviving libretti,

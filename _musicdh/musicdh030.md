@@ -5,6 +5,7 @@ label: Enhancing Music Notation Addressability
 claimed_category: music encoding, linked data, citation
 link: https://mith.umd.edu/research/enhancing-music-notation-addressability/
 status: active
+open_access: 'TRUE'
 creators: Raffaele Viglianti, Richard Freedman, Andrew Hankison
 stewards: University of Maryland, Haverford University, University of Oxford
 blurb: This project has created the Music Addressability API to provide a web-friendly

@@ -5,6 +5,7 @@ label: Digital Mozart score Viewer (MoVi)
 claimed_category: digital edition
 link: https://dme.mozarteum.at/movi/en
 status: active
+open_access: 'TRUE'
 creators: Ulrich Leisinger, Norbert Dubowy, Felix founder, Franz Kelnreiter, Mirijam
   Beier, Iacopo Cividini, Till Reininghaus, Oleksii Sapov
 stewards: Digital Mozart Edition, International Mozarteum Foundation, Salzburg; The

@@ -5,6 +5,7 @@ label: Musical Corpora Register
 claimed_category: list of digital music projects, datasets
 link: https://github.com/dharasim/MCR/wiki
 status: active
+open_access: 'TRUE'
 creators: Johannes Hentschel
 stewards: Ecole polytechnique fédérale de Lausanne (EPFL)
 blurb: The purpose of this wiki is to collect links to published musical corpora including

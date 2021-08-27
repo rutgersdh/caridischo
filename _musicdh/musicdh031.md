@@ -5,6 +5,7 @@ label: Gesualdo Online
 claimed_category: music encoding, web publishing, metadata
 link: https://ricercar.gesualdo-online.cesr.univ-tours.fr/
 status: active
+open_access: 'TRUE'
 creators: Philippe Vendrix, Vincent Besson
 stewards: CESR/CNRS/University of Tours, ACATUS INFORMATIVE, Orléans
 blurb: This project represents an innovative way to conceive and to publish a musical

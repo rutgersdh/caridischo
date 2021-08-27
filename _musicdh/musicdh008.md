@@ -5,6 +5,7 @@ label: Inventions of Note
 claimed_category: digital collections
 link: https://dome.mit.edu/handle/1721.3/188939
 status: active
+open_access: 'TRUE'
 stewards: MIT Libraries
 blurb: The Inventions of Note Sheet Music Collection was established in 1997 by the
   Lewis Music Library at the Massachusetts Institute of Technology. This sheet music

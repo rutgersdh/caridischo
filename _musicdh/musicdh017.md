@@ -2,9 +2,10 @@
 pid: musicdh017
 musicdh_genre: reference
 label: Handbook for Metastasio Research
-claimed_category: reference
+claimed_category: website
 link: http://publish.uwo.ca/~metastas/
 status: active
+open_access: 'TRUE'
 creators: Don Neville, Brian McMillan
 stewards: University of Western Ontario
 blurb: In the process of confronting the enormity of Metastasio research, a considerable

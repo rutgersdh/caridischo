@@ -5,6 +5,7 @@ label: Visualizing Broadway
 claimed_category: website
 link: https://visualizingbroadway.com/index.html
 status: in development
+open_access: 'TRUE'
 creators: Derek Miller
 stewards: Harvard University
 blurb: Focusing on data about Broadway productions, Visualizing Broadway investigates

@@ -6,6 +6,7 @@ claimed_category: doctoral thesis, music encoding, text encoding, metadata, digi
   editions
 link: https://baumann-digital.de/index.html
 status: in development
+open_access: 'TRUE'
 creators: Dennis Ried
 stewards: University of Music Karlsruhe
 blurb: The project aims to present a comprehensive portal to the life, work and environment

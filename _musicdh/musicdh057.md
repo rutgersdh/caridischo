@@ -5,12 +5,15 @@ label: Verovio
 claimed_category: software
 link: https://www.verovio.org/index.xhtml
 status: active
-creators: NA
-stewards: NA
+open_access: 'TRUE'
+creators: Laurent Pugin
+stewards: RISM DIgital Center, Swiss National Science Foundation, Digital Mozart Edition
 blurb: Verovio is a fast, portable and lightweight open-source library for engraving
   Music Encoding Initiative (MEI) music scores into SVG. Verovio follows the Standard
   Music Font Layout specification, which makes it easy to change the music font for
   personalizing the appearance.
+tools_used: C++
+code_repository: https://github.com/rism-digital/verovio
 notes: NA
 order: '56'
 layout: musicdh_item

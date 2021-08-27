@@ -5,6 +5,7 @@ label: Digital Resources for Musicology
 claimed_category: reference
 link: https://drm.ccarh.org/
 status: active
+open_access: 'TRUE'
 creators: Eleanor Selfridge-Field, Craig S. Sapp
 stewards: Center for Computer Assisted Research in the Humanities, an affiliate of
   the Packard Humanities Institute, at Stanford University
