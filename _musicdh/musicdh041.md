@@ -4,7 +4,7 @@ musicdh_genre: collections & exhibits
 label: Baumann Digital
 claimed_category: doctoral thesis, music encoding, text encoding, metadata, digital
   editions
-link: https://baumann-digital.de/index.html
+link: https://baumann-digital.de
 status: in development
 open_access: 'TRUE'
 creators: Dennis Ried

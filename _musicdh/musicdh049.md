@@ -1,6 +1,6 @@
 ---
 pid: musicdh049
-musicdh_genre: Kunstkabinett
+musicdh_genre: laboratories
 label: Chopin Mazurka Project
 claimed_category: analytical tools, visualizations, data capture
 link: http://mazurka.org.uk/

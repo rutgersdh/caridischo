@@ -1,6 +1,6 @@
 ---
 pid: musicdh023
-musicdh_genre: Kunstkabinett
+musicdh_genre: laboratories
 label: The Natural History of Song
 claimed_category: digital collections
 link: http://themusiclab.org/nhs

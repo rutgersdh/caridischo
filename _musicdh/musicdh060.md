@@ -1,6 +1,6 @@
 ---
 pid: musicdh060
-musicdh_genre: Kunstkabinett
+musicdh_genre: laboratories
 label: Visualizing Broadway
 claimed_category: website
 link: https://visualizingbroadway.com/index.html

@@ -4,7 +4,7 @@ musicdh_genre: reference
 label: Delius Catalogue of Works (DCW)
 claimed_category: music encoding, digital editions, metadata, indexing
 link: https://delius.music.ox.ac.uk/catalogue/
-status: defunct
+status: active
 open_access: 'TRUE'
 creators: Joanna Bullivant, Daniel Grimley, David Lewis
 stewards: University of Oxford, the British Library, and the Royal Library, Denmark

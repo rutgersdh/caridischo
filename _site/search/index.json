@@ -1,9 +1,23 @@
 [
   {
+    "pid": "musicdh074",
+    "musicdh_genre": "laboratories",
+    "label": "Dig That Lick: Analysing Large-Scale Data for Melodic Patterns in Jazz Performance",
+    "status": "active",
+    "creators": "Simon Dixon (PI), Krin Gabbard, Hélène-Camille Crayencour, Geoffroy Peeters, Martin Pfleiderer, Gabriel Solis, Tillman Weyde",
+    "stewards": "Queen Mary University of London, Columbia University, National Center for Scientific Research (CNRS), Institute for Research and Coordination in Acoustics/Music (IRCAM), University of Music Franz Liszt, University of Illinois Champaign Urbana, City University of London",
+    "blurb": "The recorded legacy of jazz spans a century and provides a vast corpus of data documenting its development. Recent advances in digital signal processing and data analysis technologies enable automatic recognition of musical structures and their linkage through metadata to historical and social context. Automatic metadata extraction and aggregation give unprecedented access to large collections, fostering new interdisciplinary research opportunities. This project aims to develop innovative technological and music-analytical methods to gain fresh insight into jazz history by bringing together renowned scholars and results from several high-profile projects. Musicologists and computer scientists will together create a deeper and more comprehensive understanding of jazz in its social and cultural context. We exemplify our methods via a full cycle of analysis of melodic patterns, or <i>licks</i>, from audio recordings to an aesthetically contextualised and historically situated understanding.",
+    "tools_used": "SQLITE3, PostgreSQL, D3.js, MeloSpySuite, melconv, melfeature, melpat",
+    "collection": "musicdh",
+    "thumbnail": "img/derivatives/simple/musicdh074/thumbnail.jpg",
+    "permalink": "/musicdh/musicdh074",
+    "lunr_id": 0
+  },
+  {
     "pid": "musicdh025",
     "musicdh_genre": "edition",
     "label": "Beethovens Werkstatt",
-    "status": "in development",
+    "status": "active",
     "creators": "Bernhard R. Appel, Joachim Veit",
     "stewards": "Beethovenhaus, Bonn; Musikwissenschaftliches Seminar, Detmold/Paderborn",
     "blurb": "The project aims to combine two of the most current research areas in music philology – the exploration of the genesis of musical works incorporated in texts of varying completeness. The projected multi-perspective focus becomes a central musicological research topic for gaining a differentiated picture of the text-in-progress, making it visible and reflecting it critically. Significant insights are anticipated for evaluating the entire compositional history and aesthetics of the 19th and 20th century crucially founded on Beethoven. The project is organized in a set of five modules, each concentrating on different aspects of compositional processes, musical variance, and reorganization of musical material found in Beethoven’s works. Each module builds on its predecessors, with the last showing the full potential of digital editions by combining a traditional edition of the work, a source edition and a genetic edition of the work’s text. These editions will all be prepared and edited using the Edirom tools, whereas on the data layer, everything will be encoded in MEI. The project aims to trace the textual development very closely, so that information beyond the current level of detail provided by MEI is required.",
@@ -11,11 +25,11 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh025/thumbnail.jpg",
     "permalink": "/musicdh/musicdh025",
-    "lunr_id": 0
+    "lunr_id": 1
   },
   {
     "pid": "musicdh011",
-    "musicdh_genre": "Kunstkabinett",
+    "musicdh_genre": "laboratories",
     "label": "Liturgical Cycles",
     "status": "active",
     "creators": "Michael Scott Cuthbert",
@@ -25,7 +39,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh011/thumbnail.jpg",
     "permalink": "/musicdh/musicdh011",
-    "lunr_id": 1
+    "lunr_id": 2
   },
   {
     "pid": "musicdh040",
@@ -39,7 +53,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh040/thumbnail.jpg",
     "permalink": "/musicdh/musicdh040",
-    "lunr_id": 2
+    "lunr_id": 3
   },
   {
     "pid": "musicdh050",
@@ -53,7 +67,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh050/thumbnail.jpg",
     "permalink": "/musicdh/musicdh050",
-    "lunr_id": 3
+    "lunr_id": 4
   },
   {
     "pid": "musicdh001",
@@ -67,7 +81,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh001/thumbnail.jpg",
     "permalink": "/musicdh/musicdh001",
-    "lunr_id": 4
+    "lunr_id": 5
   },
   {
     "pid": "musicdh035",
@@ -81,7 +95,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh035/thumbnail.jpg",
     "permalink": "/musicdh/musicdh035",
-    "lunr_id": 5
+    "lunr_id": 6
   },
   {
     "pid": "musicdh064",
@@ -95,7 +109,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh064/thumbnail.jpg",
     "permalink": "/musicdh/musicdh064",
-    "lunr_id": 6
+    "lunr_id": 7
   },
   {
     "pid": "musicdh044",
@@ -109,7 +123,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh044/thumbnail.jpg",
     "permalink": "/musicdh/musicdh044",
-    "lunr_id": 7
+    "lunr_id": 8
   },
   {
     "pid": "musicdh015",
@@ -123,7 +137,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh015/thumbnail.jpg",
     "permalink": "/musicdh/musicdh015",
-    "lunr_id": 8
+    "lunr_id": 9
   },
   {
     "pid": "musicdh021",
@@ -137,11 +151,25 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh021/thumbnail.jpg",
     "permalink": "/musicdh/musicdh021",
-    "lunr_id": 9
+    "lunr_id": 10
+  },
+  {
+    "pid": "musicdh070",
+    "musicdh_genre": "collections & exhibits",
+    "label": "Decentering the Archive: Visual Fabrications of Sonic Memories",
+    "status": "active",
+    "creators": "Nicola Deane",
+    "stewards": "Africa Open Institute for Music, Research and Innovation",
+    "blurb": "<i>Decentering the Archive: Visual Fabrications of Sonic Momories</i> is a practice-based PhD project that records an artistic engagement with an archive DOMUS (Documentation Centre for Music) within the Music Library of Stellenbosch University. The creative outcomes include short films, sonic poems and sound recordings as well as a body of eggshell fragments recording the text components of the research. I curated these artworks in relation to the written research as a fully integrated dissertation of theory and practice on a digital platform - the online cultural journal project of Africa Open Institute: <a href=&quot;http://herri.org.za/&quot;>http://herri.org.za</a>.",
+    "tools_used": "NA",
+    "collection": "musicdh",
+    "thumbnail": "img/derivatives/simple/musicdh070/thumbnail.jpg",
+    "permalink": "/musicdh/musicdh070",
+    "lunr_id": 11
   },
   {
     "pid": "musicdh060",
-    "musicdh_genre": "Kunstkabinett",
+    "musicdh_genre": "laboratories",
     "label": "Visualizing Broadway",
     "status": "in development",
     "creators": "Derek Miller",
@@ -151,7 +179,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh060/thumbnail.jpg",
     "permalink": "/musicdh/musicdh060",
-    "lunr_id": 10
+    "lunr_id": 12
   },
   {
     "pid": "musicdh031",
@@ -165,7 +193,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh031/thumbnail.jpg",
     "permalink": "/musicdh/musicdh031",
-    "lunr_id": 11
+    "lunr_id": 13
   },
   {
     "pid": "musicdh005",
@@ -179,7 +207,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh005/thumbnail.jpg",
     "permalink": "/musicdh/musicdh005",
-    "lunr_id": 12
+    "lunr_id": 14
   },
   {
     "pid": "musicdh054",
@@ -193,7 +221,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh054/thumbnail.jpg",
     "permalink": "/musicdh/musicdh054",
-    "lunr_id": 13
+    "lunr_id": 15
   },
   {
     "pid": "musicdh045",
@@ -207,7 +235,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh045/thumbnail.jpg",
     "permalink": "/musicdh/musicdh045",
-    "lunr_id": 14
+    "lunr_id": 16
   },
   {
     "pid": "musicdh014",
@@ -221,7 +249,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh014/thumbnail.jpg",
     "permalink": "/musicdh/musicdh014",
-    "lunr_id": 15
+    "lunr_id": 17
   },
   {
     "pid": "musicdh020",
@@ -235,7 +263,21 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh020/thumbnail.jpg",
     "permalink": "/musicdh/musicdh020",
-    "lunr_id": 16
+    "lunr_id": 18
+  },
+  {
+    "pid": "musicdh071",
+    "musicdh_genre": "collections & exhibits",
+    "label": "Sounding Spirit Digital Library",
+    "status": "active",
+    "creators": "Jesse P. Karlsberg et al.",
+    "stewards": "Emory Center for Digital Scholarship, Emory University",
+    "blurb": "The Sounding Spirit digital library features songbooks and hymnals published across the southern United States from 1850 to 1925. Spanning holdings from four partner archives, the digital library includes words-only hymnals, gospel songbooks, spiritual collections, and shape-note tunebooks, demonstrating the wide variety of form, content, and presentation in southern vernacular sacred songbooks. Organized into collections that highlight texts’ associated places, populations, genres, and denominational affiliations, the digital library allows for rich engagement with songbooks and hymnals seminal in their respective eras, but historically underrepresented in both archival holdings and scholarship.",
+    "tools_used": "Readux, OCR, OMR",
+    "collection": "musicdh",
+    "thumbnail": "img/derivatives/simple/musicdh071/thumbnail.jpg",
+    "permalink": "/musicdh/musicdh071",
+    "lunr_id": 19
   },
   {
     "pid": "musicdh061",
@@ -249,7 +291,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh061/thumbnail.jpg",
     "permalink": "/musicdh/musicdh061",
-    "lunr_id": 17
+    "lunr_id": 20
   },
   {
     "pid": "musicdh030",
@@ -263,7 +305,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh030/thumbnail.jpg",
     "permalink": "/musicdh/musicdh030",
-    "lunr_id": 18
+    "lunr_id": 21
   },
   {
     "pid": "musicdh004",
@@ -277,7 +319,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh004/thumbnail.jpg",
     "permalink": "/musicdh/musicdh004",
-    "lunr_id": 19
+    "lunr_id": 22
   },
   {
     "pid": "musicdh055",
@@ -291,7 +333,21 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh055/thumbnail.jpg",
     "permalink": "/musicdh/musicdh055",
-    "lunr_id": 20
+    "lunr_id": 23
+  },
+  {
+    "pid": "musicdh075",
+    "musicdh_genre": "laboratories",
+    "label": "Phantom Islands",
+    "status": "active",
+    "creators": "Andrew Pekler, Flavio Gortana,  Kiwi Menrath",
+    "stewards": "Jeu de Paume and DICRéAM (dispositif d’aide pour la création artistique multimédia et numérique), CNC (Centre National du Cinéma et de l'Image Animée)",
+    "blurb": "Phantom Islands are artifacts of the age of maritime discovery and colonial expansion. During centuries of ocean exploration these islands were sighted, charted, described and even explored – but their existence has never been ultimately verified. Poised somewhere between cartographical fact and maritime fiction, they haunted seafarers’ maps for hundreds of years, inspiring legends, fantasies, and counterfactual histories. Phantom Islands – A Sonic Atlas interprets and presents these imaginations in the form of an interactive map which charts the sounds of a number of historical phantom islands.",
+    "tools_used": "Mapbox, Tone.js",
+    "collection": "musicdh",
+    "thumbnail": "img/derivatives/simple/musicdh075/thumbnail.jpg",
+    "permalink": "/musicdh/musicdh075",
+    "lunr_id": 24
   },
   {
     "pid": "musicdh024",
@@ -305,7 +361,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh024/thumbnail.jpg",
     "permalink": "/musicdh/musicdh024",
-    "lunr_id": 21
+    "lunr_id": 25
   },
   {
     "pid": "musicdh010",
@@ -319,7 +375,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh010/thumbnail.jpg",
     "permalink": "/musicdh/musicdh010",
-    "lunr_id": 22
+    "lunr_id": 26
   },
   {
     "pid": "musicdh041",
@@ -333,7 +389,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh041/thumbnail.jpg",
     "permalink": "/musicdh/musicdh041",
-    "lunr_id": 23
+    "lunr_id": 27
   },
   {
     "pid": "musicdh051",
@@ -347,7 +403,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh051/thumbnail.jpg",
     "permalink": "/musicdh/musicdh051",
-    "lunr_id": 24
+    "lunr_id": 28
   },
   {
     "pid": "musicdh034",
@@ -361,7 +417,21 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh034/thumbnail.jpg",
     "permalink": "/musicdh/musicdh034",
-    "lunr_id": 25
+    "lunr_id": 29
+  },
+  {
+    "pid": "musicdh065",
+    "musicdh_genre": "reference",
+    "label": "Our Culture Resounds, Our Future Reveals: A Legacy of Filipino American Performing Arts in California",
+    "status": "active",
+    "creators": "Eleanor Lipat-Chesler and Mary Talusan, editors; Maureen Russell, Project Lead Archivist",
+    "stewards": "California Revealed",
+    "blurb": "A Legacy of Filipino American Performing Arts in California. Created by Ube Arte, a Southern California-based collective of professional musicians, dancers, and academics with a shared mission to advance Philippine cultural research and education among the Pilipinx American community. This project was supported by California Revealed and administered in California by the State Librarian. The program is made possible by funding from the U.S. Institute of Museum and Library Services under the provisions of the Library Services and Technology Act. This project was also funded by the UCLA Department of Ethnomusicology, with additional support provided by the UCLA Ethnomusicology Archive. List of contributors and interviewees (in the order they appear in the book) Dr. Ricardo D. Trimillos; Eleanor Lipat-Chesler; Dr. Mary Talusan; Florante Peter Ibanez; Dr. Neal Matherne; Nico Delmundo; Dr. Bernard Ellorin; Parangal Dance Company; Jonathan Wandag; Dr. Christi-Anne Castro; Marlo Campos; Patrick Tanega; Will Simbol; Darleen Principe; Barbara Ele, Ave Jacinto, Joel Jacinto of Kayamanan Ng Lahi; Peter de Guzman; Michelle Camaya Julian; Guro Alvin Catacutan; Ron and Lydia Querian of House of Gongs; Caroline Cabading; Diane Valencia and Nicanor Evangelista of Ginto Seeds; J.A. Ruanto-Ramirez; Dr. Theodore S. Gonzalves; Giselle Töngi-Walters; Nilo Alcala; Anthony Angelo T. &quot;Gelo&quot; Francisco; Jasmine Orpilla; Dr. Roderick Labrador; Bambu DePistola.",
+    "tools_used": "NA",
+    "collection": "musicdh",
+    "thumbnail": "img/derivatives/simple/musicdh065/thumbnail.jpg",
+    "permalink": "/musicdh/musicdh065",
+    "lunr_id": 30
   },
   {
     "pid": "musicdh017",
@@ -375,7 +445,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh017/thumbnail.jpg",
     "permalink": "/musicdh/musicdh017",
-    "lunr_id": 26
+    "lunr_id": 31
   },
   {
     "pid": "musicdh046",
@@ -389,11 +459,25 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh046/thumbnail.jpg",
     "permalink": "/musicdh/musicdh046",
-    "lunr_id": 27
+    "lunr_id": 32
+  },
+  {
+    "pid": "musicdh072",
+    "musicdh_genre": "reference",
+    "label": "Nigerian Christian Songbook: a digital interactive songbook",
+    "status": "active",
+    "creators": "Dr. Monique M. Ingalls",
+    "stewards": "Nigerian Baptist Theological Seminary and Baylor University Center for Christian Music Studies",
+    "blurb": "This songbook was compiled by students at the Nigerian Baptist Theological Seminary. The songs on this site are organized into categories using the Titon Music Culture Model. We encourage you to explore and utilize this resource within your congregation or university classroom.",
+    "tools_used": "WordPress",
+    "collection": "musicdh",
+    "thumbnail": "img/derivatives/simple/musicdh072/thumbnail.jpg",
+    "permalink": "/musicdh/musicdh072",
+    "lunr_id": 33
   },
   {
     "pid": "musicdh023",
-    "musicdh_genre": "Kunstkabinett",
+    "musicdh_genre": "laboratories",
     "label": "The Natural History of Song",
     "status": "active",
     "creators": "Samuel Mehr",
@@ -403,7 +487,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh023/thumbnail.jpg",
     "permalink": "/musicdh/musicdh023",
-    "lunr_id": 28
+    "lunr_id": 34
   },
   {
     "pid": "musicdh033",
@@ -417,7 +501,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh033/thumbnail.jpg",
     "permalink": "/musicdh/musicdh033",
-    "lunr_id": 29
+    "lunr_id": 35
   },
   {
     "pid": "musicdh062",
@@ -431,7 +515,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh062/thumbnail.jpg",
     "permalink": "/musicdh/musicdh062",
-    "lunr_id": 30
+    "lunr_id": 36
   },
   {
     "pid": "musicdh056",
@@ -445,7 +529,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh056/thumbnail.jpg",
     "permalink": "/musicdh/musicdh056",
-    "lunr_id": 31
+    "lunr_id": 37
   },
   {
     "pid": "musicdh007",
@@ -459,7 +543,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh007/thumbnail.jpg",
     "permalink": "/musicdh/musicdh007",
-    "lunr_id": 32
+    "lunr_id": 38
   },
   {
     "pid": "musicdh027",
@@ -473,7 +557,21 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh027/thumbnail.jpg",
     "permalink": "/musicdh/musicdh027",
-    "lunr_id": 33
+    "lunr_id": 39
+  },
+  {
+    "pid": "musicdh076",
+    "musicdh_genre": "reference",
+    "label": "plainsightSOUND",
+    "status": "active",
+    "creators": "Uchenna Ngwe",
+    "stewards": "Uchenna Ngwe",
+    "blurb": "plainsightSOUND is a music research project, aimed at rediscovering colonial and postcolonial voices in British classical music.\nFocusing on the stories of classical musicians in Britain of African and Caribbean descent, including those from former British colonies, the project will explore their lives as well as their musical activity in Britain before 1970.",
+    "tools_used": "WordPress, Google Sheets, HP5",
+    "collection": "musicdh",
+    "thumbnail": "img/derivatives/simple/musicdh076/thumbnail.jpg",
+    "permalink": "/musicdh/musicdh076",
+    "lunr_id": 40
   },
   {
     "pid": "musicdh042",
@@ -487,7 +585,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh042/thumbnail.jpg",
     "permalink": "/musicdh/musicdh042",
-    "lunr_id": 34
+    "lunr_id": 41
   },
   {
     "pid": "musicdh013",
@@ -501,7 +599,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh013/thumbnail.jpg",
     "permalink": "/musicdh/musicdh013",
-    "lunr_id": 35
+    "lunr_id": 42
   },
   {
     "pid": "musicdh003",
@@ -515,7 +613,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh003/thumbnail.jpg",
     "permalink": "/musicdh/musicdh003",
-    "lunr_id": 36
+    "lunr_id": 43
   },
   {
     "pid": "musicdh052",
@@ -529,7 +627,21 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh052/thumbnail.jpg",
     "permalink": "/musicdh/musicdh052",
-    "lunr_id": 37
+    "lunr_id": 44
+  },
+  {
+    "pid": "musicdh066",
+    "musicdh_genre": "collections & exhibits",
+    "label": "Berkeley Folk Music Festival",
+    "status": "active",
+    "creators": "Michael J. Kramer",
+    "stewards": "Berkeley Folk Music Project / Northwestern University Libraries",
+    "blurb": "The Berkeley Folk Music Festival Project is a multimodal investigation of an understudied folk music festival that took place between 1958 and 1970 on the campus of the University of California. The Project includes a fully digitized repository of roughly 33,500 artifacts, an introductory exhibition, and (in development) a series of multimedia essays, an audio podcast series, an oral history repository, lesson plans for teachers, seminars taught by project director and historian Dr. Michael J. Kramer (SUNY Brockport), and an in-person gallery exhibit and book.",
+    "tools_used": "WordPress, custom media repositories at Northwestern University Libraries",
+    "collection": "musicdh",
+    "thumbnail": "img/derivatives/simple/musicdh066/thumbnail.jpg",
+    "permalink": "/musicdh/musicdh066",
+    "lunr_id": 45
   },
   {
     "pid": "musicdh037",
@@ -543,7 +655,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh037/thumbnail.jpg",
     "permalink": "/musicdh/musicdh037",
-    "lunr_id": 38
+    "lunr_id": 46
   },
   {
     "pid": "musicdh026",
@@ -557,7 +669,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh026/thumbnail.jpg",
     "permalink": "/musicdh/musicdh026",
-    "lunr_id": 39
+    "lunr_id": 47
   },
   {
     "pid": "musicdh043",
@@ -571,7 +683,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh043/thumbnail.jpg",
     "permalink": "/musicdh/musicdh043",
-    "lunr_id": 40
+    "lunr_id": 48
   },
   {
     "pid": "musicdh012",
@@ -585,7 +697,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh012/thumbnail.jpg",
     "permalink": "/musicdh/musicdh012",
-    "lunr_id": 41
+    "lunr_id": 49
   },
   {
     "pid": "musicdh002",
@@ -599,7 +711,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh002/thumbnail.jpg",
     "permalink": "/musicdh/musicdh002",
-    "lunr_id": 42
+    "lunr_id": 50
   },
   {
     "pid": "musicdh053",
@@ -613,7 +725,21 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh053/thumbnail.jpg",
     "permalink": "/musicdh/musicdh053",
-    "lunr_id": 43
+    "lunr_id": 51
+  },
+  {
+    "pid": "musicdh067",
+    "musicdh_genre": "software",
+    "label": "Serial Analyser",
+    "status": "active",
+    "creators": "Mark Gotham",
+    "stewards": "Mark Gotham",
+    "blurb": "Code for working with 12-tone serial rows and a corpus of examples from the repertoire.",
+    "tools_used": "Python",
+    "collection": "musicdh",
+    "thumbnail": "img/derivatives/simple/musicdh067/thumbnail.jpg",
+    "permalink": "/musicdh/musicdh067",
+    "lunr_id": 52
   },
   {
     "pid": "musicdh036",
@@ -622,12 +748,12 @@
     "status": "active",
     "creators": "Bella Brover-Lubovsky, Christine Siegert, Dörte Schmidt",
     "stewards": "Universität der Künste Berlin, Hebrew University Jerusalem",
-    "blurb": "The Sarti Edition is a digital edition of two operas by the composer Giuseppe Sarti (1729–1802) who was famous throughout Europe during his lifetime. The edition was created as part of the third-party funded project A Cosmopolitan Composer in Pre-Revolutionary Europe - Giuseppe Sarti at the Universität der Künste, supported by the Einstein Foundation Berlin from 2013 to 2016. Two of Sarti's most successful Italian operas were edited, the Opera buffa Fra i due litiganti il ​​terzo gode (When two argue ...) and the Opera seria Giulio Sabino. The edition is a digital edition freely accessible via the Internet, which was created with the help of the tools of the Detmold Edirom project and the Music Encoding Initiative (MEI). The focus is on the presentation of selected different versions of each opera, which resulted from the processing of the works for new productions at other opera houses, as was common in the opera business of the late 18th century.",
+    "blurb": "The Sarti Edition is a digital edition of two operas by the composer Giuseppe Sarti (1729–1802) who was famous throughout Europe during his lifetime. The edition was created as part of the third-party funded project <i>A Cosmopolitan Composer in Pre-Revolutionary Europe - Giuseppe Sarti</i> at the Universität der Künste, supported by the Einstein Foundation Berlin from 2013 to 2016. Two of Sarti's most successful Italian operas were edited, the Opera buffa <i>Fra i due litiganti il ​​terzo gode</i> (When two argue ...) and the Opera seria <i>Giulio Sabino</i>. The edition is a digital edition freely accessible via the Internet, which was created with the help of the tools of the Detmold Edirom project and the Music Encoding Initiative (MEI). The focus is on the presentation of selected different versions of each opera, which resulted from the processing of the works for new productions at other opera houses, as was common in the opera business of the late 18th century.",
     "tools_used": "MEI, Verovio, GitHub, eXist-db",
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh036/thumbnail.jpg",
     "permalink": "/musicdh/musicdh036",
-    "lunr_id": 44
+    "lunr_id": 53
   },
   {
     "pid": "musicdh016",
@@ -641,21 +767,35 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh016/thumbnail.jpg",
     "permalink": "/musicdh/musicdh016",
-    "lunr_id": 45
+    "lunr_id": 54
   },
   {
     "pid": "musicdh047",
     "musicdh_genre": "edition",
-    "label": "Digital Mozart score Viewer (MoVi)",
+    "label": "Digital Interactive Mozart Edition (DIME)",
     "status": "active",
-    "creators": "Ulrich Leisinger, Norbert Dubowy, Felix founder, Franz Kelnreiter, Mirijam Beier, Iacopo Cividini, Till Reininghaus, Oleksii Sapov",
-    "stewards": "Digital Mozart Edition, International Mozarteum Foundation, Salzburg; The Packard Humanities Institute",
-    "blurb": "The Digital Interactive Music Edition is a fully digital edition; the music is generated as a digital image directly from the underlying code. The digital edition of Wolfgang Amadé Mozart's musical works provided in DME::Music relies on the complete encoding of the music according to the principles of the Music Encoding Initiative (MEI), a subset of XML.",
-    "tools_used": "OMR, MEI",
+    "creators": "Ulrich Leisinger (director DME), Norbert Dubowy (managing editor), Felix Gründer, Franz Kelnreiter, Mirijam Beier, Iacopo Cividini, Oleksii Sapov",
+    "stewards": "Digital Mozart Edition (DME), Salzburg Mozarteum Foundation; The Packard Humanities Institute",
+    "blurb": "The Digital Interactive Mozart Edition (DIME) aims at being the first fully digital edition of Wolfgang Amadé Mozart's musical works. While the music is encoded in the XML format of the Music Encoding Initiative (MEI), accompanying texts may be encoded in TEI or in other machine-readable formats. The core of DIME consists in digitally re-mastered representations of the musical text of the Neue Mozart-Ausgabe, updated and enriched for online display. In a second approach, DIME also offers new editions of selected works that are digitally edited entirely from scratch. DIME uses its own web interface, MoVi – The digital Mozart score viewer, for rendering.",
+    "tools_used": "MEI, Verovio",
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh047/thumbnail.jpg",
     "permalink": "/musicdh/musicdh047",
-    "lunr_id": 46
+    "lunr_id": 55
+  },
+  {
+    "pid": "musicdh073",
+    "musicdh_genre": "edition",
+    "label": "Anton Webern Gesamtausabe",
+    "status": "active",
+    "creators": "Matthias Schmidt (Project manager), Simon Obert, Thomas Ahrend, Julia Bungardt, Michael Matter, Barbara Schingnitz, Stefan Münnich",
+    "stewards": "University of Basel",
+    "blurb": "The Anton Webern Gesamtausgabe (AWG) is a critical-historical edition which aims to make Webern’s entire oeuvre accessible to musical scholarship and practice in a scholarly form. The edition includes not only all the works Webern himself had forwarded to be printed but also their unpublished variants. It also includes compositions that were never made public in his lifetime, works from his youth and student years, as well as fragments, sketches, arrangements and revisions of his and other scores.",
+    "tools_used": "Angular, SVG, RDF",
+    "collection": "musicdh",
+    "thumbnail": "img/derivatives/simple/musicdh073/thumbnail.jpg",
+    "permalink": "/musicdh/musicdh073",
+    "lunr_id": 56
   },
   {
     "pid": "musicdh022",
@@ -669,7 +809,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh022/thumbnail.jpg",
     "permalink": "/musicdh/musicdh022",
-    "lunr_id": 47
+    "lunr_id": 57
   },
   {
     "pid": "musicdh032",
@@ -683,7 +823,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh032/thumbnail.jpg",
     "permalink": "/musicdh/musicdh032",
-    "lunr_id": 48
+    "lunr_id": 58
   },
   {
     "pid": "musicdh063",
@@ -697,7 +837,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh063/thumbnail.jpg",
     "permalink": "/musicdh/musicdh063",
-    "lunr_id": 49
+    "lunr_id": 59
   },
   {
     "pid": "musicdh057",
@@ -711,7 +851,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh057/thumbnail.jpg",
     "permalink": "/musicdh/musicdh057",
-    "lunr_id": 50
+    "lunr_id": 60
   },
   {
     "pid": "musicdh006",
@@ -725,13 +865,13 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh006/thumbnail.jpg",
     "permalink": "/musicdh/musicdh006",
-    "lunr_id": 51
+    "lunr_id": 61
   },
   {
     "pid": "musicdh029",
     "musicdh_genre": "reference",
     "label": "Detmold Court Theatre",
-    "status": "in development",
+    "status": "active",
     "creators": "Irmlind Capelle, Kristina Richts",
     "stewards": "Musikwissenschaftliches Seminar, Detmold/Paderborn",
     "blurb": "This project uses MEI for a contextual indexing of sheet music for the first time. It is intended to demonstrate the potential of the standard on the basis of a number of specific examples of varying complexity and to develop a model for indexing other comparable collections.",
@@ -739,7 +879,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh029/thumbnail.jpg",
     "permalink": "/musicdh/musicdh029",
-    "lunr_id": 52
+    "lunr_id": 62
   },
   {
     "pid": "musicdh039",
@@ -753,7 +893,21 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh039/thumbnail.jpg",
     "permalink": "/musicdh/musicdh039",
-    "lunr_id": 53
+    "lunr_id": 63
+  },
+  {
+    "pid": "musicdh068",
+    "musicdh_genre": "collections & exhibits",
+    "label": "I-Folk",
+    "status": "active",
+    "creators": "María Navarro-Cáceres, Matilde Olarte, Javier Merchán, et al.; Co-Poem",
+    "stewards": "University of Salamanca, University of Padova, University of Coimbra",
+    "blurb": "Corpus of more than 400 songs (and in expansion) of Portuguese, Italian and Spanish folk music. It incorporates a musical analyisis of mode, rhythm and phrases.",
+    "tools_used": "NA",
+    "collection": "musicdh",
+    "thumbnail": "img/derivatives/simple/musicdh068/thumbnail.jpg",
+    "permalink": "/musicdh/musicdh068",
+    "lunr_id": 64
   },
   {
     "pid": "musicdh048",
@@ -767,7 +921,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh048/thumbnail.jpg",
     "permalink": "/musicdh/musicdh048",
-    "lunr_id": 54
+    "lunr_id": 65
   },
   {
     "pid": "musicdh019",
@@ -781,7 +935,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh019/thumbnail.jpg",
     "permalink": "/musicdh/musicdh019",
-    "lunr_id": 55
+    "lunr_id": 66
   },
   {
     "pid": "musicdh009",
@@ -795,7 +949,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh009/thumbnail.jpg",
     "permalink": "/musicdh/musicdh009",
-    "lunr_id": 56
+    "lunr_id": 67
   },
   {
     "pid": "musicdh058",
@@ -809,11 +963,11 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh058/thumbnail.jpg",
     "permalink": "/musicdh/musicdh058",
-    "lunr_id": 57
+    "lunr_id": 68
   },
   {
     "pid": "musicdh049",
-    "musicdh_genre": "Kunstkabinett",
+    "musicdh_genre": "laboratories",
     "label": "Chopin Mazurka Project",
     "status": "active",
     "creators": "Nicholas Cook, Craig Sapp",
@@ -823,7 +977,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh049/thumbnail.jpg",
     "permalink": "/musicdh/musicdh049",
-    "lunr_id": 58
+    "lunr_id": 69
   },
   {
     "pid": "musicdh018",
@@ -832,12 +986,12 @@
     "status": "active",
     "creators": "Jeanette Casey (Director, Mills Music Library), Scott A. Carter (Mayrent Institute for Yiddish Culture)",
     "stewards": "Mills Music Library and the Mayrent Institute for Yiddish Culture, University of Wisconsin-Madison",
-    "blurb": "The Mayrent Collection of Yiddish Recordings features over 6,000 performances of traditional Yiddish music captured on 78rpm discs. As of February 2018, over 2200 recordings are available for free online streaming and are presented with full cataloging and discographic information. A companion website hosted by the Mayrent Institute for Yiddish Culture provides biographies, analytical essays, and histories of Yiddish music in the recording industry.",
+    "blurb": "The Mayrent Collection of Yiddish Recordings features over 6,000 performances of traditional Yiddish music captured on 78rpm discs. As of February 2018, over 2200 recordings are available for free online streaming and are presented with full cataloging and discographic information. A companion website hosted by the Mayrent Institute for Yiddish Culture provides biographies, analytical essays, and histories of Yiddish music in the recording industry. The full digital collection of recordings may be accessed at <a href='https://search.library.wisc.edu/digital/AMayrentRec'>https://search.library.wisc.edu/digital/AMayrentRec</a>.",
     "tools_used": "Drupal",
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh018/thumbnail.jpg",
     "permalink": "/musicdh/musicdh018",
-    "lunr_id": 59
+    "lunr_id": 70
   },
   {
     "pid": "musicdh008",
@@ -851,7 +1005,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh008/thumbnail.jpg",
     "permalink": "/musicdh/musicdh008",
-    "lunr_id": 60
+    "lunr_id": 71
   },
   {
     "pid": "musicdh059",
@@ -865,7 +1019,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh059/thumbnail.jpg",
     "permalink": "/musicdh/musicdh059",
-    "lunr_id": 61
+    "lunr_id": 72
   },
   {
     "pid": "musicdh028",
@@ -879,7 +1033,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh028/thumbnail.jpg",
     "permalink": "/musicdh/musicdh028",
-    "lunr_id": 62
+    "lunr_id": 73
   },
   {
     "pid": "musicdh038",
@@ -893,6 +1047,20 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/musicdh038/thumbnail.jpg",
     "permalink": "/musicdh/musicdh038",
-    "lunr_id": 63
+    "lunr_id": 74
+  },
+  {
+    "pid": "musicdh069",
+    "musicdh_genre": "collections & exhibits",
+    "label": "Song in the Sumatran Highlands",
+    "status": "active",
+    "creators": "Jennifer Fraser et al.",
+    "stewards": "Jennifer Fraser",
+    "blurb": "Song in the Sumatran Highlands is an interactive, interpretative, multimedia digital ethnography and archive that documents and celebrates saluang, a vocal genre from the highlands of West Sumatra, Indonesia.",
+    "tools_used": "Scalar, TimelineJS, Google Maps, YouTube",
+    "collection": "musicdh",
+    "thumbnail": "img/derivatives/simple/musicdh069/thumbnail.jpg",
+    "permalink": "/musicdh/musicdh069",
+    "lunr_id": 75
   }
 ]

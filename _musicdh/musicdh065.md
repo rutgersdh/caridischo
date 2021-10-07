@@ -1,0 +1,37 @@
+---
+pid: musicdh065
+musicdh_genre: reference
+label: 'Our Culture Resounds, Our Future Reveals: A Legacy of Filipino American Performing
+  Arts in California'
+claimed_category: Born digital book, interactive pdf
+link: https://californiarevealed.org/islandora/object/cavpp%3A209355
+status: active
+open_access: 'TRUE'
+creators: Eleanor Lipat-Chesler and Mary Talusan, editors; Maureen Russell, Project
+  Lead Archivist
+stewards: California Revealed
+blurb: A Legacy of Filipino American Performing Arts in California. Created by Ube
+  Arte, a Southern California-based collective of professional musicians, dancers,
+  and academics with a shared mission to advance Philippine cultural research and
+  education among the Pilipinx American community. This project was supported by California
+  Revealed and administered in California by the State Librarian. The program is made
+  possible by funding from the U.S. Institute of Museum and Library Services under
+  the provisions of the Library Services and Technology Act. This project was also
+  funded by the UCLA Department of Ethnomusicology, with additional support provided
+  by the UCLA Ethnomusicology Archive. List of contributors and interviewees (in the
+  order they appear in the book) Dr. Ricardo D. Trimillos; Eleanor Lipat-Chesler;
+  Dr. Mary Talusan; Florante Peter Ibanez; Dr. Neal Matherne; Nico Delmundo; Dr. Bernard
+  Ellorin; Parangal Dance Company; Jonathan Wandag; Dr. Christi-Anne Castro; Marlo
+  Campos; Patrick Tanega; Will Simbol; Darleen Principe; Barbara Ele, Ave Jacinto,
+  Joel Jacinto of Kayamanan Ng Lahi; Peter de Guzman; Michelle Camaya Julian; Guro
+  Alvin Catacutan; Ron and Lydia Querian of House of Gongs; Caroline Cabading; Diane
+  Valencia and Nicanor Evangelista of Ginto Seeds; J.A. Ruanto-Ramirez; Dr. Theodore
+  S. Gonzalves; Giselle Töngi-Walters; Nilo Alcala; Anthony Angelo T. &quot;Gelo&quot;
+  Francisco; Jasmine Orpilla; Dr. Roderick Labrador; Bambu DePistola.
+notes: NA
+order: '64'
+layout: musicdh_item
+collection: musicdh
+thumbnail: img/derivatives/simple/musicdh065/thumbnail.jpg
+full: img/derivatives/simple/musicdh065/fullwidth.jpg
+---

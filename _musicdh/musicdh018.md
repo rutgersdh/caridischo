@@ -15,7 +15,8 @@ blurb: The Mayrent Collection of Yiddish Recordings features over 6,000 performa
   2200 recordings are available for free online streaming and are presented with full
   cataloging and discographic information. A companion website hosted by the Mayrent
   Institute for Yiddish Culture provides biographies, analytical essays, and histories
-  of Yiddish music in the recording industry. The full digital collection of recordings may be accessed at <a href='https://search.library.wisc.edu/digital/AMayrentRec'>https://search.library.wisc.edu/digital/AMayrentRec</a>.
+  of Yiddish music in the recording industry. The full digital collection of recordings
+  may be accessed at <a href='https://search.library.wisc.edu/digital/AMayrentRec'>https://search.library.wisc.edu/digital/AMayrentRec</a>.
 tools_used: Drupal
 notes: NA
 order: '17'

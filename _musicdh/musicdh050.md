@@ -8,7 +8,7 @@ status: in development
 open_access: 'TRUE'
 creators: Bas Cornelissen
 blurb: chant21 is a Python library that improves the support for plainchant in music21.
-  Documentation at chant21.readthedocs.io.
+  Documentation at <a href=&quot;https://chant21.readthedocs.io/&quot;>chant21.readthedocs.io</a>.
 notes: NA
 order: '49'
 layout: musicdh_item

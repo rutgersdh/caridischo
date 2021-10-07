@@ -4,7 +4,7 @@ musicdh_genre: reference
 label: Detmold Court Theatre
 claimed_category: music encoding, text encoding, metadata, indexing, database
 link: http://www.hoftheater-detmold.de/
-status: in development
+status: active
 open_access: 'TRUE'
 creators: Irmlind Capelle, Kristina Richts
 stewards: Musikwissenschaftliches Seminar, Detmold/Paderborn

@@ -4,7 +4,7 @@ musicdh_genre: edition
 label: Beethovens Werkstatt
 claimed_category: music encoding, digital collections, digital editions
 link: http://beethovens-werkstatt.de/
-status: in development
+status: active
 open_access: 'TRUE'
 creators: Bernhard R. Appel, Joachim Veit
 stewards: Beethovenhaus, Bonn; Musikwissenschaftliches Seminar, Detmold/Paderborn

@@ -1,0 +1,34 @@
+---
+pid: musicdh074
+musicdh_genre: laboratories
+label: 'Dig That Lick: Analysing Large-Scale Data for Melodic Patterns in Jazz Performance'
+claimed_category: database, similarity search, pattern search, visualization
+link: http://dig-that-lick.eecs.qmul.ac.uk/
+status: active
+open_access: 'TRUE'
+creators: Simon Dixon (PI), Krin Gabbard, Hélène-Camille Crayencour, Geoffroy Peeters,
+  Martin Pfleiderer, Gabriel Solis, Tillman Weyde
+stewards: Queen Mary University of London, Columbia University, National Center for
+  Scientific Research (CNRS), Institute for Research and Coordination in Acoustics/Music
+  (IRCAM), University of Music Franz Liszt, University of Illinois Champaign Urbana,
+  City University of London
+blurb: The recorded legacy of jazz spans a century and provides a vast corpus of data
+  documenting its development. Recent advances in digital signal processing and data
+  analysis technologies enable automatic recognition of musical structures and their
+  linkage through metadata to historical and social context. Automatic metadata extraction
+  and aggregation give unprecedented access to large collections, fostering new interdisciplinary
+  research opportunities. This project aims to develop innovative technological and
+  music-analytical methods to gain fresh insight into jazz history by bringing together
+  renowned scholars and results from several high-profile projects. Musicologists
+  and computer scientists will together create a deeper and more comprehensive understanding
+  of jazz in its social and cultural context. We exemplify our methods via a full
+  cycle of analysis of melodic patterns, or <i>licks</i>, from audio recordings to
+  an aesthetically contextualised and historically situated understanding.
+tools_used: SQLITE3, PostgreSQL, D3.js, MeloSpySuite, melconv, melfeature, melpat
+notes: NA
+order: '73'
+layout: musicdh_item
+collection: musicdh
+thumbnail: img/derivatives/simple/musicdh074/thumbnail.jpg
+full: img/derivatives/simple/musicdh074/fullwidth.jpg
+---

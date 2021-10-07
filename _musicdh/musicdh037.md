@@ -18,7 +18,7 @@ blurb: Sounding Tennyson presents sonic and textual versions of one of Tennysonâ
   contains observers' accounts of listening to Tennyson or his family recite and the
   poet's response to hearing his poetry set to music. Following the Essays link brings
   up short articles, both highly specific to the poem and contextual.
-tools_used: MEI,  Augmented Notes
+tools_used: MEI, Augmented Notes
 notes: NA
 order: '36'
 layout: musicdh_item

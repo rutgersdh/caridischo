@@ -1,21 +1,24 @@
 ---
 pid: musicdh047
 musicdh_genre: edition
-label: Digital Mozart score Viewer (MoVi)
-claimed_category: digital edition
+label: Digital Interactive Mozart Edition (DIME)
+claimed_category: digital edition, music encoding
 link: https://dme.mozarteum.at/movi/en
 status: active
 open_access: 'TRUE'
-creators: Ulrich Leisinger, Norbert Dubowy, Felix founder, Franz Kelnreiter, Mirijam
-  Beier, Iacopo Cividini, Till Reininghaus, Oleksii Sapov
-stewards: Digital Mozart Edition, International Mozarteum Foundation, Salzburg; The
-  Packard Humanities Institute
-blurb: The Digital Interactive Music Edition is a fully digital edition; the music
-  is generated as a digital image directly from the underlying code. The digital edition
-  of Wolfgang Amadé Mozart's musical works provided in DME::Music relies on the complete
-  encoding of the music according to the principles of the Music Encoding Initiative
-  (MEI), a subset of XML.
-tools_used: OMR, MEI
+creators: Ulrich Leisinger (director DME), Norbert Dubowy (managing editor), Felix
+  Gründer, Franz Kelnreiter, Mirijam Beier, Iacopo Cividini, Oleksii Sapov
+stewards: Digital Mozart Edition (DME), Salzburg Mozarteum Foundation; The Packard
+  Humanities Institute
+blurb: The Digital Interactive Mozart Edition (DIME) aims at being the first fully
+  digital edition of Wolfgang Amadé Mozart's musical works. While the music is encoded
+  in the XML format of the Music Encoding Initiative (MEI), accompanying texts may
+  be encoded in TEI or in other machine-readable formats. The core of DIME consists
+  in digitally re-mastered representations of the musical text of the Neue Mozart-Ausgabe,
+  updated and enriched for online display. In a second approach, DIME also offers
+  new editions of selected works that are digitally edited entirely from scratch.
+  DIME uses its own web interface, MoVi – The digital Mozart score viewer, for rendering.
+tools_used: MEI, Verovio
 notes: NA
 order: '46'
 layout: musicdh_item

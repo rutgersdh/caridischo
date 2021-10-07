@@ -1,0 +1,25 @@
+---
+pid: musicdh066
+musicdh_genre: collections & exhibits
+label: Berkeley Folk Music Festival
+claimed_category: collection, exhibit
+link: http://bfmf.net/
+status: active
+open_access: 'TRUE'
+creators: Michael J. Kramer
+stewards: Berkeley Folk Music Project / Northwestern University Libraries
+blurb: The Berkeley Folk Music Festival Project is a multimodal investigation of an
+  understudied folk music festival that took place between 1958 and 1970 on the campus
+  of the University of California. The Project includes a fully digitized repository
+  of roughly 33,500 artifacts, an introductory exhibition, and (in development) a
+  series of multimedia essays, an audio podcast series, an oral history repository,
+  lesson plans for teachers, seminars taught by project director and historian Dr.
+  Michael J. Kramer (SUNY Brockport), and an in-person gallery exhibit and book.
+tools_used: WordPress, custom media repositories at Northwestern University Libraries
+notes: NA
+order: '65'
+layout: musicdh_item
+collection: musicdh
+thumbnail: img/derivatives/simple/musicdh066/thumbnail.jpg
+full: img/derivatives/simple/musicdh066/fullwidth.jpg
+---

@@ -1,0 +1,27 @@
+---
+pid: musicdh075
+musicdh_genre: laboratories
+label: Phantom Islands
+claimed_category: sonic atlas
+link: http://andrewpekler.com/phantom-islands/
+status: active
+open_access: 'TRUE'
+creators: Andrew Pekler, Flavio Gortana,  Kiwi Menrath
+stewards: Jeu de Paume and DICRéAM (dispositif d’aide pour la création artistique
+  multimédia et numérique), CNC (Centre National du Cinéma et de l'Image Animée)
+blurb: Phantom Islands are artifacts of the age of maritime discovery and colonial
+  expansion. During centuries of ocean exploration these islands were sighted, charted,
+  described and even explored – but their existence has never been ultimately verified.
+  Poised somewhere between cartographical fact and maritime fiction, they haunted
+  seafarers’ maps for hundreds of years, inspiring legends, fantasies, and counterfactual
+  histories. Phantom Islands – A Sonic Atlas interprets and presents these imaginations
+  in the form of an interactive map which charts the sounds of a number of historical
+  phantom islands.
+tools_used: Mapbox, Tone.js
+notes: NA
+order: '74'
+layout: musicdh_item
+collection: musicdh
+thumbnail: img/derivatives/simple/musicdh075/thumbnail.jpg
+full: img/derivatives/simple/musicdh075/fullwidth.jpg
+---
