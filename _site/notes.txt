@@ -19,3 +19,5 @@ $ convert \( musicdh001.png musicdh002.png musicdh003.png musicdh004.png musicdh
        -mattecolor lightblue                    \
        -frame 1x1                               \
         montage.jpg
+
+$ magick montage *.png -geometry +3+3 -tile 3x3 out.png

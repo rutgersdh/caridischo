@@ -10,9 +10,24 @@
   <link rel='icon' type='image/png' href="{{ 'img/icon.png' | absolute_url }}">
   <link rel='stylesheet' href="{{ '/assets/styles.css' | absolute_url }}"/>
 
+<!-- Facebook Meta Tags -->
+<meta property="og:url" content="https://rutgersdh.github.io/musicdh/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="{{ site.title }}{% if page.label %} | {{ page.label }}{% elsif page.title %} | {{ page.title }}{% endif %}">
+<meta property="og:description" content="A Directory of Digital Scholarship in Music">
+<meta property="og:image" content="https://rutgersdh.github.io/musicdh/img/open-graph.png">
+<meta property="fb:app_id" content="1394603737314760"/>
+<meta property="fb:admins" content="Francesca"/>
+
+<!-- Twitter Meta Tags -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:creator" content="@jo_frankie" />
+<meta property="og:url" content="https://rutgersdh.github.io/musicdh/" />
+<meta property="og:title" content="{{ site.title }}{% if page.label %} | {{ page.label }}{% elsif page.title %} | {{ page.title }}{% endif %}" />
+<meta property="og:description" content="A Directory of Digital Scholarship in Music" />
+<meta property="og:image" content="https://rutgersdh.github.io/musicdh/img/open-graph.png" />
 
 <!-- jQuery stylesheet -->
-
 <script type='text/javascript' src="/musicdh/assets/jquery-3.2.1.min.js"></script>
   <noscript><p>Please enable JavaScript in your browser.</p></noscript>
 

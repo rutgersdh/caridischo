@@ -12,9 +12,24 @@
   <link rel='icon' type='image/png' href="http://localhost:4000/musicdh/img/icon.png">
   <link rel='stylesheet' href="http://localhost:4000/musicdh/assets/styles.css"/>
 
+<!-- Facebook Meta Tags -->
+<meta property="og:url" content="https://rutgersdh.github.io/musicdh/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Music DH | FAQ">
+<meta property="og:description" content="A Directory of Digital Scholarship in Music">
+<meta property="og:image" content="https://rutgersdh.github.io/musicdh/img/open-graph.png">
+<meta property="fb:app_id" content="1394603737314760"/>
+<meta property="fb:admins" content="Francesca"/>
+
+<!-- Twitter Meta Tags -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:creator" content="@jo_frankie" />
+<meta property="og:url" content="https://rutgersdh.github.io/musicdh/" />
+<meta property="og:title" content="Music DH | FAQ" />
+<meta property="og:description" content="A Directory of Digital Scholarship in Music" />
+<meta property="og:image" content="https://rutgersdh.github.io/musicdh/img/open-graph.png" />
 
 <!-- jQuery stylesheet -->
-
 <script type='text/javascript' src="/musicdh/assets/jquery-3.2.1.min.js"></script>
   <noscript><p>Please enable JavaScript in your browser.</p></noscript>
 
@@ -22,7 +37,7 @@
 
 
   <body>
-    <time datetime='2021-10-07 17:06'></time>
+    <time datetime='2021-12-06 16:17'></time>
     <nav id='wax-header' class='navbar navbar-expand-lg navbar-light'>
  <div class='wax-inline-container'>
     <a class='navbar-brand' href="http://localhost:4000/musicdh/" title='Home'>Music DH <span class="year">2021</span></a>
@@ -70,8 +85,6 @@
               </a>
               <div class='dropdown-menu' aria-labelledby='wax-About-dropdown'>
                 
-                  <a class='dropdown-item' href='http://localhost:4000/musicdh/cfc/'>Call for Collaboration</a>
-                
                   <a class='dropdown-item' href='http://localhost:4000/musicdh/reuse/'>Sources</a>
                 
                   <a class='dropdown-item' href='http://localhost:4000/musicdh/credits/'>Credits</a>
@@ -98,7 +111,15 @@
 
 <h3 id="what-counts-as-music-dh">What counts as music DH?</h3>
 
-<p>At the MLA 2018 Annual Meeting, there was some discussion about what constitutes a digital humanities project in music. Here follow some brief remarks and loose guidelines. In comments to the meeting minutes, Michael Cuthbert remarked that one often observes a distinction between composition (digital art) and musicology and music theory (digital humanities). David Day asked what distinctions we might draw between an online digital collection or library (e.g. the Danish National Digital Sheet Music Archive), a source of structured or semi-structured data (e.g. a music encoding dataset), and a project that includes some editorial apparatus, critical essays and/or similar contribution (e.g. the CHARM Mazurka Project or the Josquin Research Project). To this, one might add bibliographic and information resources, e.g. Early Music Sources and Digital Resources for Musicology. And music teachers use a range of digital technologies as well, although the list maintainer is less well acquainted with online presentations of materials in music pedagogy. In our <a href="https://docs.google.com/spreadsheets/d/1UyCED16mYxo3XE4RuushxE7DWyqR_CNFecn0k79ldA4/edit?usp=sharing">data sheet</a>, we have leaned towards specialized digital collections, digital editions, and other projects that hover over the general area of bibliographic and musicological studies. The emphasis is there for now, but there’s no reason why we would not also include strong contributions in digital music pedagogy, theory, composition, as well as well-prepared/described datasets. To that end, please make use of the <code class="language-plaintext highlighter-rouge">claimed_category</code> field to describe your contribution. We have used that field to tease out some genre groupings and to think about other ways of presenting this information.</p>
+<p>At the MLA 2018 Annual Meeting, there was some discussion about what constitutes a digital humanities project in music. Here follow some brief remarks and loose guidelines.</p>
+
+<p>In comments to the meeting minutes, Michael Cuthbert remarked that one often observes a distinction between composition (digital art) and musicology and music theory (digital humanities). Thus the theoretical/practical binary in music may have some relevance to the typical digital outputs one sees in these fields, and how we interpret them as being part of digital humanities or not. And while a large number of the projects currently included in our directory could be said to fall under the umbrella of musicology (both ethno- and historical), we also make a case for projects that are arguably more akin to performance (e.g. data sonification, dynamic scores, virtual reality). Inasmuch as this directory is concerned, we’ve decided that the value of classifying projects as being either research- or performance-driven is, at best, questionable.</p>
+
+<p>David Day asked what distinctions we might draw between an online digital collection or library (e.g. the Danish National Digital Sheet Music Archive), a source of structured or semi-structured data (e.g. a music encoding dataset), and a project that includes some editorial apparatus, critical essays and/or similar contribution (e.g. the CHARM Mazurka Project or the Josquin Research Project). To this, one might add bibliographic and information resources, e.g. Early Music Sources and Digital Resources for Musicology. And music instructors use a range of digital technologies as well, although the list maintainer is less well acquainted with online presentations of materials in music pedagogy.</p>
+
+<p>We agreed that all of these work categories could potentially meet our directory criteria, but we did not aspire to comprehensiveness. For example, we have avoided large and well-known digital collections of music on the grounds that they probably don’t need the amplification. We also generally omit digital resources that are book-like in the sense that they replicate print paradigms (i.e. a PDF or collection of PDFs), and digital resources that primarily serve a non-musical purpose but that may include some musical sources.</p>
+
+<p>In our <a href="https://docs.google.com/spreadsheets/d/1UyCED16mYxo3XE4RuushxE7DWyqR_CNFecn0k79ldA4/edit?usp=sharing">data sheet</a>, we have leaned towards smaller, specialized digital collections, digital editions, and other projects that hover over the general area of bibliographic and musicological studies. As we collected more projects, it became clear that categories for datasets and software were important as well. In most cases, the hybridity of music DH is evident, with some sources digitized, some born digital, some held within the physical buildings of libraries, archives and museums, and some under use restrictions or behind paywalls. Users will get a sense of this hybridity when browsing the directory.</p>
 
 <h3 id="simple-answer-please">Simple answer, please?</h3>
 
@@ -106,11 +127,17 @@
 
 <h3 id="why-cant-i-easily-search-by-my-field-of-study">Why can’t I easily search by my field of study?</h3>
 
-<p>While the original data sheet from 2018 asks for “Academic Field / Areas,” we have decided to suppress that column for a few reasons. First, we wanted this directory to be relatively simple to maintain, and we didn’t want to overload our contributors or our users with lots of metadata. Second, while there <em>are</em> separate professional societies for ethnomusicology, historical musicology, music theory, music librarianship, music information retrieval, and so on, we notice that these distinctions are getting fuzzier, perhaps especially so in born-digital works. We’d like to plant a flag on the soil of interdisciplinarity rather than recreate disciplinary divides. To that end, unless disciplinary keywords show up in a blurb, adherence to any given subfield won’t be so obvious.</p>
+<p>While the original data sheet from 2018 asks for “Academic Field / Areas,” we have decided to suppress that column for a few reasons. First, we wanted this directory to be relatively simple to maintain, and we didn’t want to overload our contributors or our users with lots of metadata. Second, while there <em>are</em> separate professional societies for ethnomusicology, historical musicology, music theory, music librarianship, music information retrieval, and so on, we notice that these distinctions are getting fuzzier, perhaps especially so in born-digital works. We’d like to plant a flag in the soil of interdisciplinarity rather than recreate disciplinary divides. To that end, unless disciplinary keywords show up in a blurb, adherence to any given musical field won’t be so obvious.</p>
+
+<h3 id="why-do-you-include-defunct-projects">Why do you include defunct projects?</h3>
+
+<p><em>Ouch</em>. Way to pour salt in our wounds. Truthfully, in the space of a mere three years, we discovered that a few projects had already disappeared from the web. Rather than disappear them from our data sheet, we decided that it was important to keep them to acknowledge the fragility of digital scholarship work (including directory work!) and its concomitant sustainability issues. Books often survive through benign neglect. Digital projects are an altogether different beast. A better metaphor might be <a href="https://twitter.com/quinnanya/status/1404826431176151042">a car</a> or <a href="https://dhhumanist.org/volume/35/245/">a pet</a>, something that needs to be regularly fed and shown loving care to survive. “In perpetuity” is not achievable. For a host of political, social and economic reasons, we feel it’s important to underline this point.</p>
+
+<p>This directory uses a controlled vocabulary for project maturity: <code class="language-plaintext highlighter-rouge">in development</code>, <code class="language-plaintext highlighter-rouge">active</code>, <code class="language-plaintext highlighter-rouge">archived</code>, <code class="language-plaintext highlighter-rouge">defunct</code>. We used the creators’ language to make our best guess regarding the assignment of the first two categories. Archived means that there is some version of the project stored in a digital repository, trusted or otherwise, but that the main user interface has been retired. Defunct means gone from the internet (with the possible exception of the Wayback Machine).</p>
 
 <h3 id="why-is-my-project-not-here">Why is my project not here?</h3>
 
-<p>This directory was compiled over a period of a few years by a <a href="http://localhost:4000/musicdh/credits/">group of our colleagues</a>—librarians and scholars. We issued a <a href="http://localhost:4000/musicdh/cfc/">call for collaboration</a> on social media networks to promote our data collection. To be sure, we’ve got our biases, but we’ve done our best to get the word out. In short, we don’t know why your project isn’t here.</p>
+<p>This directory was compiled over a period of a few years by a <a href="http://localhost:4000/musicdh/credits/">group of our colleagues</a>—librarians and scholars. We issued a <a href="http://localhost:4000/musicdh/cfc/">call for collaboration</a> via listservs and on social media networks to promote our data collection. To be sure, we’ve got our biases, but we’ve done our best to get the word out. In short, we don’t know why your project isn’t here.</p>
 
 <h3 id="so-how-do-i-add-my-project">So… how do I add my project?</h3>
 
@@ -152,6 +179,11 @@
           
           <a href="https://www.musiclibraryassoc.org/" aria-label="Logo link to resource">
             <img src='http://localhost:4000/musicdh/img/mla_logo.png' alt="logo"/>
+          </a>
+          
+          
+          <a href="https://www.libraries.rutgers.edu/new-brunswick" aria-label="Logo link to resource">
+            <img src='http://localhost:4000/musicdh/img/ru_shield.png' alt="logo"/>
           </a>
           
         </p>

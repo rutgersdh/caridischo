@@ -17,8 +17,6 @@ show_title: false
 
 ## A Directory of Digital Scholarship in Music.
 
-Welcome. On this website you can browse or search an open-source bibliography of specialized digital resources and born-digital scholarship in music. 
+Welcome. On this website, you can browse or search an open-source bibliography of specialized digital resources and born-digital scholarship in music. Here you may tour the world of digital humanities in music, loosely interpreted. The entries in this directory were compiled over a period of three years: 2018-2021. 
 
-Please see our **[Call for Collaboration]({{site.baseurl}}/cfc/)** on October 12, 2021 to update the directory with projects from the past three years.
-
-To learn more about the project, please consult our **[Frequently Asked Questions]({{site.baseurl}}/faq/)**, select **Browse** or **Search** on our navigation menu above, or simply begin exploring one item at a time by clicking on this **[link]({{'/musicdh/musicdh001/'|absolute_url}})**.
+To learn more about the project, please consult our **[Frequently Asked Questions]({{site.baseurl}}/faq/)**, select **Browse** or **Search** on our navigation menu above, or simply begin exploring one item at a time by clicking on this **[link]({{'/musicdh/mdh001/'|absolute_url}})**.

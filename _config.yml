@@ -118,8 +118,6 @@ menu:
     link: '/search/'
   - label: 'About'
     sub:
-      - label: 'Call for Collaboration'
-        link: '/cfc/'
       - label: 'Sources'
         link: '/reuse/'      
       - label: 'Credits'
@@ -143,5 +141,7 @@ footer:
   logos:
     - img: '/img/mla_logo.png'
       link: 'https://www.musiclibraryassoc.org/'
+    - img: '/img/ru_shield.png'
+      link: 'https://www.libraries.rutgers.edu/new-brunswick'
 
 # FIN
