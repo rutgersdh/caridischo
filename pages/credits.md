@@ -22,7 +22,7 @@ For more about Wax's specs, visit the [documentation](https://minicomp.github.io
 
 ### Partners
 
-This inventory emerges from the meeting of the Digital Humanities Interest Group (DHIG) of the [Music Library Association](https://www.musiclibraryassoc.org/) at the 2018 annual meeting in Portland, Oregon. The current convener of the MLA-DHIG and maintainer of this directory is Francesca Giannetti. 
+This inventory emerges from the meeting of the Digital Humanities Interest Group (DHIG) of the [Music Library Association](https://www.musiclibraryassoc.org/) at the 2018 annual meeting in Portland, Oregon. The current convener of the MLA-DHIG and maintainer of this directory is Francesca Giannetti, digital humanities librarian at Rutgers--New Brunswick.
 
 
 
