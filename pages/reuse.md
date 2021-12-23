@@ -18,11 +18,12 @@ This online bibliographic resource has been gathering steam since that initial m
 - Corinne Forstot-Burke's digital musicology bibliography and [guide](https://guides.lib.utexas.edu/mus381/digitalmusicology)
 - Liz Crisenbery's [digital musicology guide](https://guides.library.duke.edu/c.php?g=857511)
 - Claire Arthur's computational musicology bibliography
+- The list of analysis tools and digital archives from Michelle Urberg's article, ['Pasts and Futures of Digital Humanities in Musicology: Moving Towards a “Bigger Tent”'](https://doi.org/10.1080/10588167.2017.1404301)
 - Eduardo Herrera's "Current Issues in Historical Musicology" syllabus
 - [Digital Resources](https://rsadigitalresources.hcommons.org/) curated by members of the Renaissance Society of America
 - Music nominees for [DH Awards](https://www.google.com/search?q=music+site%3Adhawards.org&oq=music+site%3Adhawards.org&aqs=chrome..69i57j69i64l3.4736j0j4&sourceid=chrome&ie=UTF-8)
 
-On October 12, 2021, an asynchronous [crowdsourcing event]({{site.baseurl}}/cfc/) was held to update the list with more recent contributions. And a few weeks later, Maristella Feustle, Bonnie Finn, Francesca Giannetti, Anna Kijas, Kerry Masteller, and Stephanie Sussmeier cleaned and refined the data in preparation for publication to the site. This directory is thus a snapshot of our work through November 2021.  
+On October 12, 2021, an asynchronous [crowdsourcing event]({{site.baseurl}}/cfc/) was held to update the list with more recent contributions. And a few weeks later, Maristella Feustle, Bonnie Finn, Francesca Giannetti, Anna Kijas, Kerry Masteller, and Stephanie Sussmeier cleaned and refined the data in preparation for publication to the site. This directory is thus a snapshot of our work through December 2021.  
 
 ### Data and Software Reuse
 
