@@ -70,6 +70,34 @@
     "lunr_id": 4
   },
   {
+    "pid": "mdh203",
+    "musicdh_genre": "software",
+    "label": "Audiveris",
+    "status": "active",
+    "creators": "Hervé Bitteur",
+    "stewards": null,
+    "blurb": "The goal of an OMR application is to allow the end-user to transcribe a score image into its symbolic counterpart. This opens the door to its further use by many kinds of digital processing such as playback, music edition, searching, republishing, etc.\n<br><br>\nAudiveris application is built around the tight integration of two main components: an OMR engine and an OMR editor.\n<br><br>\n<ul><li>The OMR engine combines many techniques, depending on the type of entities to be recognized -- ad-hoc methods for lines, image morphological closing for beams, external OCR for texts, template matching for heads, neural network for all other fixed-size shapes.\nSignificant progresses have been made, especially regarding poor-quality scores, but experience tells us that 100% recognition ratio is simply out of reach in many cases.</li>\n<li>The OMR editor thus comes into play to overcome engine weaknesses in convenient ways. The user can preselect processing switches to adapt the OMR engine before launching transcription of the current score. Then the remaining mistakes can usually be quickly fixed via manual edition of a few music symbols.</li></ul>",
+    "tools_used": null,
+    "collection": "musicdh",
+    "thumbnail": "img/derivatives/simple/mdh203/thumbnail.jpg",
+    "permalink": "/musicdh/mdh203",
+    "lunr_id": 5
+  },
+  {
+    "pid": "mdh192",
+    "musicdh_genre": "collections & exhibits",
+    "label": "The VIAMAP Website",
+    "status": "active",
+    "creators": "Amine Beyhom",
+    "stewards": "CERMAA reseach centre - Lebanon",
+    "blurb": "In the last few years, the CERMAA (Center for Research on Music from Arabian and Akin countries) has developed a whole new trend in music analyses which were gathered under the VIAMAP, or the Video Animated Music Analysis Project.\n<br><br>\nDue to the rapid growth of the number of analyses, we decided to create this dedicated website to make it easier for musicologists and other interested people to browse throughout these.\n<br><br>\nAll the VIAMAP analyses initially proposed in our main website at <a href='http://foredofico.org/CERMAA/' target='_blank'>http://foredofico.org/CERMAA/</a>, notably the Analyses page, are available on this site, including additionally the Byzantine chant scales analyses by Amine Beyhom. The site is continuously expanding, and new analyses added in their respective pages.\n<br><br>\nVideo analyses are an alternative to Old Musicology analyses with scores, and allow for direct (graphical and literal) explanations while listening to the analyzed music.",
+    "tools_used": null,
+    "collection": "musicdh",
+    "thumbnail": "img/derivatives/simple/mdh192/thumbnail.jpg",
+    "permalink": "/musicdh/mdh192",
+    "lunr_id": 6
+  },
+  {
     "pid": "mdh021",
     "musicdh_genre": "edition",
     "label": "Richard Strauss: Works. Critical Edition – Online Platform",
@@ -81,7 +109,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh021/thumbnail.jpg",
     "permalink": "/musicdh/mdh021",
-    "lunr_id": 5
+    "lunr_id": 7
   },
   {
     "pid": "mdh161",
@@ -95,7 +123,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh161/thumbnail.jpg",
     "permalink": "/musicdh/mdh161",
-    "lunr_id": 6
+    "lunr_id": 8
   },
   {
     "pid": "mdh070",
@@ -109,7 +137,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh070/thumbnail.jpg",
     "permalink": "/musicdh/mdh070",
-    "lunr_id": 7
+    "lunr_id": 9
   },
   {
     "pid": "mdh130",
@@ -123,7 +151,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh130/thumbnail.jpg",
     "permalink": "/musicdh/mdh130",
-    "lunr_id": 8
+    "lunr_id": 10
   },
   {
     "pid": "mdh120",
@@ -137,7 +165,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh120/thumbnail.jpg",
     "permalink": "/musicdh/mdh120",
-    "lunr_id": 9
+    "lunr_id": 11
   },
   {
     "pid": "mdh060",
@@ -151,7 +179,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh060/thumbnail.jpg",
     "permalink": "/musicdh/mdh060",
-    "lunr_id": 10
+    "lunr_id": 12
   },
   {
     "pid": "mdh171",
@@ -165,7 +193,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh171/thumbnail.jpg",
     "permalink": "/musicdh/mdh171",
-    "lunr_id": 11
+    "lunr_id": 13
   },
   {
     "pid": "mdh031",
@@ -179,7 +207,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh031/thumbnail.jpg",
     "permalink": "/musicdh/mdh031",
-    "lunr_id": 12
+    "lunr_id": 14
   },
   {
     "pid": "mdh182",
@@ -193,7 +221,21 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh182/thumbnail.jpg",
     "permalink": "/musicdh/mdh182",
-    "lunr_id": 13
+    "lunr_id": 15
+  },
+  {
+    "pid": "mdh213",
+    "musicdh_genre": "reference",
+    "label": "Vihuela Database",
+    "status": "in development",
+    "creators": "John Griffiths",
+    "stewards": null,
+    "blurb": "This site houses information about the vihuela de mano, or simply vihuela, the plucked musical instrument that flourished during the approximate period 1475-1625 in Spain and throughout the Spanish empire, as well as other regions that had cultural links with Spain. In total, the vihuela was known and played in Spain, Portugal, ltaly and Latin America, as well other places from the Netherlands to Japan. This is a continuously growing database of all things pertaining to the vihuela that aims to be as comprehensive as possible. The three main fields of the database concern 1) the vihuela itself, 2) vihuela music and 3) people who can be associated with the vihuela, especially players, composers, makers, and many others. The site integrates information concerning the sources of all this information, modern scholarship concerning the vihuela, and recordings of vihuela music.",
+    "tools_used": null,
+    "collection": "musicdh",
+    "thumbnail": "img/derivatives/simple/mdh213/thumbnail.jpg",
+    "permalink": "/musicdh/mdh213",
+    "lunr_id": 16
   },
   {
     "pid": "mdh093",
@@ -207,7 +249,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh093/thumbnail.jpg",
     "permalink": "/musicdh/mdh093",
-    "lunr_id": 14
+    "lunr_id": 17
   },
   {
     "pid": "mdh005",
@@ -221,7 +263,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh005/thumbnail.jpg",
     "permalink": "/musicdh/mdh005",
-    "lunr_id": 15
+    "lunr_id": 18
   },
   {
     "pid": "mdh145",
@@ -235,7 +277,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh145/thumbnail.jpg",
     "permalink": "/musicdh/mdh145",
-    "lunr_id": 16
+    "lunr_id": 19
   },
   {
     "pid": "mdh054",
@@ -249,7 +291,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh054/thumbnail.jpg",
     "permalink": "/musicdh/mdh054",
-    "lunr_id": 17
+    "lunr_id": 20
   },
   {
     "pid": "mdh114",
@@ -263,7 +305,35 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh114/thumbnail.jpg",
     "permalink": "/musicdh/mdh114",
-    "lunr_id": 18
+    "lunr_id": 21
+  },
+  {
+    "pid": "mdh196",
+    "musicdh_genre": "collections & exhibits",
+    "label": "Our Subversive Voice: The History and Politics of the English Protest Song",
+    "status": "active",
+    "creators": "John Street, Oskar Cox Jensen, Alan Finlayson, Angela McShane, Matthew Worley, Helen Stokes",
+    "stewards": "University of East Anglia",
+    "blurb": "We are investigating the use of song to register protest through the ages, from 1600 to 2020. The core of the website is its database of 750 protest songs from 1600–2020, of which 250 are showcased as the most distinctive and important. These are the ‘curated’ songs you will see by default. We have kept in basic information about the other 500 to allow you to explore further. A number of these are more debatable as ‘English’, ‘protest’ – or even ‘songs’! The 750 were chosen by the project team with help from fifty-five contributing experts.\n\nWe are not simply documenting these songs. We want to show how and why music, in the form of song, has been used as a type of political communication. For us, each protest song need to be understood as part of a specific political and musical moment, mediated by multiple processes and possibilities. This subtler story is essential to understanding why and when musicians have intervened and continue to intervene in politics, and the form taken by these interventions.",
+    "tools_used": null,
+    "collection": "musicdh",
+    "thumbnail": "img/derivatives/simple/mdh196/thumbnail.jpg",
+    "permalink": "/musicdh/mdh196",
+    "lunr_id": 22
+  },
+  {
+    "pid": "mdh207",
+    "musicdh_genre": "edition",
+    "label": "Picardy Musical Heritage",
+    "status": "in development",
+    "creators": "Marie-Alexis Colin et al.",
+    "stewards": "Université Libre de Bruxelles, Festival des cathédrales de Picardie, CESR - Tours",
+    "blurb": "<i>Picardy Musical Heritage</i> is a website dedicated to the critical edition of music by composers from Picardy or who worked in this region – situated in the North of France – during the Renaissance. The site collects the critical editions of 268 pieces of music (259 available online), 41 references to manuscripts and printed sources produced from the fifteenth to the seventeenth century, and 8 biographies. Critical editions may be downloaded, free of charge, in three formats: pdf, Sibelius and MEI files. This is a project in progress, periodically enriched with new musical editions.",
+    "tools_used": null,
+    "collection": "musicdh",
+    "thumbnail": "img/derivatives/simple/mdh207/thumbnail.jpg",
+    "permalink": "/musicdh/mdh207",
+    "lunr_id": 23
   },
   {
     "pid": "mdh087",
@@ -277,7 +347,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh087/thumbnail.jpg",
     "permalink": "/musicdh/mdh087",
-    "lunr_id": 19
+    "lunr_id": 24
   },
   {
     "pid": "mdh074",
@@ -291,7 +361,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh074/thumbnail.jpg",
     "permalink": "/musicdh/mdh074",
-    "lunr_id": 20
+    "lunr_id": 25
   },
   {
     "pid": "mdh134",
@@ -305,7 +375,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh134/thumbnail.jpg",
     "permalink": "/musicdh/mdh134",
-    "lunr_id": 21
+    "lunr_id": 26
   },
   {
     "pid": "mdh025",
@@ -319,7 +389,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh025/thumbnail.jpg",
     "permalink": "/musicdh/mdh025",
-    "lunr_id": 22
+    "lunr_id": 27
   },
   {
     "pid": "mdh165",
@@ -333,7 +403,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh165/thumbnail.jpg",
     "permalink": "/musicdh/mdh165",
-    "lunr_id": 23
+    "lunr_id": 28
   },
   {
     "pid": "mdh151",
@@ -347,7 +417,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh151/thumbnail.jpg",
     "permalink": "/musicdh/mdh151",
-    "lunr_id": 24
+    "lunr_id": 29
   },
   {
     "pid": "mdh011",
@@ -361,7 +431,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh011/thumbnail.jpg",
     "permalink": "/musicdh/mdh011",
-    "lunr_id": 25
+    "lunr_id": 30
   },
   {
     "pid": "mdh100",
@@ -375,7 +445,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh100/thumbnail.jpg",
     "permalink": "/musicdh/mdh100",
-    "lunr_id": 26
+    "lunr_id": 31
   },
   {
     "pid": "mdh040",
@@ -389,7 +459,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh040/thumbnail.jpg",
     "permalink": "/musicdh/mdh040",
-    "lunr_id": 27
+    "lunr_id": 32
   },
   {
     "pid": "mdh050",
@@ -403,7 +473,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh050/thumbnail.jpg",
     "permalink": "/musicdh/mdh050",
-    "lunr_id": 28
+    "lunr_id": 33
   },
   {
     "pid": "mdh110",
@@ -417,7 +487,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh110/thumbnail.jpg",
     "permalink": "/musicdh/mdh110",
-    "lunr_id": 29
+    "lunr_id": 34
   },
   {
     "pid": "mdh001",
@@ -431,7 +501,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh001/thumbnail.jpg",
     "permalink": "/musicdh/mdh001",
-    "lunr_id": 30
+    "lunr_id": 35
   },
   {
     "pid": "mdh141",
@@ -445,7 +515,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh141/thumbnail.jpg",
     "permalink": "/musicdh/mdh141",
-    "lunr_id": 31
+    "lunr_id": 36
   },
   {
     "pid": "mdh175",
@@ -459,7 +529,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh175/thumbnail.jpg",
     "permalink": "/musicdh/mdh175",
-    "lunr_id": 32
+    "lunr_id": 37
   },
   {
     "pid": "mdh035",
@@ -473,7 +543,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh035/thumbnail.jpg",
     "permalink": "/musicdh/mdh035",
-    "lunr_id": 33
+    "lunr_id": 38
   },
   {
     "pid": "mdh124",
@@ -487,7 +557,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh124/thumbnail.jpg",
     "permalink": "/musicdh/mdh124",
-    "lunr_id": 34
+    "lunr_id": 39
   },
   {
     "pid": "mdh064",
@@ -501,7 +571,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh064/thumbnail.jpg",
     "permalink": "/musicdh/mdh064",
-    "lunr_id": 35
+    "lunr_id": 40
   },
   {
     "pid": "mdh097",
@@ -515,7 +585,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh097/thumbnail.jpg",
     "permalink": "/musicdh/mdh097",
-    "lunr_id": 36
+    "lunr_id": 41
   },
   {
     "pid": "mdh186",
@@ -529,7 +599,35 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh186/thumbnail.jpg",
     "permalink": "/musicdh/mdh186",
-    "lunr_id": 37
+    "lunr_id": 42
+  },
+  {
+    "pid": "mdh206",
+    "musicdh_genre": "edition",
+    "label": "Corpus of 15th-Century Anonymous Masses",
+    "status": "in development",
+    "creators": "Augustino Magro et al.",
+    "stewards": "Université de Rennes 2, CESR - Tours",
+    "blurb": "Corpus of 15th-Century Anonymous Masses is an online edition of polyphonic masses composed by anonymous musicians who worked in fifteenth-century European chapels. The database collects the critical editions of 142 masses (30 available online) and 147 isolated movements (1 available online), mainly preserved in Italian manuscripts (37 sources). Downloading is available free of charge, with scores and critical notes in pdf files. This is a project in progress, periodically enriched with new editions.",
+    "tools_used": null,
+    "collection": "musicdh",
+    "thumbnail": "img/derivatives/simple/mdh206/thumbnail.jpg",
+    "permalink": "/musicdh/mdh206",
+    "lunr_id": 43
+  },
+  {
+    "pid": "mdh197",
+    "musicdh_genre": "collections & exhibits",
+    "label": "Protest Songs",
+    "status": "active",
+    "creators": "Richard MacKinnon",
+    "stewards": null,
+    "blurb": "On Cape Breton Island, where coal mining and steel making were once an essential part of the region’s culture and economy, protest song and verse are found in abundance. The Protest Song Project is an initiative of The Centre for Cape Breton Studies at Cape Breton University. The program’s goal is to preserve and promote the protest songs and verse that represent the region’s rich industrial heritage. The Centre has been collaborating with local musicians to record many of the songs that were published in the Maritime Labour Herald, a newspaper of the 1920s, that includes both local and international compositions. These songs played an important role in the labour struggles of the 1920s and are an unexplored aspect of Cape Breton’s labour heritage. This is a truly interactive, collaborative and community-minded project. This website is supported by audio tracks that can be purchased by clicking the &quot;Buy&quot; link above.",
+    "tools_used": null,
+    "collection": "musicdh",
+    "thumbnail": "img/derivatives/simple/mdh197/thumbnail.jpg",
+    "permalink": "/musicdh/mdh197",
+    "lunr_id": 44
   },
   {
     "pid": "mdh086",
@@ -543,7 +641,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh086/thumbnail.jpg",
     "permalink": "/musicdh/mdh086",
-    "lunr_id": 38
+    "lunr_id": 45
   },
   {
     "pid": "mdh075",
@@ -557,7 +655,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh075/thumbnail.jpg",
     "permalink": "/musicdh/mdh075",
-    "lunr_id": 39
+    "lunr_id": 46
   },
   {
     "pid": "mdh135",
@@ -571,7 +669,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh135/thumbnail.jpg",
     "permalink": "/musicdh/mdh135",
-    "lunr_id": 40
+    "lunr_id": 47
   },
   {
     "pid": "mdh024",
@@ -585,7 +683,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh024/thumbnail.jpg",
     "permalink": "/musicdh/mdh024",
-    "lunr_id": 41
+    "lunr_id": 48
   },
   {
     "pid": "mdh164",
@@ -599,7 +697,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh164/thumbnail.jpg",
     "permalink": "/musicdh/mdh164",
-    "lunr_id": 42
+    "lunr_id": 49
   },
   {
     "pid": "mdh150",
@@ -613,7 +711,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh150/thumbnail.jpg",
     "permalink": "/musicdh/mdh150",
-    "lunr_id": 43
+    "lunr_id": 50
   },
   {
     "pid": "mdh010",
@@ -627,7 +725,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh010/thumbnail.jpg",
     "permalink": "/musicdh/mdh010",
-    "lunr_id": 44
+    "lunr_id": 51
   },
   {
     "pid": "mdh101",
@@ -641,7 +739,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh101/thumbnail.jpg",
     "permalink": "/musicdh/mdh101",
-    "lunr_id": 45
+    "lunr_id": 52
   },
   {
     "pid": "mdh041",
@@ -655,7 +753,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh041/thumbnail.jpg",
     "permalink": "/musicdh/mdh041",
-    "lunr_id": 46
+    "lunr_id": 53
   },
   {
     "pid": "mdh051",
@@ -669,7 +767,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh051/thumbnail.jpg",
     "permalink": "/musicdh/mdh051",
-    "lunr_id": 47
+    "lunr_id": 54
   },
   {
     "pid": "mdh111",
@@ -683,7 +781,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh111/thumbnail.jpg",
     "permalink": "/musicdh/mdh111",
-    "lunr_id": 48
+    "lunr_id": 55
   },
   {
     "pid": "mdh140",
@@ -697,7 +795,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh140/thumbnail.jpg",
     "permalink": "/musicdh/mdh140",
-    "lunr_id": 49
+    "lunr_id": 56
   },
   {
     "pid": "mdh174",
@@ -711,7 +809,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh174/thumbnail.jpg",
     "permalink": "/musicdh/mdh174",
-    "lunr_id": 50
+    "lunr_id": 57
   },
   {
     "pid": "mdh034",
@@ -725,7 +823,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh034/thumbnail.jpg",
     "permalink": "/musicdh/mdh034",
-    "lunr_id": 51
+    "lunr_id": 58
   },
   {
     "pid": "mdh125",
@@ -739,7 +837,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh125/thumbnail.jpg",
     "permalink": "/musicdh/mdh125",
-    "lunr_id": 52
+    "lunr_id": 59
   },
   {
     "pid": "mdh065",
@@ -753,7 +851,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh065/thumbnail.jpg",
     "permalink": "/musicdh/mdh065",
-    "lunr_id": 53
+    "lunr_id": 60
   },
   {
     "pid": "mdh096",
@@ -767,7 +865,21 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh096/thumbnail.jpg",
     "permalink": "/musicdh/mdh096",
-    "lunr_id": 54
+    "lunr_id": 61
+  },
+  {
+    "pid": "mdh187",
+    "musicdh_genre": "reference",
+    "label": "SongHelix",
+    "status": "active",
+    "creators": "Seth Keeton",
+    "stewards": "The University of Utah",
+    "blurb": "There has never been a simple way to search through the vast number of art songs by poet, date of composition, thematic links, keywords, or utility. SongHelix brings this ever-evolving information available into one searchable location. It is an online tool that enables users to search through the vast repertoire of art songs in order to find just the right piece. The website’s immediate purpose is to give singers and teachers the primary online tool for finding related repertoire. A secondary, and broader purpose will be to help to revitalize the form of voice recital by allowing for creative programming through novel associations.",
+    "tools_used": null,
+    "collection": "musicdh",
+    "thumbnail": "img/derivatives/simple/mdh187/thumbnail.jpg",
+    "permalink": "/musicdh/mdh187",
+    "lunr_id": 62
   },
   {
     "pid": "mdh105",
@@ -781,7 +893,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh105/thumbnail.jpg",
     "permalink": "/musicdh/mdh105",
-    "lunr_id": 55
+    "lunr_id": 63
   },
   {
     "pid": "mdh045",
@@ -795,7 +907,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh045/thumbnail.jpg",
     "permalink": "/musicdh/mdh045",
-    "lunr_id": 56
+    "lunr_id": 64
   },
   {
     "pid": "mdh154",
@@ -809,7 +921,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh154/thumbnail.jpg",
     "permalink": "/musicdh/mdh154",
-    "lunr_id": 57
+    "lunr_id": 65
   },
   {
     "pid": "mdh014",
@@ -823,7 +935,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh014/thumbnail.jpg",
     "permalink": "/musicdh/mdh014",
-    "lunr_id": 58
+    "lunr_id": 66
   },
   {
     "pid": "mdh082",
@@ -837,7 +949,35 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh082/thumbnail.jpg",
     "permalink": "/musicdh/mdh082",
-    "lunr_id": 59
+    "lunr_id": 67
+  },
+  {
+    "pid": "mdh193",
+    "musicdh_genre": "collections & exhibits",
+    "label": "Opera Collection (University of Western Ontario)",
+    "status": "active",
+    "creators": "Western Libraries (University of Western Ontario)",
+    "stewards": "Western Libraries (University of Western Ontario)",
+    "blurb": "This digital collection reproduces over 600 of the 2,200 physical volumes held at Western Libraries Archives & Special Collections. The items are primarily rare manuscripts and printed first editions of operas and libretti composed between 1597 and 1900. For more information, please visit <a href='https://www.lib.uwo.ca/music/operaspecol.html' target='_blank'>https://www.lib.uwo.ca/music/operaspecol.html</a>.",
+    "tools_used": null,
+    "collection": "musicdh",
+    "thumbnail": "img/derivatives/simple/mdh193/thumbnail.jpg",
+    "permalink": "/musicdh/mdh193",
+    "lunr_id": 68
+  },
+  {
+    "pid": "mdh202",
+    "musicdh_genre": "collections & exhibits",
+    "label": "Coleccionistas de Sonidos. Siglo XIX: El álbum musical de Ana y Cristina Echeverría",
+    "status": "active",
+    "creators": "Juana Monsalve, Daniel Castro Pantoja, Juan Fernando Velásquez, Rondy Torres",
+    "stewards": null,
+    "blurb": "Between 1848 and 1888, several members of the Echeverría family compiled and collected a total of 78 music scores in a binder’s volume. This bound collection of musical scores and other miscellaneous documents belonged to sisters Ana and Cristina Echeverría, who performed the music contained in this binder’s volume at salon gatherings held in Bogotá. Printed and handwritten, the sheet music found in Ana and Cristina Echeverría's binder’s volume feature works by composers such as José María Ponce de León (Bogotá, Colombia), and Jesús María Suárez (Caracas, Venezuela), as well the music of Ana and Cristina's cousin, Rosa Echeverría (Santa Marta, Colombia). This digital exhibition tells the story of this binder’s volume and of its owners. The exhibition also explores the music practices formed around this musical object, the sonic and material flows materialized in the sheet music itself, and everything else that can be told about this particular binder’s volume that accompanied the Echeverria family’s evenings throughout the mid-to-late 19th century.",
+    "tools_used": null,
+    "collection": "musicdh",
+    "thumbnail": "img/derivatives/simple/mdh202/thumbnail.jpg",
+    "permalink": "/musicdh/mdh202",
+    "lunr_id": 69
   },
   {
     "pid": "mdh020",
@@ -851,7 +991,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh020/thumbnail.jpg",
     "permalink": "/musicdh/mdh020",
-    "lunr_id": 60
+    "lunr_id": 70
   },
   {
     "pid": "mdh160",
@@ -865,7 +1005,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh160/thumbnail.jpg",
     "permalink": "/musicdh/mdh160",
-    "lunr_id": 61
+    "lunr_id": 71
   },
   {
     "pid": "mdh071",
@@ -879,7 +1019,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh071/thumbnail.jpg",
     "permalink": "/musicdh/mdh071",
-    "lunr_id": 62
+    "lunr_id": 72
   },
   {
     "pid": "mdh131",
@@ -893,7 +1033,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh131/thumbnail.jpg",
     "permalink": "/musicdh/mdh131",
-    "lunr_id": 63
+    "lunr_id": 73
   },
   {
     "pid": "mdh121",
@@ -907,7 +1047,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh121/thumbnail.jpg",
     "permalink": "/musicdh/mdh121",
-    "lunr_id": 64
+    "lunr_id": 74
   },
   {
     "pid": "mdh061",
@@ -921,7 +1061,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh061/thumbnail.jpg",
     "permalink": "/musicdh/mdh061",
-    "lunr_id": 65
+    "lunr_id": 75
   },
   {
     "pid": "mdh170",
@@ -935,7 +1075,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh170/thumbnail.jpg",
     "permalink": "/musicdh/mdh170",
-    "lunr_id": 66
+    "lunr_id": 76
   },
   {
     "pid": "mdh030",
@@ -949,7 +1089,21 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh030/thumbnail.jpg",
     "permalink": "/musicdh/mdh030",
-    "lunr_id": 67
+    "lunr_id": 77
+  },
+  {
+    "pid": "mdh212",
+    "musicdh_genre": "edition",
+    "label": "The Workshop of Virtual Polyphonic Reconstructions",
+    "status": "active",
+    "creators": "Richard Freedman, David Fiala, Philippe Vendrix",
+    "stewards": "Ricercar, Centre d'Études Supérieures de la Renaissance",
+    "blurb": "<i>The Workshop of Virtual Polyphonic Reconstructions</i> is a database dedicated to the reconstruction of missing parts in Renaissance polyphonic compositions.\n<br><br>The database gathers nearly 3,000 files concerning the remaining lacunar sources preserved in libraries in Europe and North America, as well as 400 transcribed lacunar pieces, 200 of which have been the subject of reconstruction. Users can consult the source records and the proposed reconstructions for the missing voice parts. This project is linked to the Lost Voices Project of Richard Freedman.",
+    "tools_used": null,
+    "collection": "musicdh",
+    "thumbnail": "img/derivatives/simple/mdh212/thumbnail.jpg",
+    "permalink": "/musicdh/mdh212",
+    "lunr_id": 78
   },
   {
     "pid": "mdh183",
@@ -963,7 +1117,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh183/thumbnail.jpg",
     "permalink": "/musicdh/mdh183",
-    "lunr_id": 68
+    "lunr_id": 79
   },
   {
     "pid": "mdh092",
@@ -977,7 +1131,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh092/thumbnail.jpg",
     "permalink": "/musicdh/mdh092",
-    "lunr_id": 69
+    "lunr_id": 80
   },
   {
     "pid": "mdh004",
@@ -991,7 +1145,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh004/thumbnail.jpg",
     "permalink": "/musicdh/mdh004",
-    "lunr_id": 70
+    "lunr_id": 81
   },
   {
     "pid": "mdh144",
@@ -1005,7 +1159,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh144/thumbnail.jpg",
     "permalink": "/musicdh/mdh144",
-    "lunr_id": 71
+    "lunr_id": 82
   },
   {
     "pid": "mdh055",
@@ -1019,7 +1173,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh055/thumbnail.jpg",
     "permalink": "/musicdh/mdh055",
-    "lunr_id": 72
+    "lunr_id": 83
   },
   {
     "pid": "mdh115",
@@ -1033,7 +1187,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh115/thumbnail.jpg",
     "permalink": "/musicdh/mdh115",
-    "lunr_id": 73
+    "lunr_id": 84
   },
   {
     "pid": "mdh089",
@@ -1047,7 +1201,49 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh089/thumbnail.jpg",
     "permalink": "/musicdh/mdh089",
-    "lunr_id": 74
+    "lunr_id": 85
+  },
+  {
+    "pid": "mdh198",
+    "musicdh_genre": "data",
+    "label": "BIPOC Canadian Composers",
+    "status": "active",
+    "creators": "Carolyn Doi, Janet Hilts",
+    "stewards": null,
+    "blurb": "This dataset comprises a list of composers who identify as Black, Indigenous, or People of Colour (BIPOC) with a connection to Canada (e.g. are Canadian, working in Canada, or from an Indigenous nation situated in what is now known as Canada).",
+    "tools_used": null,
+    "collection": "musicdh",
+    "thumbnail": "img/derivatives/simple/mdh198/thumbnail.jpg",
+    "permalink": "/musicdh/mdh198",
+    "lunr_id": 86
+  },
+  {
+    "pid": "mdh209",
+    "musicdh_genre": "collections & exhibits",
+    "label": "Singing upon the Book in the Renaissance",
+    "status": "active",
+    "creators": null,
+    "stewards": "Ricercar, Centre d'Études Supérieures de la Renaissance",
+    "blurb": "<i>Singing upon the Book in the Renaissance</i> is a website dedicated to the oral practice of counterpoint in the early modern period. It makes available to our community of music lovers, musicians and researchers various tools for the study of polyphonic improvisation from the end of the Middle Ages to the end of the 18th century.\n<br><br>\nThe website also includes the edition in modern clefs of the musical examples contained in the <i>De arte de contrapunto and the Introdutione facilissima</i> (1553) of the portuguese composer Vicente Lusitano. Out of the 250 music examples that can be dowloaded in pdf format, 60 of them have been recorded by the ensemble Les Sacqueboutiers, and are available in mp3 format. An English translation of Lusitano’s Tratado de canto de organo is also available.",
+    "tools_used": null,
+    "collection": "musicdh",
+    "thumbnail": "img/derivatives/simple/mdh209/thumbnail.jpg",
+    "permalink": "/musicdh/mdh209",
+    "lunr_id": 87
+  },
+  {
+    "pid": "mdh188",
+    "musicdh_genre": "data",
+    "label": "Million Song Dataset",
+    "status": "active",
+    "creators": "Thierry Bertin-Mahieux, Daniel P.W. Ellis, Brian Whitman, and Paul Lamere",
+    "stewards": null,
+    "blurb": "The Million Song Dataset is a freely-available collection of audio features and metadata for a million contemporary popular music tracks.\n\nIts purposes are:\n<ul>\n<li>To encourage research on algorithms that scale to commercial sizes</li>\n<li>To provide a reference dataset for evaluating research</li>\n<li>As a shortcut alternative to creating a large dataset with APIs (e.g. The Echo Nest's)</li>\n<li>To help new researchers get started in the MIR field</li></ul>\nThe core of the dataset is the feature analysis and metadata for one million songs, provided by The Echo Nest. The dataset does not include any audio, only the derived features. Note, however, that sample audio can be fetched from services like 7digital, using code we provide.",
+    "tools_used": null,
+    "collection": "musicdh",
+    "thumbnail": "img/derivatives/simple/mdh188/thumbnail.jpg",
+    "permalink": "/musicdh/mdh188",
+    "lunr_id": 88
   },
   {
     "pid": "mdh099",
@@ -1061,7 +1257,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh099/thumbnail.jpg",
     "permalink": "/musicdh/mdh099",
-    "lunr_id": 75
+    "lunr_id": 89
   },
   {
     "pid": "mdh088",
@@ -1075,7 +1271,49 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh088/thumbnail.jpg",
     "permalink": "/musicdh/mdh088",
-    "lunr_id": 76
+    "lunr_id": 90
+  },
+  {
+    "pid": "mdh208",
+    "musicdh_genre": "edition",
+    "label": "Renaissance Music in Croatia",
+    "status": "in development",
+    "creators": "Ennio Stipčević et al.",
+    "stewards": "University of Zagreb/Croatian Academy of Sciences and Arts – Zagreb, CESR - Tours",
+    "blurb": "<i>Renaissance Music in Croatia</i> is a website dedicated to the critical edition of music by composers and sources from the Croatian area, and also by Italian musicians who worked in Croatia during the Renaissance. This site collects the critical editions of 172 pieces of music, 36 references to musical and literary manuscripts and printed sources produced from the fifteenth to the end of the sixteenth century, and 13 biographies. The critical editions can be downloaded in three formats: pdf, Sibelius and MEI files. This is a project in progress, periodically enriched with new editions of music.",
+    "tools_used": null,
+    "collection": "musicdh",
+    "thumbnail": "img/derivatives/simple/mdh208/thumbnail.jpg",
+    "permalink": "/musicdh/mdh208",
+    "lunr_id": 91
+  },
+  {
+    "pid": "mdh199",
+    "musicdh_genre": "collections & exhibits",
+    "label": "The Polyphony Project",
+    "status": "active",
+    "creators": "Both Miklós et al.",
+    "stewards": null,
+    "blurb": "The mission of the Polyphony Project is to explore, preserve and present the living musical folklore of Ukrainian villages. In addition to recording the intangible cultural treasures of the Ukrainian peasantry using state-of-the-art technology, our priority is to make this heritage of unparalleled value accessible to contemporary society. Having accumulated over centuries, this legacy is finally available online in an organised form. We hope that our website will attract everyone from music enthusiasts to academic researchers.",
+    "tools_used": null,
+    "collection": "musicdh",
+    "thumbnail": "img/derivatives/simple/mdh199/thumbnail.jpg",
+    "permalink": "/musicdh/mdh199",
+    "lunr_id": 92
+  },
+  {
+    "pid": "mdh189",
+    "musicdh_genre": "collections & exhibits",
+    "label": "Songs of the Victorians",
+    "status": "defunct",
+    "creators": "Joanna (Annie) Swafford",
+    "stewards": null,
+    "blurb": "Songs of the Victorians is an archive of parlor and art song settings of Victorian poems, and also a scholarly tool to facilitate interdisciplinary music and poetry scholarship. It is designed and developed by Joanna Swafford with the generous support of a Scholars' Lab Fellowship from the University of Virginia. It contains four songs: Michael William Balfe's &quot;Come into the Garden, Maud&quot; and Sir Arthur Somervell's &quot;Come into the Garden, Maud&quot; (both based on Alfred Lord Tennyson's monodrama, <i>Maud</i>), Sir Arthur Sullivan's version of Adelaide Procter's &quot;A Lost Chord,&quot; and Caroline Norton's &quot;Juanita.&quot;\n<br><br>\nParlor and art song settings of Victorian poems are not mere examples of Victorian kitsch: rather, these settings function as readings of the poems they use as lyrics. Songs of the Victorians includes parlor songs alongside art songs to challenge the conventional musicological assumption that popular, domestic music naïvely misrepresents its poetic source material. Many parlor songs actually perform nuanced understandings of the texts they set and address subjects such as the silencing of women, the difficulty of resolving gender inequalities, religious questionings, and &quot;cross-singing,&quot; or women singing text written for a male character. These socially acceptable, sentimental songs often enabled women to address transgressive topics that otherwise would have been forbidden.",
+    "tools_used": "Augmented Notes",
+    "collection": "musicdh",
+    "thumbnail": "img/derivatives/simple/mdh189/thumbnail.jpg",
+    "permalink": "/musicdh/mdh189",
+    "lunr_id": 93
   },
   {
     "pid": "mdh098",
@@ -1089,7 +1327,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh098/thumbnail.jpg",
     "permalink": "/musicdh/mdh098",
-    "lunr_id": 77
+    "lunr_id": 94
   },
   {
     "pid": "mdh108",
@@ -1103,7 +1341,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh108/thumbnail.jpg",
     "permalink": "/musicdh/mdh108",
-    "lunr_id": 78
+    "lunr_id": 95
   },
   {
     "pid": "mdh048",
@@ -1117,7 +1355,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh048/thumbnail.jpg",
     "permalink": "/musicdh/mdh048",
-    "lunr_id": 79
+    "lunr_id": 96
   },
   {
     "pid": "mdh159",
@@ -1131,7 +1369,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh159/thumbnail.jpg",
     "permalink": "/musicdh/mdh159",
-    "lunr_id": 80
+    "lunr_id": 97
   },
   {
     "pid": "mdh019",
@@ -1145,7 +1383,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh019/thumbnail.jpg",
     "permalink": "/musicdh/mdh019",
-    "lunr_id": 81
+    "lunr_id": 98
   },
   {
     "pid": "mdh009",
@@ -1159,7 +1397,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh009/thumbnail.jpg",
     "permalink": "/musicdh/mdh009",
-    "lunr_id": 82
+    "lunr_id": 99
   },
   {
     "pid": "mdh149",
@@ -1173,7 +1411,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh149/thumbnail.jpg",
     "permalink": "/musicdh/mdh149",
-    "lunr_id": 83
+    "lunr_id": 100
   },
   {
     "pid": "mdh058",
@@ -1187,7 +1425,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh058/thumbnail.jpg",
     "permalink": "/musicdh/mdh058",
-    "lunr_id": 84
+    "lunr_id": 101
   },
   {
     "pid": "mdh118",
@@ -1201,7 +1439,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh118/thumbnail.jpg",
     "permalink": "/musicdh/mdh118",
-    "lunr_id": 85
+    "lunr_id": 102
   },
   {
     "pid": "mdh078",
@@ -1215,7 +1453,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh078/thumbnail.jpg",
     "permalink": "/musicdh/mdh078",
-    "lunr_id": 86
+    "lunr_id": 103
   },
   {
     "pid": "mdh138",
@@ -1229,7 +1467,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh138/thumbnail.jpg",
     "permalink": "/musicdh/mdh138",
-    "lunr_id": 87
+    "lunr_id": 104
   },
   {
     "pid": "mdh029",
@@ -1243,7 +1481,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh029/thumbnail.jpg",
     "permalink": "/musicdh/mdh029",
-    "lunr_id": 88
+    "lunr_id": 105
   },
   {
     "pid": "mdh169",
@@ -1257,7 +1495,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh169/thumbnail.jpg",
     "permalink": "/musicdh/mdh169",
-    "lunr_id": 89
+    "lunr_id": 106
   },
   {
     "pid": "mdh179",
@@ -1271,7 +1509,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh179/thumbnail.jpg",
     "permalink": "/musicdh/mdh179",
-    "lunr_id": 90
+    "lunr_id": 107
   },
   {
     "pid": "mdh039",
@@ -1285,7 +1523,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh039/thumbnail.jpg",
     "permalink": "/musicdh/mdh039",
-    "lunr_id": 91
+    "lunr_id": 108
   },
   {
     "pid": "mdh128",
@@ -1299,7 +1537,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh128/thumbnail.jpg",
     "permalink": "/musicdh/mdh128",
-    "lunr_id": 92
+    "lunr_id": 109
   },
   {
     "pid": "mdh068",
@@ -1313,7 +1551,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh068/thumbnail.jpg",
     "permalink": "/musicdh/mdh068",
-    "lunr_id": 93
+    "lunr_id": 110
   },
   {
     "pid": "mdh079",
@@ -1327,7 +1565,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh079/thumbnail.jpg",
     "permalink": "/musicdh/mdh079",
-    "lunr_id": 94
+    "lunr_id": 111
   },
   {
     "pid": "mdh139",
@@ -1341,7 +1579,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh139/thumbnail.jpg",
     "permalink": "/musicdh/mdh139",
-    "lunr_id": 95
+    "lunr_id": 112
   },
   {
     "pid": "mdh028",
@@ -1355,7 +1593,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh028/thumbnail.jpg",
     "permalink": "/musicdh/mdh028",
-    "lunr_id": 96
+    "lunr_id": 113
   },
   {
     "pid": "mdh168",
@@ -1369,7 +1607,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh168/thumbnail.jpg",
     "permalink": "/musicdh/mdh168",
-    "lunr_id": 97
+    "lunr_id": 114
   },
   {
     "pid": "mdh178",
@@ -1383,7 +1621,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh178/thumbnail.jpg",
     "permalink": "/musicdh/mdh178",
-    "lunr_id": 98
+    "lunr_id": 115
   },
   {
     "pid": "mdh038",
@@ -1397,7 +1635,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh038/thumbnail.jpg",
     "permalink": "/musicdh/mdh038",
-    "lunr_id": 99
+    "lunr_id": 116
   },
   {
     "pid": "mdh129",
@@ -1411,7 +1649,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh129/thumbnail.jpg",
     "permalink": "/musicdh/mdh129",
-    "lunr_id": 100
+    "lunr_id": 117
   },
   {
     "pid": "mdh069",
@@ -1425,7 +1663,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh069/thumbnail.jpg",
     "permalink": "/musicdh/mdh069",
-    "lunr_id": 101
+    "lunr_id": 118
   },
   {
     "pid": "mdh109",
@@ -1439,7 +1677,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh109/thumbnail.jpg",
     "permalink": "/musicdh/mdh109",
-    "lunr_id": 102
+    "lunr_id": 119
   },
   {
     "pid": "mdh049",
@@ -1453,7 +1691,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh049/thumbnail.jpg",
     "permalink": "/musicdh/mdh049",
-    "lunr_id": 103
+    "lunr_id": 120
   },
   {
     "pid": "mdh158",
@@ -1467,7 +1705,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh158/thumbnail.jpg",
     "permalink": "/musicdh/mdh158",
-    "lunr_id": 104
+    "lunr_id": 121
   },
   {
     "pid": "mdh018",
@@ -1481,7 +1719,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh018/thumbnail.jpg",
     "permalink": "/musicdh/mdh018",
-    "lunr_id": 105
+    "lunr_id": 122
   },
   {
     "pid": "mdh008",
@@ -1495,7 +1733,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh008/thumbnail.jpg",
     "permalink": "/musicdh/mdh008",
-    "lunr_id": 106
+    "lunr_id": 123
   },
   {
     "pid": "mdh148",
@@ -1509,7 +1747,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh148/thumbnail.jpg",
     "permalink": "/musicdh/mdh148",
-    "lunr_id": 107
+    "lunr_id": 124
   },
   {
     "pid": "mdh059",
@@ -1523,7 +1761,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh059/thumbnail.jpg",
     "permalink": "/musicdh/mdh059",
-    "lunr_id": 108
+    "lunr_id": 125
   },
   {
     "pid": "mdh119",
@@ -1537,7 +1775,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh119/thumbnail.jpg",
     "permalink": "/musicdh/mdh119",
-    "lunr_id": 109
+    "lunr_id": 126
   },
   {
     "pid": "mdh027",
@@ -1551,7 +1789,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh027/thumbnail.jpg",
     "permalink": "/musicdh/mdh027",
-    "lunr_id": 110
+    "lunr_id": 127
   },
   {
     "pid": "mdh167",
@@ -1565,7 +1803,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh167/thumbnail.jpg",
     "permalink": "/musicdh/mdh167",
-    "lunr_id": 111
+    "lunr_id": 128
   },
   {
     "pid": "mdh076",
@@ -1579,7 +1817,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh076/thumbnail.jpg",
     "permalink": "/musicdh/mdh076",
-    "lunr_id": 112
+    "lunr_id": 129
   },
   {
     "pid": "mdh136",
@@ -1593,7 +1831,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh136/thumbnail.jpg",
     "permalink": "/musicdh/mdh136",
-    "lunr_id": 113
+    "lunr_id": 130
   },
   {
     "pid": "mdh085",
@@ -1607,7 +1845,35 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh085/thumbnail.jpg",
     "permalink": "/musicdh/mdh085",
-    "lunr_id": 114
+    "lunr_id": 131
+  },
+  {
+    "pid": "mdh194",
+    "musicdh_genre": "collections & exhibits",
+    "label": "American Vernacular Music Manuscripts, ca. 1730-1910: Digital Collections from the American Antiquarian Society and the Center for Popular Music",
+    "status": "active",
+    "creators": "American Antiquarian Society and Center for Popular Music",
+    "stewards": "Center for Popular Music, Middle Tennessee State University",
+    "blurb": "The period covered by this project found Americans across a wide range of classes, occupations, and regions learning to read and notate music. Ordinary citizens bought copybooks (often pre-ruled with musical staves) or fashioned their own and then inscribed in them the songs, hymns, and tunes that mattered to them, music they had composed, performed, heard, or wanted to learn. Their work has come down to us as prima facie evidence of musical lives desired or lived. &quot;American Vernacular Music Manuscripts, ca. 1730-1910: Digital Collections from the American Antiquarian Society and the Center for Popular Music&quot; has been made possible in part by a major grant from the National Endowment for the Humanities: Exploring the Human Endeavor.",
+    "tools_used": null,
+    "collection": "musicdh",
+    "thumbnail": "img/derivatives/simple/mdh194/thumbnail.jpg",
+    "permalink": "/musicdh/mdh194",
+    "lunr_id": 132
+  },
+  {
+    "pid": "mdh205",
+    "musicdh_genre": "reference",
+    "label": "Prosopography of Renaissance Singers",
+    "status": "in development",
+    "creators": "David Fiala",
+    "stewards": "Centre d'études supérieures de la Renaissance, Université de Tours",
+    "blurb": "Prosopography of Renaissance Singers is a database of biographies of professional singers who worked in the European chapels from 1350 to 1600. The database collects 4557 entries and offers a wide variety of information, from the variant names of the singers to their dates and places of activities,  together with their complete and detailed biographies. This is a project in progress, periodically enriched with newly released biographies.",
+    "tools_used": null,
+    "collection": "musicdh",
+    "thumbnail": "img/derivatives/simple/mdh205/thumbnail.jpg",
+    "permalink": "/musicdh/mdh205",
+    "lunr_id": 133
   },
   {
     "pid": "mdh102",
@@ -1621,7 +1887,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh102/thumbnail.jpg",
     "permalink": "/musicdh/mdh102",
-    "lunr_id": 115
+    "lunr_id": 134
   },
   {
     "pid": "mdh042",
@@ -1629,13 +1895,13 @@
     "label": "Reger-Werkausgabe [Reger Editions]",
     "status": "active",
     "creators": "Thomas Seedorf, Susanne Popp",
-    "stewards": "Academy of Sciences and Literature Mainz, Max-Reger-Institut/Elsa-Reger-Stiftung Karlsruhe",
-    "blurb": "The RWA as a hybrid edition combines volumes of printed music with digital excerpts. All of the sources (manuscripts, first prints, letters) as well as illustrating documents are made available on DVD (online version is coming soon), scientifically processed by Edirom software. Their reproduction, annotation and comparison offer all users who want to understand the work from its beginnings or to delve deeper into the compositional working process, numerous insights into Reger’s working processes and into the works themselves.",
-    "tools_used": "eXist-db, TEI, MEI, Edirom, oXygen XML Editor",
+    "stewards": "Max-Reger-Institut/Elsa-Reger-Stiftung, Karlsruhe. Funded by the Union of German Academies represented by the Academy of Literature and Science, Mainz.",
+    "blurb": "The RWA as a hybrid edition combines traditional volumes of printed editions and critical reports with corresponding digital publications. All of the sources (manuscripts, first prints, letters) as well as illustrating documents and a vast encyclopedic apparatus have been made available on DVD (till 2019) and are now re- and further published online at \"RWA online\" (www.reger-werkausgabe.de). Their reproduction, annotation, comparison and contextualisation offer all users who want to understand the work from its beginnings or to delve deeper into the compositional working process, numerous insights into Reger’s working processes and into the works themselves.",
+    "tools_used": "eXist-db, digiLib, Edirom Tools (Edirom Viewer, Edirom Editor, Edirom-Online) TEI, MEI",
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh042/thumbnail.jpg",
     "permalink": "/musicdh/mdh042",
-    "lunr_id": 116
+    "lunr_id": 135
   },
   {
     "pid": "mdh153",
@@ -1649,7 +1915,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh153/thumbnail.jpg",
     "permalink": "/musicdh/mdh153",
-    "lunr_id": 117
+    "lunr_id": 136
   },
   {
     "pid": "mdh013",
@@ -1663,7 +1929,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh013/thumbnail.jpg",
     "permalink": "/musicdh/mdh013",
-    "lunr_id": 118
+    "lunr_id": 137
   },
   {
     "pid": "mdh003",
@@ -1677,7 +1943,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh003/thumbnail.jpg",
     "permalink": "/musicdh/mdh003",
-    "lunr_id": 119
+    "lunr_id": 138
   },
   {
     "pid": "mdh143",
@@ -1691,7 +1957,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh143/thumbnail.jpg",
     "permalink": "/musicdh/mdh143",
-    "lunr_id": 120
+    "lunr_id": 139
   },
   {
     "pid": "mdh052",
@@ -1705,7 +1971,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh052/thumbnail.jpg",
     "permalink": "/musicdh/mdh052",
-    "lunr_id": 121
+    "lunr_id": 140
   },
   {
     "pid": "mdh112",
@@ -1719,7 +1985,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh112/thumbnail.jpg",
     "permalink": "/musicdh/mdh112",
-    "lunr_id": 122
+    "lunr_id": 141
   },
   {
     "pid": "mdh184",
@@ -1733,7 +1999,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh184/thumbnail.jpg",
     "permalink": "/musicdh/mdh184",
-    "lunr_id": 123
+    "lunr_id": 142
   },
   {
     "pid": "mdh095",
@@ -1747,7 +2013,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh095/thumbnail.jpg",
     "permalink": "/musicdh/mdh095",
-    "lunr_id": 124
+    "lunr_id": 143
   },
   {
     "pid": "mdh126",
@@ -1761,7 +2027,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh126/thumbnail.jpg",
     "permalink": "/musicdh/mdh126",
-    "lunr_id": 125
+    "lunr_id": 144
   },
   {
     "pid": "mdh066",
@@ -1775,7 +2041,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh066/thumbnail.jpg",
     "permalink": "/musicdh/mdh066",
-    "lunr_id": 126
+    "lunr_id": 145
   },
   {
     "pid": "mdh177",
@@ -1789,7 +2055,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh177/thumbnail.jpg",
     "permalink": "/musicdh/mdh177",
-    "lunr_id": 127
+    "lunr_id": 146
   },
   {
     "pid": "mdh037",
@@ -1803,7 +2069,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh037/thumbnail.jpg",
     "permalink": "/musicdh/mdh037",
-    "lunr_id": 128
+    "lunr_id": 147
   },
   {
     "pid": "mdh157",
@@ -1817,7 +2083,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh157/thumbnail.jpg",
     "permalink": "/musicdh/mdh157",
-    "lunr_id": 129
+    "lunr_id": 148
   },
   {
     "pid": "mdh017",
@@ -1831,7 +2097,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh017/thumbnail.jpg",
     "permalink": "/musicdh/mdh017",
-    "lunr_id": 130
+    "lunr_id": 149
   },
   {
     "pid": "mdh106",
@@ -1845,7 +2111,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh106/thumbnail.jpg",
     "permalink": "/musicdh/mdh106",
-    "lunr_id": 131
+    "lunr_id": 150
   },
   {
     "pid": "mdh046",
@@ -1859,7 +2125,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh046/thumbnail.jpg",
     "permalink": "/musicdh/mdh046",
-    "lunr_id": 132
+    "lunr_id": 151
   },
   {
     "pid": "mdh072",
@@ -1873,7 +2139,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh072/thumbnail.jpg",
     "permalink": "/musicdh/mdh072",
-    "lunr_id": 133
+    "lunr_id": 152
   },
   {
     "pid": "mdh132",
@@ -1887,7 +2153,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh132/thumbnail.jpg",
     "permalink": "/musicdh/mdh132",
-    "lunr_id": 134
+    "lunr_id": 153
   },
   {
     "pid": "mdh023",
@@ -1901,7 +2167,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh023/thumbnail.jpg",
     "permalink": "/musicdh/mdh023",
-    "lunr_id": 135
+    "lunr_id": 154
   },
   {
     "pid": "mdh163",
@@ -1915,7 +2181,35 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh163/thumbnail.jpg",
     "permalink": "/musicdh/mdh163",
-    "lunr_id": 136
+    "lunr_id": 155
+  },
+  {
+    "pid": "mdh201",
+    "musicdh_genre": "reference",
+    "label": "Forbidden Music Regained",
+    "status": "active",
+    "creators": "Carine Alders and Eleonore Pameijer",
+    "stewards": "Leo Smit Stichting",
+    "blurb": "Since 1996, Leo Smit Stichting has brought music by suppressed composers to life. Sometimes music is heard for the first time, sometimes it resounds after 75 years. We would like to share what we’ve discovered with a wider audience. Every musician can write history with music of unheard-of beauty, awaiting performance. Music that deserves an audience. Every programmer can choose untrodden paths and suprise their audience. Every listener should have access to the most beautiful music, without censoring. Join us in discovering forbidden music. \n<br><br>\nOur English language website Forbidden Music Regained offers access to more than 2,000 compositions of suppressed composers. We invite you to browse the database by visiting the works list at the bottom of each composer’s biography. Click a title and discover where you may find the sheetmusic. If we know of a recording, you will find it here. You may even find a direct link to listen online. \n<br><br>However, a more specific search is also possible: for instance by selecting a genre (vocal music, chamber music, orchestral music), selecting specific instrumentations (string quartet, piano solo, choir, flute and piano and much more) or filtering the year in which a work was composed. You may want to filter published works (or works that have never been published) or narrow your search down to composers of your choice. From the results list, it is immediately clear which works can be heard online.\n<br><br>\nAlmost all manuscripts have been scanned, and can be ordered via Donemus webshop.",
+    "tools_used": null,
+    "collection": "musicdh",
+    "thumbnail": "img/derivatives/simple/mdh201/thumbnail.jpg",
+    "permalink": "/musicdh/mdh201",
+    "lunr_id": 156
+  },
+  {
+    "pid": "mdh190",
+    "musicdh_genre": "software",
+    "label": "Augmented Notes",
+    "status": "defunct",
+    "creators": "Joanna (Annie) Swafford",
+    "stewards": null,
+    "blurb": "Augmented Notes integrates scores and audio files to produce interactive multimedia websites in which measures of the score are highlighted in time with music.",
+    "tools_used": null,
+    "collection": "musicdh",
+    "thumbnail": "img/derivatives/simple/mdh190/thumbnail.jpg",
+    "permalink": "/musicdh/mdh190",
+    "lunr_id": 157
   },
   {
     "pid": "mdh081",
@@ -1929,7 +2223,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh081/thumbnail.jpg",
     "permalink": "/musicdh/mdh081",
-    "lunr_id": 137
+    "lunr_id": 158
   },
   {
     "pid": "mdh091",
@@ -1943,7 +2237,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh091/thumbnail.jpg",
     "permalink": "/musicdh/mdh091",
-    "lunr_id": 138
+    "lunr_id": 159
   },
   {
     "pid": "mdh180",
@@ -1957,7 +2251,21 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh180/thumbnail.jpg",
     "permalink": "/musicdh/mdh180",
-    "lunr_id": 139
+    "lunr_id": 160
+  },
+  {
+    "pid": "mdh211",
+    "musicdh_genre": "reference",
+    "label": "Catalogue of French Chansons",
+    "status": "active",
+    "creators": "Annie Cœurdevey",
+    "stewards": "Ricercar, Centre d'Études Supérieures de la Renaissance",
+    "blurb": "<i>Catalogue of French Chansons</i> is a database dedicated to the Renaissance French chanson from 1480ca to the beginning of the seventeenth century. The database collects 9723 songs incipits (text and music), and gives information about the composer, the scoring, the literary and musical sources, and the literary form.<br><br>\nThe database was created in 1992 by Annie Cœurdevey. She started by including in the database the references from the catalogue by Hubert Daschner, <em>Die gedruckten mehrstimmigen Chansons von 1500-1600. Literarische Quellen und Bibliographie</em> (PhD Dissertation, University of Bonn, 1962), and then she verified and completed the study of the sources. Specifically she discovered many titles of chansons in manuscripts sources dating 1480-1500, and added to the database the monodic chansons from the Bayeux and Paris 12744 manuscripts.",
+    "tools_used": null,
+    "collection": "musicdh",
+    "thumbnail": "img/derivatives/simple/mdh211/thumbnail.jpg",
+    "permalink": "/musicdh/mdh211",
+    "lunr_id": 161
   },
   {
     "pid": "mdh173",
@@ -1971,7 +2279,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh173/thumbnail.jpg",
     "permalink": "/musicdh/mdh173",
-    "lunr_id": 140
+    "lunr_id": 162
   },
   {
     "pid": "mdh033",
@@ -1985,7 +2293,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh033/thumbnail.jpg",
     "permalink": "/musicdh/mdh033",
-    "lunr_id": 141
+    "lunr_id": 163
   },
   {
     "pid": "mdh122",
@@ -1999,7 +2307,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh122/thumbnail.jpg",
     "permalink": "/musicdh/mdh122",
-    "lunr_id": 142
+    "lunr_id": 164
   },
   {
     "pid": "mdh062",
@@ -2013,7 +2321,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh062/thumbnail.jpg",
     "permalink": "/musicdh/mdh062",
-    "lunr_id": 143
+    "lunr_id": 165
   },
   {
     "pid": "mdh056",
@@ -2027,7 +2335,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh056/thumbnail.jpg",
     "permalink": "/musicdh/mdh056",
-    "lunr_id": 144
+    "lunr_id": 166
   },
   {
     "pid": "mdh116",
@@ -2041,7 +2349,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh116/thumbnail.jpg",
     "permalink": "/musicdh/mdh116",
-    "lunr_id": 145
+    "lunr_id": 167
   },
   {
     "pid": "mdh007",
@@ -2055,7 +2363,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh007/thumbnail.jpg",
     "permalink": "/musicdh/mdh007",
-    "lunr_id": 146
+    "lunr_id": 168
   },
   {
     "pid": "mdh147",
@@ -2069,7 +2377,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh147/thumbnail.jpg",
     "permalink": "/musicdh/mdh147",
-    "lunr_id": 147
+    "lunr_id": 169
   },
   {
     "pid": "mdh156",
@@ -2083,7 +2391,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh156/thumbnail.jpg",
     "permalink": "/musicdh/mdh156",
-    "lunr_id": 148
+    "lunr_id": 170
   },
   {
     "pid": "mdh016",
@@ -2097,7 +2405,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh016/thumbnail.jpg",
     "permalink": "/musicdh/mdh016",
-    "lunr_id": 149
+    "lunr_id": 171
   },
   {
     "pid": "mdh107",
@@ -2111,7 +2419,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh107/thumbnail.jpg",
     "permalink": "/musicdh/mdh107",
-    "lunr_id": 150
+    "lunr_id": 172
   },
   {
     "pid": "mdh047",
@@ -2125,12 +2433,12 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh047/thumbnail.jpg",
     "permalink": "/musicdh/mdh047",
-    "lunr_id": 151
+    "lunr_id": 173
   },
   {
     "pid": "mdh073",
     "musicdh_genre": "edition",
-    "label": "Anton Webern Gesamtausabe",
+    "label": "Anton Webern Gesamtausgabe",
     "status": "active",
     "creators": "Matthias Schmidt (Project manager), Simon Obert, Thomas Ahrend, Julia Bungardt, Michael Matter, Barbara Schingnitz, Stefan Münnich",
     "stewards": "University of Basel",
@@ -2139,7 +2447,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh073/thumbnail.jpg",
     "permalink": "/musicdh/mdh073",
-    "lunr_id": 152
+    "lunr_id": 174
   },
   {
     "pid": "mdh133",
@@ -2153,7 +2461,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh133/thumbnail.jpg",
     "permalink": "/musicdh/mdh133",
-    "lunr_id": 153
+    "lunr_id": 175
   },
   {
     "pid": "mdh022",
@@ -2167,7 +2475,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh022/thumbnail.jpg",
     "permalink": "/musicdh/mdh022",
-    "lunr_id": 154
+    "lunr_id": 176
   },
   {
     "pid": "mdh162",
@@ -2181,7 +2489,21 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh162/thumbnail.jpg",
     "permalink": "/musicdh/mdh162",
-    "lunr_id": 155
+    "lunr_id": 177
+  },
+  {
+    "pid": "mdh200",
+    "musicdh_genre": "data",
+    "label": "Prices of Music at Breitkopf & Härtel: Publication Lists from the Intelligenz-blatt zur Allgemeine musikalische Zeitung",
+    "status": "active",
+    "creators": "Derek R. Strykowski",
+    "stewards": null,
+    "blurb": "Breitkopf & Härtel founded a weekly newspaper called the <i>Allgemeine musikalische Zeitung</i> in October of 1798. About once per month, for the next forty years, readers also received a supplement called the <i>Intelligenz-blatt zur Allgemeine musikalische Zeitung</i>. A central feature of the <i>Intelligenz-blatt</i>, before its discontinuation in December of 1838, were the publication lists in which Breitkopf & Härtel and other firms would advertise their latest music to potential customers. The 159 publication lists issued by Breitkopf & Härtel itself provide a record of the musical editions (and occasional books and portraits) that the publisher printed during the early nineteenth century. This data set contains 6,405 advertisements for the music of approximately nine hundred composers and arrangers. Details gathered from the publication lists include the issue number, date of advertisement, name of composer or arranger, title of publication (often with key and instrumentation), and price as quoted in Saxon thalers and groschen. Entries are tagged to indicate repeated advertisements. The full name and dates of the credited musician (if known) are also provided.",
+    "tools_used": null,
+    "collection": "musicdh",
+    "thumbnail": "img/derivatives/simple/mdh200/thumbnail.jpg",
+    "permalink": "/musicdh/mdh200",
+    "lunr_id": 178
   },
   {
     "pid": "mdh080",
@@ -2195,7 +2517,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh080/thumbnail.jpg",
     "permalink": "/musicdh/mdh080",
-    "lunr_id": 156
+    "lunr_id": 179
   },
   {
     "pid": "mdh090",
@@ -2209,7 +2531,21 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh090/thumbnail.jpg",
     "permalink": "/musicdh/mdh090",
-    "lunr_id": 157
+    "lunr_id": 180
+  },
+  {
+    "pid": "mdh210",
+    "musicdh_genre": "collections & exhibits",
+    "label": "Corpus des luthistes",
+    "status": "in development",
+    "creators": "Dinko Fabris et al.",
+    "stewards": "Ricercar, Centre d'Études Supérieures de la Renaissance",
+    "blurb": "<i>Corpus des luthistes</i> is a website dedicated to the Renaissance lute tablatures. The site collects the digital reproductions of three sixteenth-century tablatures by the Italian lutenists Francesco Spinacino and Vincenzo Capirola. Download free of charge the reproductions of the sources in pdf file, as well as the analytical descriptions of the sources.\n<br><br>The project was born in 2007, for the centenary of Spinacino’s first book tablature edition, as a digital development of the researches in this field by Jean-Michel Vaccaro, for the series Corpus des Luthistes Français (CNRS editions), and by many other visiting scholars of the Center for Renaissance Studies in Tours. This is a project in progress, periodically enriched with new digital reproductions and modern transcriptions of tablatures.",
+    "tools_used": null,
+    "collection": "musicdh",
+    "thumbnail": "img/derivatives/simple/mdh210/thumbnail.jpg",
+    "permalink": "/musicdh/mdh210",
+    "lunr_id": 181
   },
   {
     "pid": "mdh181",
@@ -2223,7 +2559,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh181/thumbnail.jpg",
     "permalink": "/musicdh/mdh181",
-    "lunr_id": 158
+    "lunr_id": 182
   },
   {
     "pid": "mdh172",
@@ -2237,7 +2573,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh172/thumbnail.jpg",
     "permalink": "/musicdh/mdh172",
-    "lunr_id": 159
+    "lunr_id": 183
   },
   {
     "pid": "mdh032",
@@ -2251,7 +2587,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh032/thumbnail.jpg",
     "permalink": "/musicdh/mdh032",
-    "lunr_id": 160
+    "lunr_id": 184
   },
   {
     "pid": "mdh123",
@@ -2265,7 +2601,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh123/thumbnail.jpg",
     "permalink": "/musicdh/mdh123",
-    "lunr_id": 161
+    "lunr_id": 185
   },
   {
     "pid": "mdh063",
@@ -2279,7 +2615,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh063/thumbnail.jpg",
     "permalink": "/musicdh/mdh063",
-    "lunr_id": 162
+    "lunr_id": 186
   },
   {
     "pid": "mdh057",
@@ -2293,7 +2629,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh057/thumbnail.jpg",
     "permalink": "/musicdh/mdh057",
-    "lunr_id": 163
+    "lunr_id": 187
   },
   {
     "pid": "mdh117",
@@ -2307,7 +2643,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh117/thumbnail.jpg",
     "permalink": "/musicdh/mdh117",
-    "lunr_id": 164
+    "lunr_id": 188
   },
   {
     "pid": "mdh006",
@@ -2321,7 +2657,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh006/thumbnail.jpg",
     "permalink": "/musicdh/mdh006",
-    "lunr_id": 165
+    "lunr_id": 189
   },
   {
     "pid": "mdh146",
@@ -2335,7 +2671,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh146/thumbnail.jpg",
     "permalink": "/musicdh/mdh146",
-    "lunr_id": 166
+    "lunr_id": 190
   },
   {
     "pid": "mdh026",
@@ -2349,7 +2685,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh026/thumbnail.jpg",
     "permalink": "/musicdh/mdh026",
-    "lunr_id": 167
+    "lunr_id": 191
   },
   {
     "pid": "mdh166",
@@ -2363,7 +2699,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh166/thumbnail.jpg",
     "permalink": "/musicdh/mdh166",
-    "lunr_id": 168
+    "lunr_id": 192
   },
   {
     "pid": "mdh077",
@@ -2377,7 +2713,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh077/thumbnail.jpg",
     "permalink": "/musicdh/mdh077",
-    "lunr_id": 169
+    "lunr_id": 193
   },
   {
     "pid": "mdh137",
@@ -2391,7 +2727,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh137/thumbnail.jpg",
     "permalink": "/musicdh/mdh137",
-    "lunr_id": 170
+    "lunr_id": 194
   },
   {
     "pid": "mdh084",
@@ -2405,7 +2741,35 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh084/thumbnail.jpg",
     "permalink": "/musicdh/mdh084",
-    "lunr_id": 171
+    "lunr_id": 195
+  },
+  {
+    "pid": "mdh204",
+    "musicdh_genre": "collections & exhibits",
+    "label": "Virtual Music Heritage",
+    "status": "active",
+    "creators": "Camilla Cavicchi, Philippe Vendrix, Hyacinthe Belliot, Vasco Zara, Alice Nué, David Fiala",
+    "stewards": "Centre d'études supérieures de la Renaissance, Université de Tours",
+    "blurb": "Virtual Music Heritage is a website devoted to music heritage research and interactive installations by Ricercar — the musicology team of the Center for Renaissance Studies (<a href='https://cesr.cnrs.fr/' target='_blank'>CESR</a>) in Tours, France.<br />Since 2010, we have been working on various projects dedicated to raising awareness of our music heritage research in conjunction with private and public museums and cultural institutions.</p><p>We currently have three ongoing programmes:</p><p>1) The <em>Cubiculum musicae</em> — a mobile interactive space equipped with HiFi and HD where visitors can immerse themselves in the sights and sounds of the Renaissance.<br />2) <em>Music in Renaissance Palaces</em> — research-based recreation of the acoustic of spaces designed for playing music, thanks to the collaboration of ensembles specialized in specific Renaissance and Baroque repertoires.<br />3) Interactive 3D reconstructions of lost architectures with sound spatialization.</p>",
+    "tools_used": null,
+    "collection": "musicdh",
+    "thumbnail": "img/derivatives/simple/mdh204/thumbnail.jpg",
+    "permalink": "/musicdh/mdh204",
+    "lunr_id": 196
+  },
+  {
+    "pid": "mdh195",
+    "musicdh_genre": "collections & exhibits",
+    "label": "Printed Sacred Music Database: Printed Sacred Music in Europe 1500-1800",
+    "status": "active",
+    "creators": "Claudio Bacciagaluppi, David Bryant, Luigi Collarile, Jeffrey Kurtzman, Laurent Pugin, Elena Quaranta, Anne Schnoebelen, Luca Zoppelli",
+    "stewards": "RISM",
+    "blurb": "Gathering extensive information on prints of sacred music has been a wish of the musicological community for many decades. Such information is of paramount importance for the bibliography of music in general, especially in the seventeenth century, when the printing press produced its greatest output in the sacred domain. The scope of the present database is to cover all sacred music printed in Europe, 1500-1800. It comprises the data collected in the 'Bibliografia della musica sacra pubblicata in Italia fra il 1500 e il 1725 circa' (Venice, Fondazione Cini). The editions now preserved with Catholic music published in Switzerland up to 1800, and the editions with comparable repertoire circulated in the Alpine region, are inserted in the database in the course of a research project started in 2010 by the Institute of Musicology of Fribourg University and the Swiss RISM Office, with the support of the Swiss National Science Foundation.<br>\n \nThe data is compared to existing bibliographical tools, e.g., RISM A/I and B/I. The database is compliant with the RISM cataloguing scheme based on the MARC21 metadata format. It also contains text incipits and music incipits (in DARMS code) of the printed works. In addition to the bibliographical information, it includes preliminary and concluding textual material of the documents (i.e., title pages, dedications, laudatory poems, advice to users, imprimatur, indices, and colophons). The additional information helps to reveal the network of sponsorships and market strategies that connected dedicatees, printers and booksellers, and to cross-check this data with the circulation of the musical repertoire.",
+    "tools_used": null,
+    "collection": "musicdh",
+    "thumbnail": "img/derivatives/simple/mdh195/thumbnail.jpg",
+    "permalink": "/musicdh/mdh195",
+    "lunr_id": 197
   },
   {
     "pid": "mdh103",
@@ -2419,7 +2783,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh103/thumbnail.jpg",
     "permalink": "/musicdh/mdh103",
-    "lunr_id": 172
+    "lunr_id": 198
   },
   {
     "pid": "mdh043",
@@ -2433,7 +2797,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh043/thumbnail.jpg",
     "permalink": "/musicdh/mdh043",
-    "lunr_id": 173
+    "lunr_id": 199
   },
   {
     "pid": "mdh152",
@@ -2447,7 +2811,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh152/thumbnail.jpg",
     "permalink": "/musicdh/mdh152",
-    "lunr_id": 174
+    "lunr_id": 200
   },
   {
     "pid": "mdh012",
@@ -2461,7 +2825,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh012/thumbnail.jpg",
     "permalink": "/musicdh/mdh012",
-    "lunr_id": 175
+    "lunr_id": 201
   },
   {
     "pid": "mdh002",
@@ -2475,7 +2839,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh002/thumbnail.jpg",
     "permalink": "/musicdh/mdh002",
-    "lunr_id": 176
+    "lunr_id": 202
   },
   {
     "pid": "mdh142",
@@ -2489,7 +2853,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh142/thumbnail.jpg",
     "permalink": "/musicdh/mdh142",
-    "lunr_id": 177
+    "lunr_id": 203
   },
   {
     "pid": "mdh053",
@@ -2503,7 +2867,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh053/thumbnail.jpg",
     "permalink": "/musicdh/mdh053",
-    "lunr_id": 178
+    "lunr_id": 204
   },
   {
     "pid": "mdh113",
@@ -2517,7 +2881,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh113/thumbnail.jpg",
     "permalink": "/musicdh/mdh113",
-    "lunr_id": 179
+    "lunr_id": 205
   },
   {
     "pid": "mdh185",
@@ -2531,7 +2895,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh185/thumbnail.jpg",
     "permalink": "/musicdh/mdh185",
-    "lunr_id": 180
+    "lunr_id": 206
   },
   {
     "pid": "mdh094",
@@ -2545,7 +2909,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh094/thumbnail.jpg",
     "permalink": "/musicdh/mdh094",
-    "lunr_id": 181
+    "lunr_id": 207
   },
   {
     "pid": "mdh127",
@@ -2559,7 +2923,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh127/thumbnail.jpg",
     "permalink": "/musicdh/mdh127",
-    "lunr_id": 182
+    "lunr_id": 208
   },
   {
     "pid": "mdh067",
@@ -2573,7 +2937,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh067/thumbnail.jpg",
     "permalink": "/musicdh/mdh067",
-    "lunr_id": 183
+    "lunr_id": 209
   },
   {
     "pid": "mdh176",
@@ -2587,7 +2951,7 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh176/thumbnail.jpg",
     "permalink": "/musicdh/mdh176",
-    "lunr_id": 184
+    "lunr_id": 210
   },
   {
     "pid": "mdh036",
@@ -2601,6 +2965,6 @@
     "collection": "musicdh",
     "thumbnail": "img/derivatives/simple/mdh036/thumbnail.jpg",
     "permalink": "/musicdh/mdh036",
-    "lunr_id": 185
+    "lunr_id": 211
   }
 ]
