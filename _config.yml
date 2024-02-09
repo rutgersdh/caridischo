@@ -100,7 +100,7 @@ search:
 # submenu via `sub`.
 
 menu:
-  - label: 'Browse'
+  - label: 'Curations'
     sub:     
       - label: 'Collections & Exhibits'
         link: '/collections/'
@@ -114,6 +114,8 @@ menu:
         link: '/software/'
       - label: 'Laboratories'
         link: '/laboratories/'
+  - label: 'Browse'
+    link: '/browse/'
   - label: 'Search'
     link: '/search/'
   - label: 'About'
