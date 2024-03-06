@@ -100,7 +100,7 @@ search:
 # submenu via `sub`.
 
 menu:
-  - label: 'Curations'
+  - label: 'Sections'
     sub:     
       - label: 'Collections & Exhibits'
         link: '/collections/'
