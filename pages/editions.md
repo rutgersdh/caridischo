@@ -10,4 +10,4 @@ Whether facsimiles of manuscripts, scholarly editions for critical study, or sco
 
 In no particular order...
 
-{% include collection_gallery.html  collection='musicdh' facet_by='musicdh_genre' only='edition' %}
+{% include collection_gallery.html  collection='musicdh' facet_by='section' only='edition' %}

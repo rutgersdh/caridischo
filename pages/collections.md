@@ -10,4 +10,4 @@ Digital libraries and archives are among the very first contributions of musicol
 
 In no particular order...
 
-{% include collection_gallery.html  collection='musicdh' facet_by='musicdh_genre' only='collections & exhibits' %}
+{% include collection_gallery.html  collection='musicdh' facet_by='section' only='collections & exhibits' %}

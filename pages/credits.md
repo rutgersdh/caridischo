@@ -10,7 +10,9 @@ Many colleagues and friends contributed to our data sheet. We would like to ackn
 
 [Francesca "More is More" Giannetti](https://twitter.com/jo_frankie) with 65 projects, [Stephanie Sussmeier](https://twitter.com/StephanieSussme) (22 projects), Camilla Cavicchi (10), [Bonnie Finn](https://twitter.com/BonLynFin) (7), [Kimmy Szeto](https://twitter.com/Kimmy_Szeto) (7), [Heather Sparling](https://twitter.com/CBFraoch) (7), several entries each from [Anna E. Kijas](https://twitter.com/anna_kijas), Elizabeth Uchimura, and [Timothy Duguid](https://twitter.com/tdrdoog), and the very much appreciated long tail: Carine Alders, Rosy Beyhom, Hervé Bitteur, Christina Crowder, [Michael Crowley](https://twitter.com/beboplibrarian), [Michael S. Cuthbert](https://twitter.com/mscuthbert), Nicola Deane, Beth Farwell, [Jennifer Fraser](https://twitter.com/SonginSumatra), [Mark Gotham](https://twitter.com/MarkGothamMusic), Eduardo Herrera, Seth Keeton, [Michael J. Kramer](https://twitter.com/berkfolkmusfest), Jeffrey Kurtzman, Kerry Masteller, Brian McMillan, Andrés García Molina, [Rachel Morris](https://twitter.com/center4popmusic), [Stefan Münnich](https://twitter.com/music_enfanthen), [María Navarro-Cáceres](https://twitter.com/copoemE), [Anna Neovesky](https://twitter.com/annavsk), [Uchenna Ngwe](https://twitter.com/plainsightsound), [Sara Palmer and Jesse P. Karlsberg](https://twitter.com/SoundingSpirit), Guillaume Pellerin, Garo Saraydarian, Edwin Seroussi, Scott Spencer, Derek Strykowski, [Ube Arte](https://twitter.com/ubearte), and James Zychowicz.
 
-Once entries were collected, a core team comprised of Maristella Feustle, Bonnie Finn, Francesca Giannetti, Anna Kijas, Kerry Masteller, and Stephanie Sussmeier put in some extra hours to clean the data, add missing data, and provide screenshots. 
+Once entries were collected, a core team comprised of Maristella Feustle, Bonnie Finn, Francesca Giannetti, Anna Kijas, Kerry Masteller, and Stephanie Sussmeier put in some extra hours to clean the data, add missing data, and provide screenshots.
+
+In early 2024, Bonnie Finn, Francesca Giannetti, Kerry Masteller, and Amelyn Enriquez met to review metadata and add 34 new projects. Joseph Goeller, Rutgers Public History intern, provided valuable assistance with the site rebuild.
 
 ### The Site
 
@@ -22,10 +24,4 @@ For more about Wax's specs, visit the [documentation](https://minicomp.github.io
 
 ### Partners
 
-This inventory emerges from the meeting of the Digital Humanities Interest Group (DHIG) of the [Music Library Association](https://www.musiclibraryassoc.org/) at the 2018 annual meeting in Portland, Oregon. The current convener of the MLA-DHIG and maintainer of this directory is Francesca Giannetti, Digital Humanities Librarian at Rutgers--New Brunswick. Her work on this project was facilitated by a fall 2021 research leave. 
-
-
-
-
-
-
+This inventory emerges from the meeting of the Digital Humanities Interest Group (DHIG) of the [Music Library Association](https://www.musiclibraryassoc.org/) at the 2018 annual meeting in Portland, Oregon. The maintainer of this directory is Francesca Giannetti, Digital Humanities Librarian at Rutgers--New Brunswick. Her work on this project was facilitated by a fall 2021 research leave.

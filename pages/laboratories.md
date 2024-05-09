@@ -10,4 +10,4 @@ Like many others working in the DH directory space, we have found that some proj
 
 In no particular order...
 
-{% include collection_gallery.html  collection='musicdh' facet_by='musicdh_genre' only='laboratories' %}
+{% include collection_gallery.html  collection='musicdh' facet_by='section' only='laboratories' %}

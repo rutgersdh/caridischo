@@ -11,7 +11,7 @@ The Directory of Digital Scholarship in Music began at the 2018 Music Library As
 
 Over the years, we circulated various calls for contributions, and many colleagues responded by adding their own projects or projects that they had found useful or interesting. We know many but not all of our contributors, who came to the project via the listservs of the Music Library Association, the Society for Ethnomusicology, the Music Encoding Initiative, the American Musicological Society, and the International Society for Music Information Retrieval. 
 
-This online bibliographic resource has been gathering steam since that initial meeting, but it is not the first attempt to catalog projects, data, and tools for DH in music. Here are several of our antecedents, which in turn served as sources for the Directory of Digital Scholarship in Music. 
+This online bibliographic resource has been gathering steam since that initial meeting, but it is not the first attempt to catalog projects, data, and tools for DH in music. Here are several of our antecedents, which in turn served as sources for the Directory of Digital Scholarship in Music.
 
 - The [original 2018 inventory](https://docs.google.com/spreadsheets/d/1UyCED16mYxo3XE4RuushxE7DWyqR_CNFecn0k79ldA4/edit?usp=sharing), begun by Anna Kijas
 - [Digital Resources for Musicology](https://drm.ccarh.org/) and [Electronic and Virtual Editions](https://eve.ccarh.org/) by Eleanor Selfridge-Field and Craig Sapp
@@ -25,13 +25,14 @@ This online bibliographic resource has been gathering steam since that initial m
 - Eduardo Herrera's "Current Issues in Historical Musicology" syllabus
 - [Digital Resources](https://rsadigitalresources.hcommons.org/) curated by members of the Renaissance Society of America
 - Music nominees for [DH Awards](https://www.google.com/search?q=music+site%3Adhawards.org&oq=music+site%3Adhawards.org&aqs=chrome..69i57j69i64l3.4736j0j4&sourceid=chrome&ie=UTF-8)
+- Our sister project, Musical Data on the Web, or [musoW](https://musow.kmi.open.ac.uk/)
 
 On October 12, 2021, an asynchronous [crowdsourcing event]({{site.baseurl}}/cfc/) was held to update the list with more recent contributions. And a few weeks later, Maristella Feustle, Bonnie Finn, Francesca Giannetti, Anna Kijas, Kerry Masteller, and Stephanie Sussmeier cleaned and refined the data in preparation for publication to the site. This directory is thus a snapshot of our work through December 2021.  
 
 ### Data and Software Reuse
 
-Additionally, we owe a debt of gratitude to the digital humanities community for paving the way and showing us how to create minimal directories that would not cost us dearly in terms of human labor, computing infrastructure and maintenance. We studied several DH directories pursuing targeted topics, like [Global DH](https://arounddh.org/), [Queer DH](https://docs.google.com/document/d/1kp9VURhHnxVvaG2D2l7sBS_mQcSOZZ03s2Lr7Intpr0/edit?usp=sharing), [digital literary stylistics](https://dls.hypotheses.org/774), and DH examining the [US-Mexico borderlands](https://unitedfronteras.github.io/ufexhibition_mexusa/). Moreover, this directory reuses the Wax customization created for the [Directory of Caribbean Digital Scholarship](http://caribbeandigitalnyc.net/caridischo/). 
+Additionally, we owe a debt of gratitude to the digital humanities community for paving the way and showing us how to create minimal directories that would not cost us dearly in terms of human labor, computing infrastructure and maintenance. We studied several DH directories pursuing targeted topics, like [Global DH](https://arounddh.org/), [Queer DH](https://docs.google.com/document/d/1kp9VURhHnxVvaG2D2l7sBS_mQcSOZZ03s2Lr7Intpr0/edit?usp=sharing), [digital literary stylistics](https://dls.hypotheses.org/774), and DH examining the [US-Mexico borderlands](https://unitedfronteras.github.io/ufexhibition_mexusa/). Moreover, this directory reuses the Wax customization created for the [Directory of Caribbean Digital Scholarship](http://caribbeandigitalnyc.net/caridischo/).
 
-After the core team completed work on the Google sheet, the data was downloaded as a comma separated value file and processed by [Wax](https://minicomp.github.io/wax/). Wax is inspired by [FAIR data principles](https://journal.code4lib.org/articles/13427), meaning it strives to make collections findable, accessible, interoperable, and reusable. Among its features is this interactive metadata table, allowing us to share our data with ease. 
+After the core team completed work on the Google sheet, the data was downloaded as a comma separated value file and processed by [Wax](https://minicomp.github.io/wax/). Wax is inspired by [FAIR data principles](https://journal.code4lib.org/articles/13427), meaning it strives to make collections findable, accessible, interoperable, and reusable. Among its features is this interactive metadata table, allowing us to share our data with ease.
 
-{% include interactive_metadata_table.html collection=page.collection %} 
+{% include interactive_metadata_table.html collection=page.collection %}

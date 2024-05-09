@@ -47,10 +47,10 @@
 
 
   <body>
-    <time datetime='2024-04-27 17:39'></time>
+    <time datetime='2024-05-09 09:46'></time>
     <nav id='wax-header' class='navbar navbar-expand-lg navbar-light'>
  <div class='wax-inline-container'>
-    <a class='navbar-brand' href="http://localhost:4000/musicdh/" title='Home'>Music DH <span class="year">2021</span></a>
+    <a class='navbar-brand' href="http://localhost:4000/musicdh/" title='Home'>Music DH <span class="year">2023</span></a>
 
     <button class='navbar-toggler' type='button' data-toggle='collapse' data-target='#wax-header-navbar' aria-controls='wax-header-navbar' aria-expanded='false' aria-label='navigation'>
       <span class='navbar-toggler-icon'></span>
@@ -131,60 +131,56 @@
 
 <p>In no particular order…</p>
 
-<div id="wax-gallery-musicdh-container" class="wax-gallery-container full-width">
+<div id="collection-musicdh-facet-by-section-only-edition-container" class="wax-gallery-container full-width">
   <div class="wax-inline-container">
-    <div id="musicdh-facet-buttons" class="facet-buttons"></div>
-    <div id="wax-gallery-musicdh" class="wax-gallery"></div>
+    
+    <div id="collection-musicdh-facet-by-section-only-edition-facet-buttons" class="facet-buttons"></div>
+    
+    <div id="wax-gallery-collection-musicdh-facet-by-section-only-edition" class="wax-gallery"></div>
   </div>
 </div>
 
 <script type="text/javascript">
-  $( document ).ready(function() {
-    var container = $('#wax-gallery-musicdh-container');
-    var gallery = $('#wax-gallery-musicdh');
-    var buttonDiv = $('#musicdh-facet-buttons');
+    $( document ).ready(function() {
+      let container = $('#collection-musicdh-facet-by-section-only-edition-container');
+      let gallery = $('#wax-gallery-collection-musicdh-facet-by-section-only-edition');
+      let buttonDiv = $('#collection-musicdh-facet-by-section-only-edition-facet-buttons');
 
-    
-      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh002/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh002.png'/><div class='overlay'><p class='info'>Burns Antiphoner</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh021/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh021.png'/><div class='overlay'><p class='info'>Richard Strauss: Works. Critical Edition – Online Platform</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh025/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh025.png'/><div class='overlay'><p class='info'>Beethovens Werkstatt</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh027/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh027.png'/><div class='overlay'><p class='info'>Corpus Monodicum</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh031/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh031.png'/><div class='overlay'><p class='info'>Gesualdo Online</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh032/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh032.png'/><div class='overlay'><p class='info'>Lost Voices Project</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh033/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh033.png'/><div class='overlay'><p class='info'>Measuring Polyphony</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh036/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh036.png'/><div class='overlay'><p class='info'>Sarti Edition</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh037/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh037.png'/><div class='overlay'><p class='info'>Sounding Tennyson</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh038/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh038.png'/><div class='overlay'><p class='info'>Marenzio Online Digital Edition</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh040/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh040.png'/><div class='overlay'><p class='info'>Tasso in Music Project</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh042/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh042.png'/><div class='overlay'><p class='info'>Reger-Werkausgabe [Reger Editions]</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh043/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh043.png'/><div class='overlay'><p class='info'>Probstücke Digital</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh047/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh047.png'/><div class='overlay'><p class='info'>Digital Interactive Mozart Edition (DIME)</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh048/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh048.png'/><div class='overlay'><p class='info'>Josquin Research Project</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh058/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh058.png'/><div class='overlay'><p class='info'>Corpus Musicae Ottomanicae</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh073/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh073.png'/><div class='overlay'><p class='info'>Anton Webern Gesamtausgabe</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh132/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh132.png'/><div class='overlay'><p class='info'>Furnace and Fugue: A Digital Edition of Michael Maier’s Atalanta fugiens (1618)</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh142/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh142.png'/><div class='overlay'><p class='info'>Digital Splitleaf Psalter</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh147/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh147.png'/><div class='overlay'><p class='info'>Freischütz Digital</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh158/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh158.png'/><div class='overlay'><p class='info'>Carl Philipp Emanuel Bach: The Complete Works</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh160/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh160.png'/><div class='overlay'><p class='info'>Carl Maria von Weber Gesamtausgabe (WeGA)</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh164/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh164.png'/><div class='overlay'><p class='info'>Online Chopin Variorum Edition</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh182/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh182.png'/><div class='overlay'><p class='info'>Schenker Documents Online</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh206/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh206.png'/><div class='overlay'><p class='info'>Corpus of 15th-Century Anonymous Masses</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh207/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh207.png'/><div class='overlay'><p class='info'>Picardy Musical Heritage</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh208/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh208.png'/><div class='overlay'><p class='info'>Renaissance Music in Croatia</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh212/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh212.png'/><div class='overlay'><p class='info'>The Workshop of Virtual Polyphonic Reconstructions</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh228/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh228.png'/><div class='overlay'><p class='info'>Bellini Digital Correspondence</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh243/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh243.png'/><div class='overlay'><p class='info'>Poesía Medieval</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh245/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh245.png'/><div class='overlay'><p class='info'>Bernd Alois Zimmermann-Complete Edition</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh246/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh246.png'/><div class='overlay'><p class='info'>The Beggar’s Opera: A Site for Scholars, Performers, Teachers and Students</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh002/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh002.png' alt='Burns Antiphoner'/><div class='overlay'><p class='info'>Burns Antiphoner</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh021/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh021.png' alt='Richard Strauss: Works. Critical Edition – Online Platform'/><div class='overlay'><p class='info'>Richard Strauss: Works. Critical Edition – Online Platform</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh025/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh025.png' alt='Beethovens Werkstatt'/><div class='overlay'><p class='info'>Beethovens Werkstatt</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh027/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh027.png' alt='Corpus Monodicum'/><div class='overlay'><p class='info'>Corpus Monodicum</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh031/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh031.png' alt='Gesualdo Online'/><div class='overlay'><p class='info'>Gesualdo Online</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh032/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh032.png' alt='Lost Voices Project'/><div class='overlay'><p class='info'>Lost Voices Project</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh033/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh033.png' alt='Measuring Polyphony'/><div class='overlay'><p class='info'>Measuring Polyphony</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh036/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh036.png' alt='Sarti Edition'/><div class='overlay'><p class='info'>Sarti Edition</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh037/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh037.png' alt='Sounding Tennyson'/><div class='overlay'><p class='info'>Sounding Tennyson</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh038/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh038.png' alt='Marenzio Online Digital Edition'/><div class='overlay'><p class='info'>Marenzio Online Digital Edition</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh040/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh040.png' alt='Tasso in Music Project'/><div class='overlay'><p class='info'>Tasso in Music Project</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh042/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh042.png' alt='Reger-Werkausgabe [Reger Editions]'/><div class='overlay'><p class='info'>Reger-Werkausgabe [Reger Editions]</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh043/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh043.png' alt='Probstücke Digital'/><div class='overlay'><p class='info'>Probstücke Digital</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh047/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh047.png' alt='Digital Interactive Mozart Edition (DIME)'/><div class='overlay'><p class='info'>Digital Interactive Mozart Edition (DIME)</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh048/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh048.png' alt='Josquin Research Project'/><div class='overlay'><p class='info'>Josquin Research Project</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh058/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh058.png' alt='Corpus Musicae Ottomanicae'/><div class='overlay'><p class='info'>Corpus Musicae Ottomanicae</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh073/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh073.png' alt='Anton Webern Gesamtausgabe'/><div class='overlay'><p class='info'>Anton Webern Gesamtausgabe</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh132/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh132.png' alt='Furnace and Fugue: A Digital Edition of Michael Maier’s Atalanta fugiens (1618)'/><div class='overlay'><p class='info'>Furnace and Fugue: A Digital Edition of Michael Maier’s Atalanta fugiens (1618)</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh142/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh142.png' alt='Digital Splitleaf Psalter'/><div class='overlay'><p class='info'>Digital Splitleaf Psalter</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh147/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh147.png' alt='Freischütz Digital'/><div class='overlay'><p class='info'>Freischütz Digital</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh158/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh158.png' alt='Carl Philipp Emanuel Bach: The Complete Works'/><div class='overlay'><p class='info'>Carl Philipp Emanuel Bach: The Complete Works</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh160/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh160.png' alt='Carl Maria von Weber Gesamtausgabe (WeGA)'/><div class='overlay'><p class='info'>Carl Maria von Weber Gesamtausgabe (WeGA)</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh164/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh164.png' alt='Online Chopin Variorum Edition'/><div class='overlay'><p class='info'>Online Chopin Variorum Edition</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh182/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh182.png' alt='Schenker Documents Online'/><div class='overlay'><p class='info'>Schenker Documents Online</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh206/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh206.png' alt='Corpus of 15th-Century Anonymous Masses'/><div class='overlay'><p class='info'>Corpus of 15th-Century Anonymous Masses</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh207/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh207.png' alt='Picardy Musical Heritage'/><div class='overlay'><p class='info'>Picardy Musical Heritage</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh208/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh208.png' alt='Renaissance Music in Croatia'/><div class='overlay'><p class='info'>Renaissance Music in Croatia</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh212/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh212.png' alt='The Workshop of Virtual Polyphonic Reconstructions'/><div class='overlay'><p class='info'>The Workshop of Virtual Polyphonic Reconstructions</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh228/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh228.png' alt='Bellini Digital Correspondence'/><div class='overlay'><p class='info'>Bellini Digital Correspondence</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh243/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh243.png' alt='Poesía Medieval'/><div class='overlay'><p class='info'>Poesía Medieval</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh245/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh245.png' alt='Bernd Alois Zimmermann-Complete Edition'/><div class='overlay'><p class='info'>Bernd Alois Zimmermann-Complete Edition</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item edition all'><a href='http://localhost:4000/musicdh/musicdh/mdh246/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh246.png' alt='The Beggar’s Opera: A Site for Scholars, Performers, Teachers and Students'/><div class='overlay'><p class='info'>The Beggar’s Opera: A Site for Scholars, Performers, Teachers and Students</p></div></div></a></div>");
       
-    
-
-    
-      
-    
-  });
-</script>
+    });
+  </script>
 
 
 
@@ -226,8 +222,8 @@
           </a>
           
           
-          <a href="https://www.libraries.rutgers.edu/new-brunswick" aria-label="Logo link to resource">
-            <img src='http://localhost:4000/musicdh/img/ru_shield.png' alt="logo"/>
+          <a href="https://www.libraries.rutgers.edu/" aria-label="Logo link to resource">
+            <img src='http://localhost:4000/musicdh/img/RLIB_V_WHITE_BLACK_RGB.png' alt="logo"/>
           </a>
           
         </p>

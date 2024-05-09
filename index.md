@@ -5,7 +5,7 @@ show_title: false
 ---
 
 <div class='wax-parallax full-width top-banner'>
-  <div class='parallax-image' style="background-image: url('{{site.baseurl}}/img/montage.jpg'); background-position: 50%; height: 300px !important;"></div>
+  <div class='parallax-image' style="background-image: url('{{site.baseurl}}/img/montage.png'); background-position: 50%; height: 500px !important;"></div>
 
   <div class='parallax-caption'>
     <div class='wax-inline-container'>
@@ -17,6 +17,6 @@ show_title: false
 
 ## A Directory of Digital Scholarship in Music.
 
-Welcome. On this website, you can browse or search an open-source bibliography of specialized digital resources and born-digital scholarship in music. Here you may tour the world of digital humanities in music, loosely interpreted. The entries in this directory were compiled over a period of three years: 2018-2021. 
+Welcome. On this website, you can browse or search an open-source bibliography of specialized digital resources and born-digital scholarship in music. Here you may tour the world of digital humanities in music, loosely interpreted. The entries in this directory were compiled over a period of five years: 2018-2023.
 
-To learn more about the project, please consult our **[Frequently Asked Questions]({{site.baseurl}}/faq/)**, select **Browse** or **Search** on our navigation menu above, or simply begin exploring one item at a time by clicking on this **[link]({{'/musicdh/mdh001/'|absolute_url}})**.
+Select **Sections** in the navigation menu above for our curations by project genre. Alternatively, use **Browse** or **Search** to explore the collection, or simply start with one item at a time by clicking on this **[link]({{'/musicdh/mdh001/'|absolute_url}})**. To learn more about the project, please consult our **[Frequently Asked Questions]({{site.baseurl}}/faq/)**.

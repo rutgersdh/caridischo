@@ -5,4 +5,4 @@ gallery: True
 permalink: /browse/
 ---
 
-{% include gallery.html collection="musicdh" facet_by="musicdh_genre|status" num_column=4 %}
+{% include gallery.html collection="musicdh" facet_by="section|status" num_column=3 %}

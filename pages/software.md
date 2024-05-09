@@ -10,4 +10,4 @@ Specialized software is pervasive in all aspects of music research, teaching, co
 
 In no particular order... 
 
-{% include collection_gallery.html  collection='musicdh' facet_by='musicdh_genre' only='software' %}
+{% include collection_gallery.html  collection='musicdh' facet_by='section' only='software' %}

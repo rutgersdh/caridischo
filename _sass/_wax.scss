@@ -60,10 +60,15 @@ header & nav bar
     font-weight: 700;
     color: $accent-light;
     font-size: 2rem;
+
+    @media screen and (max-width: 768px) {
+      font-size: 1.6rem;
+    }
   }
 
-  .navbar-brand:hover {
+  .navbar-brand a:hover {
     color: $accent-dark !important;
+    text-decoration: none;
   }
 
   .navbar-toggler {
@@ -154,6 +159,17 @@ content section
   #wax-content {
     min-height: 40vh;
 
+    @media screen and (max-width: 460px) {
+      p {
+        font-size: 1rem;
+        line-height: 1.4rem;
+      }
+
+      h2 {
+        font-size: 1.6rem;
+      }
+    }
+
     .exhibit-meta {
       margin-bottom: $super-margin;
       .exhibit-author {
@@ -194,6 +210,17 @@ content section
   padding-bottom: 5rem;
   padding-top: 3rem;
   background-color: $neutral;
+
+  @media screen and (max-width: 460px) {
+    .row {
+      display: block;
+    }
+
+    .footer-title {
+      font-size: 1.2rem;
+    }
+  }
+
   col {
     flex-basis: 0;
     flex-shrink: 0;
@@ -439,6 +466,10 @@ search box
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-start;
+
+    .row {
+      flex-grow: 1;
+    }
 
     .gallery-item {
       padding: 0;

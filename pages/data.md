@@ -12,4 +12,4 @@ As we began adding projects to our list, it became apparent that an open data ca
 
 In no particular order...
 
-{% include collection_gallery.html  collection='musicdh' facet_by='musicdh_genre' only='data' %}
+{% include collection_gallery.html  collection='musicdh' facet_by='section' only='data' %}

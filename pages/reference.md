@@ -10,4 +10,4 @@ Reference works are an important and distinguishing feature of music study; one 
 
 In no particular order... 
 
-{% include collection_gallery.html  collection='musicdh' facet_by='musicdh_genre' only='reference' %}
+{% include collection_gallery.html  collection='musicdh' facet_by='section' only='reference' %}

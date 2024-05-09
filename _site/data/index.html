@@ -47,10 +47,10 @@
 
 
   <body>
-    <time datetime='2024-04-27 17:39'></time>
+    <time datetime='2024-05-09 09:46'></time>
     <nav id='wax-header' class='navbar navbar-expand-lg navbar-light'>
  <div class='wax-inline-container'>
-    <a class='navbar-brand' href="http://localhost:4000/musicdh/" title='Home'>Music DH <span class="year">2021</span></a>
+    <a class='navbar-brand' href="http://localhost:4000/musicdh/" title='Home'>Music DH <span class="year">2023</span></a>
 
     <button class='navbar-toggler' type='button' data-toggle='collapse' data-target='#wax-header-navbar' aria-controls='wax-header-navbar' aria-expanded='false' aria-label='navigation'>
       <span class='navbar-toggler-icon'></span>
@@ -133,46 +133,42 @@
 
 <p>In no particular order…</p>
 
-<div id="wax-gallery-musicdh-container" class="wax-gallery-container full-width">
+<div id="collection-musicdh-facet-by-section-only-data-container" class="wax-gallery-container full-width">
   <div class="wax-inline-container">
-    <div id="musicdh-facet-buttons" class="facet-buttons"></div>
-    <div id="wax-gallery-musicdh" class="wax-gallery"></div>
+    
+    <div id="collection-musicdh-facet-by-section-only-data-facet-buttons" class="facet-buttons"></div>
+    
+    <div id="wax-gallery-collection-musicdh-facet-by-section-only-data" class="wax-gallery"></div>
   </div>
 </div>
 
 <script type="text/javascript">
-  $( document ).ready(function() {
-    var container = $('#wax-gallery-musicdh-container');
-    var gallery = $('#wax-gallery-musicdh');
-    var buttonDiv = $('#musicdh-facet-buttons');
+    $( document ).ready(function() {
+      let container = $('#collection-musicdh-facet-by-section-only-data-container');
+      let gallery = $('#wax-gallery-collection-musicdh-facet-by-section-only-data');
+      let buttonDiv = $('#collection-musicdh-facet-by-section-only-data-facet-buttons');
 
-    
-      gallery.append("<div class='gallery-item data all'><a href='http://localhost:4000/musicdh/musicdh/mdh006/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh006.png'/><div class='overlay'><p class='info'>New York Philharmonic Leon Levy Digital Archives</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item data all'><a href='http://localhost:4000/musicdh/musicdh/mdh012/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh012.png'/><div class='overlay'><p class='info'>Women composers in MusicXML</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item data all'><a href='http://localhost:4000/musicdh/musicdh/mdh022/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh022.png'/><div class='overlay'><p class='info'>Rebalancing the Music Canon</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item data all'><a href='http://localhost:4000/musicdh/musicdh/mdh039/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh039.png'/><div class='overlay'><p class='info'>Musical Corpora Register</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item data all'><a href='http://localhost:4000/musicdh/musicdh/mdh045/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh045.png'/><div class='overlay'><p class='info'>Bach Chorales Multiple Chord Labels Dataset</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item data all'><a href='http://localhost:4000/musicdh/musicdh/mdh103/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh103.png'/><div class='overlay'><p class='info'>KernScores</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item data all'><a href='http://localhost:4000/musicdh/musicdh/mdh110/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh110.png'/><div class='overlay'><p class='info'>Yale-Classical Archives Corpus (YCAC)</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item data all'><a href='http://localhost:4000/musicdh/musicdh/mdh122/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh122.png'/><div class='overlay'><p class='info'>SongData</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item data all'><a href='http://localhost:4000/musicdh/musicdh/mdh124/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh124.png'/><div class='overlay'><p class='info'>Oud-Corpora/Chant Turcs MusicXML</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item data all'><a href='http://localhost:4000/musicdh/musicdh/mdh154/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh154.png'/><div class='overlay'><p class='info'>LITMUS (Linked Irish Traditional Music)</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item data all'><a href='http://localhost:4000/musicdh/musicdh/mdh162/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh162.png'/><div class='overlay'><p class='info'>Turkish Makam Music Symbolic Data Collection</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item data all'><a href='http://localhost:4000/musicdh/musicdh/mdh186/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh186.png'/><div class='overlay'><p class='info'>ELVIS Database</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item data all'><a href='http://localhost:4000/musicdh/musicdh/mdh188/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh188.png'/><div class='overlay'><p class='info'>Million Song Dataset</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item data all'><a href='http://localhost:4000/musicdh/musicdh/mdh198/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh198.png'/><div class='overlay'><p class='info'>BIPOC Canadian Composers</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item data all'><a href='http://localhost:4000/musicdh/musicdh/mdh200/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh200.png'/><div class='overlay'><p class='info'>Prices of Music at Breitkopf & Härtel: Publication Lists from the Intelligenz-blatt zur Allgemeine musikalische Zeitung</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item data all'><a href='http://localhost:4000/musicdh/musicdh/mdh214/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh214.png'/><div class='overlay'><p class='info'>Sacred Harp Minutes</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item data all'><a href='http://localhost:4000/musicdh/musicdh/mdh232/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh232.png'/><div class='overlay'><p class='info'>Statistics in Digital Musicology</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item data all'><a href='http://localhost:4000/musicdh/musicdh/mdh234/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh234.png'/><div class='overlay'><p class='info'>NADAC (National Archive of Data on Arts & Culture)</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item data all'><a href='http://localhost:4000/musicdh/musicdh/mdh006/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh006.png' alt='New York Philharmonic Leon Levy Digital Archives'/><div class='overlay'><p class='info'>New York Philharmonic Leon Levy Digital Archives</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item data all'><a href='http://localhost:4000/musicdh/musicdh/mdh012/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh012.png' alt='Women composers in MusicXML'/><div class='overlay'><p class='info'>Women composers in MusicXML</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item data all'><a href='http://localhost:4000/musicdh/musicdh/mdh022/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh022.png' alt='Rebalancing the Music Canon'/><div class='overlay'><p class='info'>Rebalancing the Music Canon</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item data all'><a href='http://localhost:4000/musicdh/musicdh/mdh039/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh039.png' alt='Musical Corpora Register'/><div class='overlay'><p class='info'>Musical Corpora Register</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item data all'><a href='http://localhost:4000/musicdh/musicdh/mdh045/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh045.png' alt='Bach Chorales Multiple Chord Labels Dataset'/><div class='overlay'><p class='info'>Bach Chorales Multiple Chord Labels Dataset</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item data all'><a href='http://localhost:4000/musicdh/musicdh/mdh103/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh103.png' alt='KernScores'/><div class='overlay'><p class='info'>KernScores</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item data all'><a href='http://localhost:4000/musicdh/musicdh/mdh110/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh110.png' alt='Yale-Classical Archives Corpus (YCAC)'/><div class='overlay'><p class='info'>Yale-Classical Archives Corpus (YCAC)</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item data all'><a href='http://localhost:4000/musicdh/musicdh/mdh122/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh122.png' alt='SongData'/><div class='overlay'><p class='info'>SongData</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item data all'><a href='http://localhost:4000/musicdh/musicdh/mdh124/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh124.png' alt='Oud-Corpora/Chant Turcs MusicXML'/><div class='overlay'><p class='info'>Oud-Corpora/Chant Turcs MusicXML</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item data all'><a href='http://localhost:4000/musicdh/musicdh/mdh154/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh154.png' alt='LITMUS (Linked Irish Traditional Music)'/><div class='overlay'><p class='info'>LITMUS (Linked Irish Traditional Music)</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item data all'><a href='http://localhost:4000/musicdh/musicdh/mdh162/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh162.png' alt='Turkish Makam Music Symbolic Data Collection'/><div class='overlay'><p class='info'>Turkish Makam Music Symbolic Data Collection</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item data all'><a href='http://localhost:4000/musicdh/musicdh/mdh186/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh186.png' alt='ELVIS Database'/><div class='overlay'><p class='info'>ELVIS Database</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item data all'><a href='http://localhost:4000/musicdh/musicdh/mdh188/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh188.png' alt='Million Song Dataset'/><div class='overlay'><p class='info'>Million Song Dataset</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item data all'><a href='http://localhost:4000/musicdh/musicdh/mdh198/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh198.png' alt='BIPOC Canadian Composers'/><div class='overlay'><p class='info'>BIPOC Canadian Composers</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item data all'><a href='http://localhost:4000/musicdh/musicdh/mdh200/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh200.png' alt='Prices of Music at Breitkopf &amp; Härtel: Publication Lists from the Intelligenz-blatt zur Allgemeine musikalische Zeitung'/><div class='overlay'><p class='info'>Prices of Music at Breitkopf &amp; Härtel: Publication Lists from the Intelligenz-blatt zur Allgemeine musikalische Zeitung</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item data all'><a href='http://localhost:4000/musicdh/musicdh/mdh214/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh214.png' alt='Sacred Harp Minutes'/><div class='overlay'><p class='info'>Sacred Harp Minutes</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item data all'><a href='http://localhost:4000/musicdh/musicdh/mdh232/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh232.png' alt='Statistics in Digital Musicology'/><div class='overlay'><p class='info'>Statistics in Digital Musicology</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item data all'><a href='http://localhost:4000/musicdh/musicdh/mdh234/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh234.png' alt='NADAC (National Archive of Data on Arts &amp; Culture'/><div class='overlay'><p class='info'>NADAC (National Archive of Data on Arts &amp; Culture</p></div></div></a></div>");
       
-    
-
-    
-      
-    
-  });
-</script>
+    });
+  </script>
 
 
 
@@ -214,8 +210,8 @@
           </a>
           
           
-          <a href="https://www.libraries.rutgers.edu/new-brunswick" aria-label="Logo link to resource">
-            <img src='http://localhost:4000/musicdh/img/ru_shield.png' alt="logo"/>
+          <a href="https://www.libraries.rutgers.edu/" aria-label="Logo link to resource">
+            <img src='http://localhost:4000/musicdh/img/RLIB_V_WHITE_BLACK_RGB.png' alt="logo"/>
           </a>
           
         </p>

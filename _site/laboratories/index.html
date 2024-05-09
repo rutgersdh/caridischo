@@ -47,10 +47,10 @@
 
 
   <body>
-    <time datetime='2024-04-27 17:39'></time>
+    <time datetime='2024-05-09 09:46'></time>
     <nav id='wax-header' class='navbar navbar-expand-lg navbar-light'>
  <div class='wax-inline-container'>
-    <a class='navbar-brand' href="http://localhost:4000/musicdh/" title='Home'>Music DH <span class="year">2021</span></a>
+    <a class='navbar-brand' href="http://localhost:4000/musicdh/" title='Home'>Music DH <span class="year">2023</span></a>
 
     <button class='navbar-toggler' type='button' data-toggle='collapse' data-target='#wax-header-navbar' aria-controls='wax-header-navbar' aria-expanded='false' aria-label='navigation'>
       <span class='navbar-toggler-icon'></span>
@@ -131,51 +131,47 @@
 
 <p>In no particular order…</p>
 
-<div id="wax-gallery-musicdh-container" class="wax-gallery-container full-width">
+<div id="collection-musicdh-facet-by-section-only-laboratories-container" class="wax-gallery-container full-width">
   <div class="wax-inline-container">
-    <div id="musicdh-facet-buttons" class="facet-buttons"></div>
-    <div id="wax-gallery-musicdh" class="wax-gallery"></div>
+    
+    <div id="collection-musicdh-facet-by-section-only-laboratories-facet-buttons" class="facet-buttons"></div>
+    
+    <div id="wax-gallery-collection-musicdh-facet-by-section-only-laboratories" class="wax-gallery"></div>
   </div>
 </div>
 
 <script type="text/javascript">
-  $( document ).ready(function() {
-    var container = $('#wax-gallery-musicdh-container');
-    var gallery = $('#wax-gallery-musicdh');
-    var buttonDiv = $('#musicdh-facet-buttons');
+    $( document ).ready(function() {
+      let container = $('#collection-musicdh-facet-by-section-only-laboratories-container');
+      let gallery = $('#wax-gallery-collection-musicdh-facet-by-section-only-laboratories');
+      let buttonDiv = $('#collection-musicdh-facet-by-section-only-laboratories-facet-buttons');
 
-    
-      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh011/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh011.png'/><div class='overlay'><p class='info'>Liturgical Cycles</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh023/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh023.png'/><div class='overlay'><p class='info'>The Natural History of Song</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh049/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh049.png'/><div class='overlay'><p class='info'>Chopin Mazurka Project</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh060/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh060.png'/><div class='overlay'><p class='info'>Visualizing Broadway</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh074/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh074.png'/><div class='overlay'><p class='info'>Dig That Lick: Analysing Large-Scale Data for Melodic Patterns in Jazz Performance</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh075/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh075.png'/><div class='overlay'><p class='info'>Phantom Islands</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh077/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh077.png'/><div class='overlay'><p class='info'>CRIM (Citations: The Renaissance Imitation Mass)</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh101/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh101.png'/><div class='overlay'><p class='info'>Hispamus</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh151/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh151.png'/><div class='overlay'><p class='info'>Digital Music Observatory</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh153/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh153.png'/><div class='overlay'><p class='info'>Connections in Sound</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh161/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh161.png'/><div class='overlay'><p class='info'>MuseData</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh163/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh163.png'/><div class='overlay'><p class='info'>The Serge Prokofiev Archive as Data</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh165/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh165.png'/><div class='overlay'><p class='info'>MeteoMozart</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh166/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh166.png'/><div class='overlay'><p class='info'>Mapping Sentiment through Music</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh168/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh168.png'/><div class='overlay'><p class='info'>Chance of Weather</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh169/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh169.png'/><div class='overlay'><p class='info'>Making Nerdstep Music as Archaeological Enchantment, or, How do you Connect with People Who Lived 3000 Years Ago?</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh172/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh172.png'/><div class='overlay'><p class='info'>Linked Jazz</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh176/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh176.png'/><div class='overlay'><p class='info'>The Global Jukebox</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh177/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh177.png'/><div class='overlay'><p class='info'>Every Noise at Once</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh178/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh178.png'/><div class='overlay'><p class='info'>The Pudding</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh216/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh216.png'/><div class='overlay'><p class='info'>Musicians in Venice: Identifying Networks through Documents</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh241/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh241.png'/><div class='overlay'><p class='info'>JazzDAP</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh242/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh242.png'/><div class='overlay'><p class='info'>Clausula Archive of the Notre Dame Repertory (CANDR)</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh011/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh011.png' alt='Liturgical Cycles'/><div class='overlay'><p class='info'>Liturgical Cycles</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh023/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh023.png' alt='The Natural History of Song'/><div class='overlay'><p class='info'>The Natural History of Song</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh049/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh049.png' alt='Chopin Mazurka Project'/><div class='overlay'><p class='info'>Chopin Mazurka Project</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh060/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh060.png' alt='Visualizing Broadway'/><div class='overlay'><p class='info'>Visualizing Broadway</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh074/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh074.png' alt='Dig That Lick: Analysing Large-Scale Data for Melodic Patterns in Jazz Performance'/><div class='overlay'><p class='info'>Dig That Lick: Analysing Large-Scale Data for Melodic Patterns in Jazz Performance</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh075/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh075.png' alt='Phantom Islands'/><div class='overlay'><p class='info'>Phantom Islands</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh077/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh077.png' alt='CRIM (Citations: The Renaissance Imitation Mass)'/><div class='overlay'><p class='info'>CRIM (Citations: The Renaissance Imitation Mass)</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh101/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh101.png' alt='Hispamus'/><div class='overlay'><p class='info'>Hispamus</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh151/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh151.png' alt='Digital Music Observatory'/><div class='overlay'><p class='info'>Digital Music Observatory</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh153/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh153.png' alt='Connections in Sound'/><div class='overlay'><p class='info'>Connections in Sound</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh161/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh161.png' alt='MuseData'/><div class='overlay'><p class='info'>MuseData</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh163/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh163.png' alt='The Serge Prokofiev Archive as Data'/><div class='overlay'><p class='info'>The Serge Prokofiev Archive as Data</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh165/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh165.png' alt='MeteoMozart'/><div class='overlay'><p class='info'>MeteoMozart</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh166/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh166.png' alt='Mapping Sentiment through Music'/><div class='overlay'><p class='info'>Mapping Sentiment through Music</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh168/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh168.png' alt='Chance of Weather'/><div class='overlay'><p class='info'>Chance of Weather</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh169/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh169.png' alt='Making Nerdstep Music as Archaeological Enchantment, or, How do you Connect with People Who Lived 3000 Years Ago?'/><div class='overlay'><p class='info'>Making Nerdstep Music as Archaeological Enchantment, or, How do you Connect with People Who Lived 3000 Years Ago?</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh172/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh172.png' alt='Linked Jazz'/><div class='overlay'><p class='info'>Linked Jazz</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh176/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh176.png' alt='The Global Jukebox'/><div class='overlay'><p class='info'>The Global Jukebox</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh177/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh177.png' alt='Every Noise at Once'/><div class='overlay'><p class='info'>Every Noise at Once</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh178/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh178.png' alt='The Pudding'/><div class='overlay'><p class='info'>The Pudding</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh216/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh216.png' alt='Musicians in Venice: Identifying Networks through Documents'/><div class='overlay'><p class='info'>Musicians in Venice: Identifying Networks through Documents</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh241/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh241.png' alt='JazzDAP'/><div class='overlay'><p class='info'>JazzDAP</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item laboratories all'><a href='http://localhost:4000/musicdh/musicdh/mdh242/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh242.png' alt='Clausula Archive of the Notre Dame Repertory (CANDR)'/><div class='overlay'><p class='info'>Clausula Archive of the Notre Dame Repertory (CANDR)</p></div></div></a></div>");
       
-    
-
-    
-      
-    
-  });
-</script>
+    });
+  </script>
 
 
 
@@ -217,8 +213,8 @@
           </a>
           
           
-          <a href="https://www.libraries.rutgers.edu/new-brunswick" aria-label="Logo link to resource">
-            <img src='http://localhost:4000/musicdh/img/ru_shield.png' alt="logo"/>
+          <a href="https://www.libraries.rutgers.edu/" aria-label="Logo link to resource">
+            <img src='http://localhost:4000/musicdh/img/RLIB_V_WHITE_BLACK_RGB.png' alt="logo"/>
           </a>
           
         </p>

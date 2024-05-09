@@ -85,7 +85,7 @@ search:
         fields: # the metadata fields to index
           - label
           - blurb
-          - musicdh_genre
+          - section
           - claimed_genre
           - status
           - creators
@@ -143,7 +143,7 @@ footer:
   logos:
     - img: '/img/mla_logo.png'
       link: 'https://www.musiclibraryassoc.org/'
-    - img: '/img/ru_shield.png'
-      link: 'https://www.libraries.rutgers.edu/new-brunswick'
+    - img: '/img/RLIB_V_WHITE_BLACK_RGB.png'
+      link: 'https://www.libraries.rutgers.edu/'
 
 # FIN

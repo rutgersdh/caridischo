@@ -47,10 +47,10 @@
 
 
   <body>
-    <time datetime='2024-04-27 17:39'></time>
+    <time datetime='2024-05-09 09:46'></time>
     <nav id='wax-header' class='navbar navbar-expand-lg navbar-light'>
  <div class='wax-inline-container'>
-    <a class='navbar-brand' href="http://localhost:4000/musicdh/" title='Home'>Music DH <span class="year">2021</span></a>
+    <a class='navbar-brand' href="http://localhost:4000/musicdh/" title='Home'>Music DH <span class="year">2023</span></a>
 
     <button class='navbar-toggler' type='button' data-toggle='collapse' data-target='#wax-header-navbar' aria-controls='wax-header-navbar' aria-expanded='false' aria-label='navigation'>
       <span class='navbar-toggler-icon'></span>
@@ -131,61 +131,57 @@
 
 <p>In no particular order…</p>
 
-<div id="wax-gallery-musicdh-container" class="wax-gallery-container full-width">
+<div id="collection-musicdh-facet-by-section-only-software-container" class="wax-gallery-container full-width">
   <div class="wax-inline-container">
-    <div id="musicdh-facet-buttons" class="facet-buttons"></div>
-    <div id="wax-gallery-musicdh" class="wax-gallery"></div>
+    
+    <div id="collection-musicdh-facet-by-section-only-software-facet-buttons" class="facet-buttons"></div>
+    
+    <div id="wax-gallery-collection-musicdh-facet-by-section-only-software" class="wax-gallery"></div>
   </div>
 </div>
 
 <script type="text/javascript">
-  $( document ).ready(function() {
-    var container = $('#wax-gallery-musicdh-container');
-    var gallery = $('#wax-gallery-musicdh');
-    var buttonDiv = $('#musicdh-facet-buttons');
+    $( document ).ready(function() {
+      let container = $('#collection-musicdh-facet-by-section-only-software-container');
+      let gallery = $('#wax-gallery-collection-musicdh-facet-by-section-only-software');
+      let buttonDiv = $('#collection-musicdh-facet-by-section-only-software-facet-buttons');
 
-    
-      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh009/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh009.png'/><div class='overlay'><p class='info'>music21</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh010/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh010.png'/><div class='overlay'><p class='info'>music21j</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh013/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh013.png'/><div class='overlay'><p class='info'>Aruspix</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh014/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh014.png'/><div class='overlay'><p class='info'>Ampact</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh015/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh015.png'/><div class='overlay'><p class='info'>Single Interface for Music Score Searching and Analysis (SIMSSA)</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh030/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh030.png'/><div class='overlay'><p class='info'>Enhancing Music Notation Addressability</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh034/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh034.png'/><div class='overlay'><p class='info'>meico: MEI Converter</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh035/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh035.png'/><div class='overlay'><p class='info'>OMR for Plainchant</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh050/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh050.png'/><div class='overlay'><p class='info'>Chant21</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh051/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh051.png'/><div class='overlay'><p class='info'>Digital Music Lab</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh057/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh057.png'/><div class='overlay'><p class='info'>Verovio</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh061/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh061.png'/><div class='overlay'><p class='info'>Small Tools for Agile Music Research (STAMR)</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh064/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh064.png'/><div class='overlay'><p class='info'>Telemeta</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh067/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh067.png'/><div class='overlay'><p class='info'>Serial Analyser</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh081/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh081.png'/><div class='overlay'><p class='info'>metaScore</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh082/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh082.png'/><div class='overlay'><p class='info'>SPEAR (Sinusoidal Partial Editing Analysis and Resynthesis)</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh084/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh084.png'/><div class='overlay'><p class='info'>J.P. Morgan Kids Digital Dance and Sound Project</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh085/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh085.png'/><div class='overlay'><p class='info'>MEAPsoft</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh086/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh086.png'/><div class='overlay'><p class='info'>PeRColate</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh087/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh087.png'/><div class='overlay'><p class='info'>RTcmix</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh104/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh104.png'/><div class='overlay'><p class='info'>Museinfo: Musical Information Programming in C++</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh106/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh106.png'/><div class='overlay'><p class='info'>Humdrum Extras</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh108/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh108.png'/><div class='overlay'><p class='info'>The Melisma Music Analyzer</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh125/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh125.png'/><div class='overlay'><p class='info'>jSymbolic</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh150/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh150.png'/><div class='overlay'><p class='info'>IncipitSearch</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh180/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh180.png'/><div class='overlay'><p class='info'>MerMEId – Metadata Editor and Repository for MEI Data</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh190/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh190.png'/><div class='overlay'><p class='info'>Augmented Notes</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh203/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh203.png'/><div class='overlay'><p class='info'>Audiveris</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh211/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh211.png'/><div class='overlay'><p class='info'>Partitura</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh224/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh224.png'/><div class='overlay'><p class='info'>mei-friend</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh229/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh229.png'/><div class='overlay'><p class='info'>AudiAnnotate</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh236/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh236.png'/><div class='overlay'><p class='info'>Beethoven in the House</p></div></div></a></div>");
-      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh244/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh244.png'/><div class='overlay'><p class='info'>Music Encoding and Linked Data (MELD)</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh009/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh009.png' alt='music21'/><div class='overlay'><p class='info'>music21</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh010/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh010.png' alt='music21j'/><div class='overlay'><p class='info'>music21j</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh013/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh013.png' alt='Aruspix'/><div class='overlay'><p class='info'>Aruspix</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh014/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh014.png' alt='Ampact'/><div class='overlay'><p class='info'>Ampact</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh015/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh015.png' alt='Single Interface for Music Score Searching and Analysis (SIMSSA)'/><div class='overlay'><p class='info'>Single Interface for Music Score Searching and Analysis (SIMSSA)</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh030/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh030.png' alt='Enhancing Music Notation Addressability'/><div class='overlay'><p class='info'>Enhancing Music Notation Addressability</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh034/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh034.png' alt='meico: MEI Converter'/><div class='overlay'><p class='info'>meico: MEI Converter</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh035/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh035.png' alt='OMR for Plainchant'/><div class='overlay'><p class='info'>OMR for Plainchant</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh050/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh050.png' alt='Chant21'/><div class='overlay'><p class='info'>Chant21</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh051/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh051.png' alt='Digital Music Lab'/><div class='overlay'><p class='info'>Digital Music Lab</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh057/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh057.png' alt='Verovio'/><div class='overlay'><p class='info'>Verovio</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh061/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh061.png' alt='Small Tools for Agile Music Research (STAMR)'/><div class='overlay'><p class='info'>Small Tools for Agile Music Research (STAMR)</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh064/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh064.png' alt='Telemeta'/><div class='overlay'><p class='info'>Telemeta</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh067/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh067.png' alt='Serial Analyser'/><div class='overlay'><p class='info'>Serial Analyser</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh081/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh081.png' alt='metaScore'/><div class='overlay'><p class='info'>metaScore</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh082/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh082.png' alt='SPEAR (Sinusoidal Partial Editing Analysis and Resynthesis)'/><div class='overlay'><p class='info'>SPEAR (Sinusoidal Partial Editing Analysis and Resynthesis)</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh084/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh084.png' alt='J.P. Morgan Kids Digital Dance and Sound Project'/><div class='overlay'><p class='info'>J.P. Morgan Kids Digital Dance and Sound Project</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh085/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh085.png' alt='MEAPsoft'/><div class='overlay'><p class='info'>MEAPsoft</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh086/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh086.png' alt='PeRColate'/><div class='overlay'><p class='info'>PeRColate</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh087/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh087.png' alt='RTcmix'/><div class='overlay'><p class='info'>RTcmix</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh104/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh104.png' alt='Museinfo: Musical Information Programming in C++'/><div class='overlay'><p class='info'>Museinfo: Musical Information Programming in C++</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh106/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh106.png' alt='Humdrum Extras'/><div class='overlay'><p class='info'>Humdrum Extras</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh108/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh108.png' alt='The Melisma Music Analyzer'/><div class='overlay'><p class='info'>The Melisma Music Analyzer</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh125/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh125.png' alt='jSymbolic'/><div class='overlay'><p class='info'>jSymbolic</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh150/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh150.png' alt='IncipitSearch'/><div class='overlay'><p class='info'>IncipitSearch</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh180/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh180.png' alt='MerMEId – Metadata Editor and Repository for MEI Data'/><div class='overlay'><p class='info'>MerMEId – Metadata Editor and Repository for MEI Data</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh190/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh190.png' alt='Augmented Notes'/><div class='overlay'><p class='info'>Augmented Notes</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh203/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh203.png' alt='Audiveris'/><div class='overlay'><p class='info'>Audiveris</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh211/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh211.png' alt='Partitura'/><div class='overlay'><p class='info'>Partitura</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh224/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh224.png' alt='mei-friend'/><div class='overlay'><p class='info'>mei-friend</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh229/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh229.png' alt='AudiAnnotate'/><div class='overlay'><p class='info'>AudiAnnotate</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh236/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh236.png' alt='Beethoven in the House'/><div class='overlay'><p class='info'>Beethoven in the House</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item software all'><a href='http://localhost:4000/musicdh/musicdh/mdh244/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='/musicdh/img/derivatives/banner/mdh244.png' alt='Music Encoding and Linked Data (MELD)'/><div class='overlay'><p class='info'>Music Encoding and Linked Data (MELD)</p></div></div></a></div>");
       
-    
-
-    
-      
-    
-  });
-</script>
+    });
+  </script>
 
 
 
@@ -227,8 +223,8 @@
           </a>
           
           
-          <a href="https://www.libraries.rutgers.edu/new-brunswick" aria-label="Logo link to resource">
-            <img src='http://localhost:4000/musicdh/img/ru_shield.png' alt="logo"/>
+          <a href="https://www.libraries.rutgers.edu/" aria-label="Logo link to resource">
+            <img src='http://localhost:4000/musicdh/img/RLIB_V_WHITE_BLACK_RGB.png' alt="logo"/>
           </a>
           
         </p>
